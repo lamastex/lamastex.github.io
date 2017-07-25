@@ -11,3 +11,15 @@ main:
      url: /cv/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+lMenu:
+  - title: LaMaStEx
+    children:
+      - title: "Contact"
+        url: /contact/
+      - title: "Research"
+        url: /research/
+      - title: "CV"
+        url: /cv/
+  - title: "scalable-data-science"
+    url: https://lamastex.github.io/scalable-data-science

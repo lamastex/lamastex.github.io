@@ -85,7 +85,7 @@ author:
   bio              : "I work at the interface of mathematics, computing and statistics to solve real-world problems through custom-built mathematical and statistical models."
   location         : "Uppsala, Sweden"
   email            : "raazesh.sainudiin@gmail.com"
-  uri              : "https://lamastex.github.io/"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -93,7 +93,7 @@ author:
   facebook         :
   foursquare       :
   github           : "lamastex"
-  gitlab           : "u/raazesh-sainudiin"
+  gitlab           :
   google_plus      : 
   keybase          :
   instagram        :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "raazozone"
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -256,8 +256,10 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      # author_profile: true
       share: true
+      sidebar:
+        nav: "lMenu"
   # _foo 
   - scope:
       path: ""

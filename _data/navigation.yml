@@ -7,5 +7,7 @@ main:
      url: /contact/
    - title: "Research"
      url: /research/
+   - title: "CV"
+     url: /research/
   # - title: "Sitemap"
   #   url: /sitemap/

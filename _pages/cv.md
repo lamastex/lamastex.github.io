@@ -7,6 +7,8 @@ author_profile: true
 
 <h2>Raazesh Sainudiin</h2>
 
+<p>See <a class="linkitem" href="/research/">Current list of all publications</a> and <a href="http://scholar.google.com/citations?user=QhWtb8oAAAAJ">Google Scholar</a>.</p>
+
 <h3> Professional Preparation </h3>
 <ol>
 <li>
@@ -170,7 +172,6 @@ author_profile: true
 </ul>
 </li>
 </ol>
-<p>See <a class="linkitem" href="/publications.shtml">Current list of all publications</a> and <a href="http://scholar.google.com/citations?user=QhWtb8oAAAAJ">Google Scholar</a>.</p>
 
 <h3> Service</h3>
 <ul>

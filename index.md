@@ -1,6 +1,9 @@
 ---
-layout: splash
+layout: home
 author_profile: true
-header:
-  image: assets/images/bg.png
 ---
+
+# Laboratory for Mathematical Statistical Experiments
+
+Welcome to LaMaStEx!
+ 

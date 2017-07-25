@@ -5,7 +5,7 @@ main:
      #url: https://mmistakes.github.io/minimal-mistakes/about/
    - title: "Contact"
      url: /contact/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+   - title: "Research"
+     url: /research/
   # - title: "Sitemap"
   #   url: /sitemap/

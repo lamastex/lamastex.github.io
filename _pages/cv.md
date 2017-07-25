@@ -24,17 +24,19 @@ author_profile: true
 1999: B.S. in Mathematics and Biology, Minnesota State University, Mankato, USA
 </li>
 </ol>
+
 <h3> Appointments, Awards and Honors </h3>
+
 <ol>
 <li>2017 Jan - : <a href="http://katalog.uu.se/profile/?id=N17-214">Researcher in Applied Mathematics and Statistics</a>, <a href="http://www.math.uu.se/">Department of Mathematics</a>, <a href="http://www.uu.se/">Uppsala University</a>, Uppsala, Sweden</li>
 <li>2017 Apr - : Data Science Consultant, <a href="https://combient.com">Combient AB</a>, Stockholm, Sweden</li>
 <li>2016 Sep - : Chief Analytics Officer and Co-founder, <a href="http://webintrinsics.io">WebIntrinsics.io</a>, Christchurch, New Zealand</li>
 <li>2016 Nov - Dec: Invited Professor, Research Chair in Mathematical Models of Biodiversity held by <a href="http://en.wikipedia.org/wiki/Veolia_Environnement">Veolia Environnement</a>, <a href="http://www.mnhn.fr/fr">French National Museum of Natural History</a>, Paris and <a href="http://www.cmap.polytechnique.fr/">Centre for Mathematics and its Applications, Ecole Polytechnique</a>, Palaiseau, France</li>
 <li>2012 - 2016: Senior Lecturer, <a href="http://www.math.canterbury.ac.nz/">School of Mathematics and Statistics, University of Canterbury, NZ</a></li>
-<li>2016 Jul - Aug: <a href="http://corcon.net/about/">CORCON</a> Gästforskare, <a href="http://www.math.su.se/english/">Matematiska institutionen, Stockholms Universitet, Stockholm, Sweden</a>
-<li>2015 Sep: <a href="http://corcon.net/about/">CORCON</a> Gästforskare, <a href="http://www.math.su.se/english/">Matematiska institutionen, Stockholms Universitet, Stockholm, Sweden</a>
-<li>2015 Jul - Dec: Principal Data Scientist with <a href="https://www.wynyardgroup.com/en/">Wynyard Group</a>'s Research and Development Team (on academic leave)</li>
-<li>2015 Jan - Jun: Intelligent Systems Specialist with <a href="https://www.wynyardgroup.com/en/">Wynyard Group</a>'s Research and Development Team (on academic leave)</li>
+<li>2016 Jul - Aug: <a href="http://corcon.net/about/">CORCON</a> Gästforskare, <a href="http://www.math.su.se/english/">Matematiska institutionen, Stockholms Universitet, Stockholm, Sweden</a></li>
+<li>2015 Sep: <a href="http://corcon.net/about/">CORCON</a> Gästforskare, <a href="http://www.math.su.se/english/">Matematiska institutionen, Stockholms Universitet, Stockholm, Sweden</a></li>
+<li>2015 Jul - Dec: Principal Data Scientist with Wynyard Group's Research and Development Team (on academic leave)</li>
+<li>2015 Jan - Jun: Intelligent Systems Specialist with Wynyard Group's Research and Development Team (on academic leave)</li>
 <li>2014 - 2017: One of four core constituents of a full partner institution on the project <a href="http://corcon.net/about/">CORCON: Correctness by Construction</a>, Seventh Framework Programme of the European Union, Marie Curie Actions-People, International Research Staff Exchange Scheme</li>
 <li>2014: Visiting Scholar, <a href="https://www.math.cornell.edu/">Department of Mathematics, Cornell University, Ithaca, NY, USA</a></li>
 <li>2013: Erskine Fellow, <a href="http://www.stats.ox.ac.uk/">Department of Statistics, University of Oxford, Oxford, UK</a></li>
@@ -65,6 +67,7 @@ author_profile: true
 1990: Junior Scientist of South India, South India Science Fair, Anantpur A.P., India
 </li>
 </ol>
+
 <h3> Selected Publications by Field</h3>
 <ol>
 <li>

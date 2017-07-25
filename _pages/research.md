@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Research at LaMaStEx is highly interdisciplinary.
-Please see [CV](/cv.md) for a bigger field-specific picture.
+Please see [CV](/cv/) for a field-specific picture.
 
 
 The full list of publications in peer-reviewed journals, conference proceedings as well as software contributions follows below.
@@ -81,7 +81,7 @@ The full list of publications in peer-reviewed journals, conference proceedings 
 
 <h3>Industrial and Governmental Contracts</h3>
 <ol reversed="" start="3">
-<li>"Nonparametric Self-Exciting Space-Time Point Process Model for Crime Risk Prediction", Raazesh Sainudiin, Statistical Consulting for <a href="https://www.wynyardgroup.com/en/">Wynyard Group</a>, Christchurch, NZ, UC Contract Number 14-02-007, 2014 (confidential)</li>
+<li>"Nonparametric Self-Exciting Space-Time Point Process Model for Crime Risk Prediction", Raazesh Sainudiin, Statistical Consulting for Wynyard Group, Christchurch, NZ, UC Contract Number 14-02-007, 2014 (confidential)</li>
 <li>"Intelligent Bidding Systems (Collaborative Filtering)", Raazesh Sainudiin (with Kourosh Neshantian), Ministry of Business Innovation and Employment (two year-long Capability Fellowships), Consulting for <a href="http://www.adscale.co.nz/">adScale Laboratories</a>, Christchurch, NZ, UC Contract Numbers E6075 and E6076, 2013-2014</li>
 <li>"Imputation Variance Estimation for Statistics New Zealand&#39;s Accommodation Occupancy Survey", Raazesh Sainudiin and Richard Penny, Statistical Consulting Report Prepared for The New Zealand Ministry of Tourism, Resource Centre 36, Sub-Project 5050300, p. 1-25, 2009  (<a class="linkitem" href="http://lamastex.org/preprints/MOTImputationReport.pdf">PDF</a> 936KB)</li>
 

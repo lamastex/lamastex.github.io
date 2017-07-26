@@ -2,10 +2,16 @@
 layout: single
 title: Research
 permalink: /research/
-author_profile: false
+author_profile: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/mathematics-327488-1600x524.png
+  caption: 
+excerpt: 'At the interface of mathematics, computing and statistics.<br /><br /><br />'
 ---
 
-Research at LaMaStEx is highly interdisciplinary.
+Research at LaMaStEx is at the interdisciplinary interface of mathematics, computing and statistics. 
+We use computer arithmetic and combinatorial data-structures through custom-built mathematical and statistical models to rigorously solve numerical optimization and simulation problems that arise in statistical decision-making from real-world data.
 Please see [CV](/cv/) for a field-specific picture.
 
 

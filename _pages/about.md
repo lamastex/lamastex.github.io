@@ -1,8 +1,13 @@
 ---
 layout: single
-title: About
+title: About LaMaStEx
 permalink: /about/
 author_profile: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/DISP-lamastex-1600x524.jpg
+  caption: 
+excerpt: 'A laboratory for mathematical statistical experiments.<br /><br /><br />'
 ---
 
 LaMaStEx is a laboratory for mathematical statistical experiments that is coordinated by Raazesh Sainudiin.

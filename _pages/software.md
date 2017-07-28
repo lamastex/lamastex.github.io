@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/matrix-1799661-1600x524.jpg
+  overlay_image: /assets/images/DISP-software-1600x524.jpg
   caption: 
 excerpt: 'for Mathematical Statistical Experiments.<br /><br /><br />'
 ---

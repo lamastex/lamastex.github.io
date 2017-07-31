@@ -18,11 +18,11 @@ lMenu:
   - title: "Research"
     url: /research/
     children:
-      - title: "Publications"
-        url: /publications/
       - title: "CV"
         url: /cv/
       - title: "Students"
         url: /students/
+      - title: "Publications"
+        url: /publications/
   - title: "Scalable Data Science"
     url: https://lamastex.github.io/scalable-data-science

@@ -53,7 +53,9 @@ Currently there are no PhD students as primary supervisees.
 
 ### Masters Students
 
-15. 2017, MS Appled Mathematics, Joakim Johansson - (Senior Supervisor)
+<ol reversed="" start="15">
+<li>2017, MS Appled Mathematics, Joakim Johansson - (Senior Supervisor)</li>
+</ol>
 
 
 Former Students 
@@ -61,62 +63,64 @@ Former Students
 
 ### At University of Canterbury, Christchurch, NZ
 
-14.  2016-2017, MSc Computational and Applied Mathematical Science, Rania
-    Sahioun - (Co-Supervisor)
-13.  2014-2015, MSc Computational and Applied Mathematical Science,
+<ol reversed="">
+  <li>2016-2017, MSc Computational and Applied Mathematical Science, Rania
+    Sahioun - (Co-Supervisor)</li>
+  <li>2014-2015, MSc Computational and Applied Mathematical Science,
     Jasper McKenzie - (Senior Supervisor). Jasper was awarded a
     Callaghan Career Award and took a permanent position as a Data
-    Scientist in Telstra New Zealand's Research and Development
-    team, Christchurch. NZ.
-12.  2013-2014, MSc Computational and Applied Mathematical Science, Alan
-    Williams - (Senior Supervisor). Joined a local IT company.
-11.  2014, PhD Computational and Applied Mathematics, Steve Manion - 
+    Scientist in Telstra New Zealand’s Research and Development
+    team, Christchurch. NZ.</li>
+  <li>2013-2014, MSc Computational and Applied Mathematical Science, Alan
+    Williams - (Senior Supervisor). Joined a local IT company.</li>
+  <li>2014, PhD Computational and Applied Mathematics, Steve Manion - 
     Unsupervised Knowledge-based Word
     Sense Disambiguation: Exploration and Evaluation of Semantic
     Subgraphs (Senior Supervisor). Steve won a Callaghan Career Award
-    and took a permanent position as Data Scientist in Telstra New Zealand's
-    Research and Development team, Christchurch. NZ.
-10.  2014, PhD Mechanical Engineering, Hamid Asgari - Modelling and
+    and took a permanent position as Data Scientist in Telstra New Zealand’s
+    Research and Development team, Christchurch. NZ.</li>
+  <li>2014, PhD Mechanical Engineering, Hamid Asgari - Modelling and
     Control of Industrial Power Plant Gas Turbines Using Artificial
-    Neural Networks (Co-supervisor).
-09.  2014, MSc Mathematics with Distinction, Connor Robinson-Arnull - A
+    Neural Networks (Co-supervisor).</li>
+  <li>2014, MSc Mathematics with Distinction, Connor Robinson-Arnull - A
     confidence-weighted temporal approach to recommender systems
     (Senior Supervisor). Connor joined a PhD Program in Pure and Applied
     Logic (PAL) at Carnegie Mellon University, Pittsburg, PA, USA in
-    2014
-08.  2013, MSc Statistics with Distinction, Irene Van Woerden - A
+    2014</li>
+  <li>2013, MSc Statistics with Distinction, Irene Van Woerden - A
     statistical investigation of the risk factors for
     tuberculosis (Co-supervisor). 1) Irene joined Pagasus Health,
     Christchurch, NZ, as an information analyst in 2013 and (2) then
     joined a PhD program in Statistics at Arizona State University,
-    Tempe in 2014.
-07.  2013, MSc Statistics with Distinction, Jennifer Harlow -
+    Tempe in 2014.</li>
+  <li>2013, MSc Statistics with Distinction, Jennifer Harlow -
     Data-Adaptive Multivariate Density Estimation Using Regular Pavings,
     With Applications to Simulation-Intensive Inference
     (Senior Supervisor). Jennifer joined the School of Mathematics and
     Statistics, University of Canterbury, Christchurch, NZ, as a Senior
-    Academic Tutor.
-06.  2013, PhD Statistics, Gloria Teng - Density Estimation with
+    Academic Tutor.</li>
+  <li>2013, PhD Statistics, Gloria Teng - Density Estimation with
     Statistical Regular Pavings (Senior Supervisor). Joined University
     Tunku Abdul Rahman, Kuala Lumpur, Malaysia as Lecturer in
-    Data Mining.
-05.  2011, BSc Honours, Nuradilla Azhari - Exact transdimensional
+    Data Mining.</li>
+  <li>2011, BSc Honours, Nuradilla Azhari - Exact transdimensional
     estimation of primate genetrees. High-school Maths and Stats Teacher
-    in Malaysis.
-04. 2009-2010: Thomas Steinke - [A Rigorous Extension of the
-    Schönhage-Strassen Integer Multiplication Algorithm Using Complex
-    Interval Arithmetic](http://arxiv.org/abs/1006.0405v1),
-    Thomas Steinke and Raazesh Sainudiin, June 3, 2010, [EPTCS 24 Proceedings Seventh International Conference on Computability and Complexity in Analysis](http://arxiv.org/html/1006.0551),
-    Zhenjiang, China, 21-25th June 2010
-    ([preprint](http://lamastex.org/preprints/ComplexIntMulCCA2010.pdf)).
-    Thomas gave a [Talk at CCA2010](http://lamastex.org/talks/SteinkeSainudiinCCA2010Slides.pdf).
-    Thomas joined a PhD program in Computer Science at Harvard
-    University, Cambridge, Massachusetts, USA.
-03. 2009-2010: Josh Collins - Statistical Classification of
-    Medical Images. Joined Maths PhD Program at Massey University,
-    Palmerston North, New Zealand.
-02. 2008-2009: Piers Lawrence - UC Summer Scholar on [A Mechatronically Measurable Double Pendulum](http://lamaste.org/lmse/double-pendulum/). Joined Applied
-    Maths PhD Program at University of Western Ontario, London, Canada.
-01. 2007-2008: Bry Ashman - programming for [Galton’s Septcunx, a Visual Cognitive Tool GUI](http://lamaste.org/lmse/quinseptcunx/). Joined
-    IP Traffic Analysis Team in local industry.
+    in Malaysis.</li>
+  <li>2009-2010: Thomas Steinke - <a href="http://arxiv.org/abs/1006.0405v1">A Rigorous Extension of the
+Schönhage-Strassen Integer Multiplication Algorithm Using Complex
+Interval Arithmetic</a>,
+Thomas Steinke and Raazesh Sainudiin, June 3, 2010, <a href="http://arxiv.org/html/1006.0551">EPTCS 24 Proceedings Seventh International Conference on Computability and Complexity in Analysis</a>,
+Zhenjiang, China, 21-25th June 2010
+(<a href="http://lamastex.org/preprints/ComplexIntMulCCA2010.pdf">preprint</a>).
+Thomas gave a <a href="http://lamastex.org/talks/SteinkeSainudiinCCA2010Slides.pdf">Talk at CCA2010</a>.
+Thomas joined a PhD program in Computer Science at Harvard
+University, Cambridge, Massachusetts, USA.</li>
+  <li>2009-2010: Josh Collins - Statistical Classification of
+Medical Images. Joined Maths PhD Program at Massey University,
+Palmerston North, New Zealand.</li>
+  <li>2008-2009: Piers Lawrence - UC Summer Scholar on <a href="http://lamaste.org/lmse/double-pendulum/">A Mechatronically Measurable Double Pendulum</a>. Joined Applied
+Maths PhD Program at University of Western Ontario, London, Canada.</li>
+  <li>2007-2008: Bry Ashman - programming for <a href="http://lamaste.org/lmse/quinseptcunx/">Galton’s Septcunx, a Visual Cognitive Tool GUI</a>. Joined
+IP Traffic Analysis Team in local industry.</li>
+</ol>
 

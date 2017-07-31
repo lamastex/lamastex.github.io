@@ -2,7 +2,7 @@
 I did the following changes to [https://github.com/mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) displayed at [https://mmistakes.github.io/minimal-mistakes/](https://mmistakes.github.io/minimal-mistakes/) 
 in my fork at [https://github.com/lamastex/lamastex.github.io](https://github.com/lamastex/lamastex.github.io) displayed at [https://lamastex.github.io/](https://lamastex.github.io/).
 
-### To allows logo to be displayed with site-title
+### To allow logo to be displayed with site-title
 0. used inkscape to make a SVG image for te logo - make it square with width=height
 1. renamed '.site-title' to '.site-title-old' in '_sass/minimal-mistakes/_masthead.scss' in case you need it later.
 2. copied the '.site-title' and '.site-logo' containing file: 

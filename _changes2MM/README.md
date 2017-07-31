@@ -1,5 +1,6 @@
-
-Raaz did the following changes to minimal-mistakes 
+# Changes to Minimal Mistakes for LaMaStEx
+I did the following changes to [https://github.com/mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) displayed at [https://mmistakes.github.io/minimal-mistakes/](https://mmistakes.github.io/minimal-mistakes/) 
+in my fork at [https://github.com/lamastex/lamastex.github.io](https://github.com/lamastex/lamastex.github.io) displayed at [https://lamastex.github.io/](https://lamastex.github.io/).
 
 ### To allows logo to be displayed with site-title
 0. used inkscape to make a SVG image for te logo - make it square with width=height
@@ -51,3 +52,6 @@ $site-image-height: 50px !default;
 ```
 logo                     : "/assets/images/site-logo01BallOnly40x40.svg"
 ```
+
+If you find a better way please communicate it by twitter to '@raazozone'.
+

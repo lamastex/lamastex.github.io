@@ -105,14 +105,14 @@ Former Students
     in Malaysis.
 04. 2009-2010: Thomas Steinke - [A Rigorous Extension of the
     Schönhage-Strassen Integer Multiplication Algorithm Using Complex
-    Interval Arithmetic](http://arxiv.org/abs/1006.0405v1){.linkitem},
+    Interval Arithmetic](http://arxiv.org/abs/1006.0405v1),
     Thomas Steinke and Raazesh Sainudiin, June 3, 2010, [EPTCS 24
     Proceedings Seventh International Conference on Computability and
-    Complexity in Analysis](http://arxiv.org/html/1006.0551){.linkitem},
+    Complexity in Analysis](http://arxiv.org/html/1006.0551),
     Zhenjiang, China, 21-25th June 2010
-    ([preprint](http://lamastex.org/preprints/ComplexIntMulCCA2010.pdf){.linkitem}).
+    ([preprint](http://lamastex.org/preprints/ComplexIntMulCCA2010.pdf)).
     Thomas gave a [Talk at
-    CCA2010](http://lamastex.org/talks/SteinkeSainudiinCCA2010Slides.pdf){.linkitem}.
+    CCA2010](http://lamastex.org/talks/SteinkeSainudiinCCA2010Slides.pdf).
     Thomas joined a PhD program in Computer Science at Harvard
     University, Cambridge, Massachusetts, USA.
 03. 2009-2010: Josh Collins - Statistical Classification of

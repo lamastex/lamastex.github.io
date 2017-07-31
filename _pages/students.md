@@ -106,23 +106,17 @@ Former Students
 04. 2009-2010: Thomas Steinke - [A Rigorous Extension of the
     Schönhage-Strassen Integer Multiplication Algorithm Using Complex
     Interval Arithmetic](http://arxiv.org/abs/1006.0405v1),
-    Thomas Steinke and Raazesh Sainudiin, June 3, 2010, [EPTCS 24
-    Proceedings Seventh International Conference on Computability and
-    Complexity in Analysis](http://arxiv.org/html/1006.0551),
+    Thomas Steinke and Raazesh Sainudiin, June 3, 2010, [EPTCS 24 Proceedings Seventh International Conference on Computability and Complexity in Analysis](http://arxiv.org/html/1006.0551),
     Zhenjiang, China, 21-25th June 2010
     ([preprint](http://lamastex.org/preprints/ComplexIntMulCCA2010.pdf)).
-    Thomas gave a [Talk at
-    CCA2010](http://lamastex.org/talks/SteinkeSainudiinCCA2010Slides.pdf).
+    Thomas gave a [Talk at CCA2010](http://lamastex.org/talks/SteinkeSainudiinCCA2010Slides.pdf).
     Thomas joined a PhD program in Computer Science at Harvard
     University, Cambridge, Massachusetts, USA.
 03. 2009-2010: Josh Collins - Statistical Classification of
     Medical Images. Joined Maths PhD Program at Massey University,
     Palmerston North, New Zealand.
-02. 2008-2009: Piers Lawrence - UC Summer Scholar on [A Mechatronically
-    Measurable Double
-    Pendulum](http://lamaste.org/lmse/double-pendulum/). Joined Applied
+02. 2008-2009: Piers Lawrence - UC Summer Scholar on [A Mechatronically Measurable Double Pendulum](http://lamaste.org/lmse/double-pendulum/). Joined Applied
     Maths PhD Program at University of Western Ontario, London, Canada.
-01. 2007-2008: Bry Ashman - programming for [Galton’s Septcunx, a Visual
-    Cognitive Tool GUI](http://lamaste.org/lmse/quinseptcunx/). Joined
+01. 2007-2008: Bry Ashman - programming for [Galton’s Septcunx, a Visual Cognitive Tool GUI](http://lamaste.org/lmse/quinseptcunx/). Joined
     IP Traffic Analysis Team in local industry.
 

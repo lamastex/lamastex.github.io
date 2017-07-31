@@ -64,3 +64,31 @@ logo                     : "/assets/images/site-logo01BallOnly40x40.svg"
 
 If you find a better way please communicate it by twitter to '@raazozone'.
 
+### Make index.md at root level 
+But with home layout that is actually splash. 
+This is to get around pagination issues
+
+```
+$ pwd
+PATH_TO_LOCAL_GIT_REPO/lamastex.github.io
+
+$ cp _layouts/home.html _layouts/old-home.html
+
+$ cp _layouts/splash.html _layouts/home.html 
+
+$ head index.md 
+---
+layout: home
+permalink: /
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/DISP-lamastex-1600x524.jpg
+  caption: 
+excerpt: 'Welcome to LaMaStEx, a laboratory for mathematical statistical experiments.<br /><br /><br />'
+feature_row:
+  - image_path: /assets/images/DISP-research-500x300.jpg
+...
+...
+...
+```
+

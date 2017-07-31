@@ -10,6 +10,7 @@ in my fork at [https://github.com/lamastex/lamastex.github.io](https://github.co
 
 2. copied the '.site-title' and '.site-logo' containing file: 
   * [https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/docs/_sass/basically-basic/_global.scss](https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/docs/_sass/basically-basic/_global.scss)
+
 to '_sass/minimal-mistakes/_global.scss'
 
 3. added these variable to _variables.scss

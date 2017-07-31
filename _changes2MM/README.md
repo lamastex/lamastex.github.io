@@ -17,7 +17,7 @@ in my fork at [https://github.com/lamastex/lamastex.github.io](https://github.co
 
 ```
 
-2. added these variable to _variables.scss
+2. added these variable to _variables.scss (make this 30px or smaller depending on your log SVG or PNG image for site.logo you will add in step 4 below):
 ```
 $site-image-width: 50px !default;
 $site-image-height: 50px !default;

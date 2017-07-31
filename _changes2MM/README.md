@@ -6,19 +6,24 @@ in my fork at [https://github.com/lamastex/lamastex.github.io](https://github.co
 
 0. used inkscape to make a SVG image for te logo - make it square with width=height
 
-1. renamed '.site-title' to '.site-title-old' in '_sass/minimal-mistakes/_masthead.scss' in case you need it later.
+1. add the following to '_sass/minimal-mistakes/_masthead.scss' after the '.site.title{...}' 
+```
+.site-logo {
+  width: $site-image-width;
+  height: $site-image-height;
+  margin-right: 0.5rem;
+  border-radius: 50%;
+}
 
-2. copied the '.site-title' and '.site-logo' containing file: 
-  * [https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/docs/_sass/basically-basic/_global.scss](https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/docs/_sass/basically-basic/_global.scss)
-to '_sass/minimal-mistakes/_global.scss'
+```
 
-3. added these variable to _variables.scss
+2. added these variable to _variables.scss
 ```
 $site-image-width: 50px !default;
 $site-image-height: 50px !default;
 ```
 
-4. replace with
+3. replace '_includes/masthead.html' with
 ```
 {% if site.logo contains '://' %}
   {% assign site_logo = site.logo %}
@@ -52,7 +57,7 @@ $site-image-height: 50px !default;
 </div>
 ```
 
-5. add the following line to '_config.yml'
+4. add the following line to '_config.yml'
 ```
 logo                     : "/assets/images/site-logo01BallOnly40x40.svg"
 ```

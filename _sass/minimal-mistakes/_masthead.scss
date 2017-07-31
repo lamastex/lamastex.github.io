@@ -35,7 +35,7 @@
   }
 }
 
-.site-title-old {
+.site-title {
   display: -webkit-box;
   display: flex;
   padding: 0.5rem 0;
@@ -44,6 +44,13 @@
         align-items: center;
   font-weight: bold;
   z-index: 20;
+}
+
+.site-logo {
+  width: $site-image-width;
+  height: $site-image-height;
+  margin-right: 0.5rem;
+  border-radius: 50%;
 }
 
 .masthead__menu {

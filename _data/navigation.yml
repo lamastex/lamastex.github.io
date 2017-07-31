@@ -7,8 +7,6 @@ main:
      url: /contact/
    - title: "Research"
      url: /research/
-   - title: "CV"
-     url: /cv/
   # - title: "Sitemap"
   #   url: /sitemap/
 
@@ -17,9 +15,14 @@ lMenu:
     children:
       - title: "Contact"
         url: /contact/
-      - title: "Research"
-        url: /research/
+  - title: "Research"
+    url: /research/
+    children:
+      - title: "Publications"
+        url: /publications/
       - title: "CV"
         url: /cv/
-  - title: "scalable-data-science"
+      - title: "Students"
+        url: /students/
+  - title: "Scalable Data Science"
     url: https://lamastex.github.io/scalable-data-science

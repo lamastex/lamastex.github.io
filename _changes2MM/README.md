@@ -76,7 +76,7 @@ $ cp _layouts/home.html _layouts/old-home.html
 
 $ cp _layouts/splash.html _layouts/home.html 
 
-$ head index.md 
+$ head index.html 
 ---
 layout: home
 permalink: /

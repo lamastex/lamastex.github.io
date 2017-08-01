@@ -7,10 +7,10 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/DISP-research-1600x524.jpg
   caption: 
-excerpt: 'At the interface of mathematics, computing and statistics.<br /><br /><br />'
+excerpt: 'At the interface of computing, mathematics and statistics.<br /><br /><br />'
 ---
 
-Research at LaMaStEx is at the interdisciplinary interface of mathematics, computing and statistics. 
+Research at LaMaStEx is at the interdisciplinary interface of computing, mathematics and statistics. 
 We use computer arithmetic and combinatorial data-structures through custom-built mathematical and statistical models to rigorously solve numerical optimization and simulation problems that arise in statistical decision-making from real-world data.
 
 Please see [CV](/cv/) for a field-specific picture.

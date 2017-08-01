@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Raazesh Sainudiin"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I work at the interface of mathematics, computing and statistics to solve real-world problems through custom-built mathematical and statistical models."
+  bio              : "I work at the interface of computing, mathematics and statistics to solve real-world problems through custom-built mathematical and statistical models."
   location         : "Uppsala, Sweden"
   email            : "raazesh.sainudiin@gmail.com"
   uri              :

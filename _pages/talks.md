@@ -7,7 +7,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/DISP-research-1600x524.jpg
   caption: 
-excerpt: 'At the interface of mathematics, computing and statistics.<br /><br /><br />'
+excerpt: 'At the interface of computing, mathematics and statistics.<br /><br /><br />'
 ---
 
 

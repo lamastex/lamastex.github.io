@@ -12,7 +12,7 @@ excerpt: 'A laboratory for mathematical statistical experiments.<br /><br /><br 
 
 LaMaStEx is a laboratory for mathematical statistical experiments that is coordinated by Raazesh Sainudiin.
 
-At LaMaStEx, we work at the interface of mathematics, computing and statistics. 
+At LaMaStEx, we work at the interface of computing, mathematics and statistics. 
 This interdisciplinary research aims broadly to use computers to solve real-world problems.
 
 ### More Details

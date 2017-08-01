@@ -7,7 +7,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/DISP-research-1600x524.jpg
   caption: 
-excerpt: 'Researching at the interface of mathematics, computing and statistics.<br /><br /><br />'
+excerpt: 'Researching at the interface of computing, mathematics and statistics.<br /><br /><br />'
 ---
 
 Several students have completed their advanced degrees under the supervision of Raazesh Sainudiin. 

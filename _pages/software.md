@@ -26,7 +26,8 @@ excerpt: 'for Mathematical Statistical Experiments.<br /><br /><br />'
 
 * [LCE: A C++ Class Library for Lumped Coalescent Experiments](https://github.com/lamastex/lce)
 
-* All of our [GitHub repositories](https://github.com/lamastex?tab=repositories). 
+
+### All of our [GitHub repositories](https://github.com/lamastex?tab=repositories). 
  
 
 

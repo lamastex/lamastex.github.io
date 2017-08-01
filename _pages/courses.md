@@ -10,9 +10,7 @@ header:
 excerpt: 'in Mathematics, Statistics, Computing and Data Science.<br /><br /><br />'
 ---
 
-## LaMaStEx Courses 
-
-### Teaching/training/education projects at LaMaStEx
+## Courses 
 
 Current teaching/learning materials developed under [Unlicense](https://en.wikipedia.org/wiki/Unlicense), [Creative Commons Attribution-Noncommercial-Share Alike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) or [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0) are listed below.
 

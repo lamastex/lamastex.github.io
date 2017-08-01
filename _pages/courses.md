@@ -32,7 +32,7 @@ Current teaching/learning materials developed under [Unlicense](https://en.wikip
     * forkable open source in [GitHub](https://github.com/lamastex/computational-statistical-experiments/tree/master/sageMath/MonteCarloMethods)
     * [YouTube-playlist](https://www.youtube.com/playlist?list=PL4DDB9E61C36E6DE6)
 
-* See courses taught from 2007-2016 at the [Course Archive](http://lamastex.org/coursesAtUCIlamNZ/). 
+* See courses taught from 2007-2016 at the [Course Archive](http://lamastex.org/coursesAtUCIlamNZ.shtml). 
  
 
 

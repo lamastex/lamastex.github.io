@@ -103,7 +103,7 @@ author_profile: true
 <li>
 <strong>Mathematical and Statistical Epidemiology</strong>
 <ul>
-<li>The Transmission Process: A Combinatorial Stochastic Process for the Evolution of Transmission Trees over Networks, Raazesh Sainudiin and David Welch, Journal of Theoretical Biology, Volume 410, Pages 137–170, <a class="linkitem" href="http://dx.doi.org/10.1016/j.jtbi.2016.07.038">10.1016/j.jtbi.2016.07.038</a>, 2016. See research project: <a class="linkitem" href="http://lamastex.org/lmse/mep/">Meme Evolution Programme</a></li>
+<li>The Transmission Process: A Combinatorial Stochastic Process for the Evolution of Transmission Trees over Networks, Raazesh Sainudiin and David Welch, Journal of Theoretical Biology, Volume 410, Pages 137–170, <a class="linkitem" href="http://dx.doi.org/10.1016/j.jtbi.2016.07.038">10.1016/j.jtbi.2016.07.038</a>, 2016. See research project: <a class="linkitem" href="https://lamastex.github.io/scalable-data-science/sds/research/mep/">Meme Evolution Programme</a></li>
 </ul>
 </li>
 <li>

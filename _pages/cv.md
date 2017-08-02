@@ -142,7 +142,7 @@ author_profile: true
 <strong>Applications in Biology (Population Genetics and Molecular Evolution)</strong>
 <ul>
 <li>A Beta-Splitting Model for Evolutionary Trees, Raazesh Sainudiin and Amandine V&eacute;ber, <a class="linkitem" href="http://dx.doi.org/10.1098/rsos.160016">Royal Society Open Science 3: 160016</a>, 2016</li>
-<li>Human-assisted spread of maladaptive behavior in a critically endangered bird, Melanie Massaro, Raazesh Sainudiin, Don Merton, James V. Briskie, Anthony M. Poole and Marie L. Hale, <a class="linkitem" href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0079066">PLoS ONE 8(12): e79066 DOI: 10.1371/journal.pone.0079066</a>, 2013 (<a class="linkitem" href="http://lamastex.org/preprints/plos_br_preprint.pdf">PDF of preprint</a> 6712KB, In News: <a class="linkitem" href="http://phenomena.nationalgeographic.com/2014/01/02/in-saving-a-species-you-might-accidentally-doom-it/">National Geographic Online</a>, <a class="linkitem" href="http://www.audubonmagazine.org/articles/birds/black-robin-conundrum-what-happens-when-humans-move-eggs-nest">Audobon Magazine</a>, <a class="linkitem" href="http://www.newscientist.com/article/mg22229640.700-killing-with-kindness-conservations-cautionary-tale.html">New Scientist</a> <a class="linkitem" href="News/2014_BlackRobin_NewScientist.pdf">.</a>)</li>
+<li>Human-assisted spread of maladaptive behavior in a critically endangered bird, Melanie Massaro, Raazesh Sainudiin, Don Merton, James V. Briskie, Anthony M. Poole and Marie L. Hale, <a class="linkitem" href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0079066">PLoS ONE 8(12): e79066 DOI: 10.1371/journal.pone.0079066</a>, 2013 (<a class="linkitem" href="http://lamastex.org/preprints/plos_br_preprint.pdf">PDF of preprint</a> 6712KB, In News: <a class="linkitem" href="http://phenomena.nationalgeographic.com/2014/01/02/in-saving-a-species-you-might-accidentally-doom-it/">National Geographic Online</a>, <a class="linkitem" href="http://www.audubonmagazine.org/articles/birds/black-robin-conundrum-what-happens-when-humans-move-eggs-nest">Audobon Magazine</a>, <a class="linkitem" href="http://www.newscientist.com/article/mg22229640.700-killing-with-kindness-conservations-cautionary-tale.html">New Scientist</a> <a class="linkitem" href="http://lamastex.org/News/2014_BlackRobin_NewScientist.pdf">.</a>)</li>
 <li>Detecting site-specific physicochemical selective pressures: applications to the class-I HLA of the human major histocompatibility complex and the SRK of the plant sporophytic self-incompatibility system, Raazesh Sainudiin, Wendy Shuk Wan Wong, Krithika Yogeeswaran, June Nasrallah, Ziheng Yang and Rasmus Nielsen, <a class="linkitem" href="http://www.springerlink.com/content/m1418u7777013755/">Journal of Molecular Evolution 60: 315-326</a>, 2005</li>
 <li>Microsatellite mutation models: insights from a comparison of humans and chimpanzees, Raazesh Sainudiin, Richard T. Durrett, Charles Aquadro and Rasmus Nielsen, <a class="linkitem" href="http://www.genetics.org/cgi/content/abstract/168/1/383">Genetics 168: 383-395</a>, 2004</li>
 </ul>
@@ -150,7 +150,7 @@ author_profile: true
 <li>
 <strong>Applications in Civil Engineering (Air-traffic Computing)</strong>
 <ul>
-<li>Statistical regular pavings to analyze massive data of aircraft trajectories, Gloria Teng, Kenneth Kuhn and Raazesh Sainudiin, <a class="linkitem" href="http://arc.aiaa.org/doi/abs/10.2514/1.I010015">Journal of Aerospace Computing, Information, and Communication, Vol. 9, No. 1, pp. 14-25</a>, doi: 10.2514/1.I010015, 2012 (<a class="linkitem" href="http://lamastex.org/preprints/AAIASubPavingATC.ps">PS</a> 31MB or lossy <a class="linkitem" href="http://lamastex.org/preprints/AAIASubPavingATC.pdf">PDF</a> 2.9MB or <a class="linkitem" href="http://lamastex.org/preprints/AAIASubPavingATC_PNG/">26 PNG pages</a>) </li>
+<li>Statistical regular pavings to analyze massive data of aircraft trajectories, Gloria Teng, Kenneth Kuhn and Raazesh Sainudiin, <a class="linkitem" href="http://arc.aiaa.org/doi/abs/10.2514/1.I010015">Journal of Aerospace Computing, Information, and Communication, Vol. 9, No. 1, pp. 14-25</a>, doi: 10.2514/1.I010015, 2012 (<a class="linkitem" href="http://lamastex.org/preprints/AAIASubPavingATC.ps">PS</a> 31MB or lossy <a class="linkitem" href="http://lamastex.org/preprints/AAIASubPavingATC.pdf">PDF</a> 2.9MB or <a class="linkitem" href="http://lamastex.org/preprints/AAIASubPavingATC_PNG.zip">zipped 26 PNG pages</a>) </li>
 </ul>
 </li>
 <li>
@@ -200,11 +200,11 @@ author_profile: true
 <li><a href="https://www.math.cornell.edu/~raazesh/LifeNetworks2014.html">Graduate Special Topics in Biometry and Statistics, Cornell University, Ithaca NY, USA, 12 September - 14 November 2014 (LifeNetworks2014)</a></li>
 <li><a class="linkitem" href="http://lamastex.org/research_events/IPA2012/">Intervals, Pavings and Applications, Uppsala, Sweden, 15-17 October 2012 (IPA2012)</a></li>
 <li><a class="linkitem" href="http://lamastex.org/research_events/ABaCass2012/">Algebraic Biology, Cass, NZ, Saturday 4th February - Friday 10th February, 2012 (ABaCass2012)</a></li>
-<li><a class="linkitem" href="http://lamastex.org/research_events/ConstruMathSouth3012/">Constructive Mathematics, Westport, NZ, Thursday 26th January - Saturday 28th January, 2012 (ConstruMathSouth3012)</a></li>
+<li><a class="linkitem" href="http://lamastex.org/research_events/ConstruMathSouth2012/">Constructive Mathematics, Westport, NZ, Thursday 26th January - Saturday 28th January, 2012 (ConstruMathSouth2012)</a></li>
 <li><a href="http://lamastex.org/primers.shtml">Primers at University of Canterbury</a></li>
 </ul>
 </li>
-<li>Coordinator of a <a class="linkitem" href="http://lamastex.org/numb3rs/">Numb3rs Learning Community</a> and <a class="linkitem" href="/lmse/">Laboratory for Mathematical Statistical Experiments</a>.</li>
+<li>Coordinator of a <a class="linkitem" href="http://lamastex.org/numb3rs/">Numb3rs Learning Community</a> and <a class="linkitem" href="http://lamastex.org/lmse/">Laboratory for Mathematical Statistical Experiments</a>.</li>
 </ul>
 <h3>Industrial and Governmental Contracts</h3>
 <ol>

@@ -23,7 +23,7 @@ Current teaching/learning materials developed under [Unlicense](https://en.wikip
 
 * Computational Statistical Experiments in MATLAB, Raazesh Sainudiin and Dominic Lee, 360 pp, 2017. Available as: 
   * forkable open source in [GitHub](https://github.com/lamastex/computational-statistical-experiments/tree/master/matlab/csebook) 
-  * downloadable [PDF](Computational Statistical Experiments in MATLA://github.com/lamastex/computational-statistical-experiments/raw/master/matlab/csebook/CSEBook.pdf).
+  * downloadable [PDF](https://github.com/lamastex/computational-statistical-experiments/raw/master/matlab/csebook/CSEBook.pdf).
 
 * Mathematical and Statistical Elements of Data Science in SageMath/Python: A programmatic introduction for data scientists, Raazesh Sainudiin, 2017 (in progress).
   * See an earlier version of the course with an emphasis on simulations that is available as:

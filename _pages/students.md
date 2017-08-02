@@ -118,9 +118,9 @@ University, Cambridge, Massachusetts, USA.</li>
   <li>2009-2010: Josh Collins - Statistical Classification of
 Medical Images. Joined Maths PhD Program at Massey University,
 Palmerston North, New Zealand.</li>
-  <li>2008-2009: Piers Lawrence - UC Summer Scholar on <a href="http://lamaste.org/lmse/double-pendulum/">A Mechatronically Measurable Double Pendulum</a>. Joined Applied
+  <li>2008-2009: Piers Lawrence - UC Summer Scholar on <a href="http://lamastex.org/lmse/double-pendulum/">A Mechatronically Measurable Double Pendulum</a>. Joined Applied
 Maths PhD Program at University of Western Ontario, London, Canada.</li>
-  <li>2007-2008: Bry Ashman - programming for <a href="http://lamaste.org/lmse/quinseptcunx/">Galton’s Septcunx, a Visual Cognitive Tool GUI</a>. Joined
+  <li>2007-2008: Bry Ashman - programming for <a href="http://lamastex.org/lmse/quinseptcunx/">Galton’s Septcunx, a Visual Cognitive Tool GUI</a>. Joined
 IP Traffic Analysis Team in local industry.</li>
 </ol>
 

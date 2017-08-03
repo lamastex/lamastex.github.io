@@ -1,8 +1,13 @@
 ---
 layout: single
-title: CV
+title: Curriculum Vitae - Raazesh Sainudiin
 permalink: /cv/
 author_profile: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/DISP-lamastex-1600x524.jpg
+  caption: 
+excerpt: 'At the interface of computing, mathematics and statistics.<br /><br /><br />'
 ---
 
 <h2>Raazesh Sainudiin</h2>

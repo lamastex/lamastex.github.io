@@ -54,7 +54,7 @@ Currently there are no PhD students as primary supervisees.
 ### Masters Students
 
 <ol reversed="" start="15">
-<li>2017, MS Appled Mathematics, Joakim Johansson - (Senior Supervisor)</li>
+<li>2017, Masters Programme in Engineering Physics (Civilingenjör i Teknisk Fysik) Computational Science, Joakim Johansson - (Senior Supervisor)</li>
 </ol>
 
 

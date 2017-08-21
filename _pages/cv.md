@@ -9,12 +9,12 @@ header:
   caption: 
 excerpt: 'At the interface of computing, mathematics and statistics.<br /><br /><br />'
 ---
+{% include toc %}
 
-<h2>Raazesh Sainudiin</h2>
+# Raazesh Sainudiin's CV
 
-<p>See <a class="linkitem" href="/research/">Current list of all publications</a> and <a href="http://scholar.google.com/citations?user=QhWtb8oAAAAJ">Google Scholar</a>.</p>
 
-<h3> Professional Preparation </h3>
+## Professional Preparation
 <ol>
 <li>
 2005-2007: Research Fellow (under <a href="http://www.stats.ox.ac.uk/people/academic_staff/peter_donnelly">P Donnelly</a> and <a href="http://www.stats.ox.ac.uk/people/academic_staff/bob_griffiths">RC Griffiths</a>), University of Oxford, Oxford, UK
@@ -30,7 +30,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 </li>
 </ol>
 
-<h3> Appointments, Awards and Honors </h3>
+## Appointments, Awards and Honors
 
 <ol>
 <li>2017 Jan - : <a href="http://katalog.uu.se/profile/?id=N17-214">Researcher in Applied Mathematics and Statistics</a>, <a href="http://www.math.uu.se/">Department of Mathematics</a>, <a href="http://www.uu.se/">Uppsala University</a>, Uppsala, Sweden</li>
@@ -73,7 +73,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 </li>
 </ol>
 
-<h3> Selected Publications by Field</h3>
+## Selected Publications by Field
 <ol>
 <li>
 <strong>Computer Arithmetic and Computer-Aided Proofs in Statistics and Simulation</strong>
@@ -134,7 +134,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 <strong>Mathematical and Statistical Programming</strong>
 </div>
 <ul>
-<li>MRS 2.0: A C++ Class Library for Statistical Set Processing and Computer-Aided Proofs in Statistics (Version 2.0) [Software], Jennifer Harlow, Raazesh Sainudiin, Gloria Teng, Warwick Tucker and Thomas York, Available from <a class="linkitem" href="https://github.com/lamastex/mrs2">https://github.com/lamastex/mrs2</a>, 2016</li>
+<li>MRS 2.0: A C++ Class Library for Statistical Set Processing and Computer-Aided Proofs in Statistics (Version 2.0) [Software], Jennifer Harlow, Raazesh Sainudiin, Gloria Teng, Warwick Tucker and Thomas York, Available from <a class="linkitem" href="https://github.com/lamastex/mrs2">https://github.com/lamastex/mrs2</a>, 2017</li>
 </ul>
 </li>
 <li>
@@ -181,7 +181,9 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 </li>
 </ol>
 
-<h3> Service</h3>
+<p>See <a class="linkitem" href="/research/">Current list of all all publications</a> and <a href="http://scholar.google.com/citations?user=QhWtb8oAAAAJ">Google Scholar</a>.</p>
+
+## Service
 <ul>
 <li>Contributor of several coding projects at <a href="https://github.com/lamastex">https://github.com/lamastex</a>.</li>
 <li>Reviewer for the following journals and funding agencies: 
@@ -211,14 +213,16 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 </li>
 <li>Coordinator of a <a class="linkitem" href="http://lamastex.org/numb3rs/">Numb3rs Learning Community</a> and <a class="linkitem" href="http://lamastex.org/lmse/">Laboratory for Mathematical Statistical Experiments</a>.</li>
 </ul>
-<h3>Industrial and Governmental Contracts</h3>
+## Industrial and Governmental Contracts
 <ol>
+<li>"Consulting on various technical and non-technical interacting aspects of the Data Science Processes" for <a href="https://combient.com">Combient AB</a>, Stockholm, Sweden, 2017 (confidential)</li>
 <li>"Nonparametric Self-Exciting Space-Time Point Process Model for Crime Risk Prediction", Raazesh Sainudiin, Statistical Consulting for Wynyard Group, Christchurch, NZ, UC Contract Number 14-02-007, 2014 (confidential)</li>
 <li>"Intelligent Bidding Systems (Collaborative Filtering)", Raazesh Sainudiin (with Kourosh Neshantian), Ministry of Business Innovation and Employment (two year-long Capability Fellowships), Consulting for <a href="http://www.adscale.co.nz/">adScale Laboratories</a>, Christchurch, NZ, UC Contract Numbers E6075 and E6076, 2013-2014</li>
 <li>"Imputation Variance Estimation for Statistics New Zealand&#39;s Accommodation Occupancy Survey", Raazesh Sainudiin and Richard Penny, Statistical Consulting Report Prepared for The New Zealand Ministry of Tourism, Resource Centre 36, Sub-Project 5050300, p. 1-25, 2009  (<a class="linkitem" href="http://lamastex.org/preprints/MOTImputationReport.pdf">PDF</a> 936KB)</li>
 </ol>
 
+
 <p>
-<a class="linkitem" href="http://lamastex.org/RaazeshSainudiinCV.pdf">More detailed CV up to 2017 (PDF 160KB)</a>
+<a class="linkitem" href="http://lamastex.org/RaazeshSainudiinCV.pdf">More detailed CV up to 2017 as PDF (160KB)</a>
 </p>
 

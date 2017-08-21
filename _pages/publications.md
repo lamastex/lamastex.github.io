@@ -9,6 +9,7 @@ header:
   caption: 
 excerpt: 'At the interface of computing, mathematics and statistics.<br /><br /><br />'
 ---
+{% include toc %}
 
 Research at LaMaStEx is at the interdisciplinary interface of computing, mathematics and statistics. 
 We use computer arithmetic and combinatorial data-structures through custom-built mathematical and statistical models to rigorously solve numerical optimization and simulation problems that arise in statistical decision-making from real-world data.
@@ -18,9 +19,9 @@ Please see [CV](/cv/) for a field-specific picture.
 
 The full list of publications in peer-reviewed journals, conference proceedings as well as software contributions follows below.
  
-<h2>Publications</h2>
-<h3>Journal Articles</h3>
-<ol reversed="" start="50">
+# Publications
+## Journal Articles
+<ol reversed="" start="51">
 <li>A nonlinear dynamical system approach for the yielding behaviour of a viscoplastic fluid, Teodor Burghelea, Miguel Moyers-Gonzalez and Raazesh Sainudiin, 22 pages, Soft Matter, The Royal Society of Chemistry, 2017 (accepted)</li>
 <li>Design of Conventional and Neural Network Based Controllers for a Single-Shaft Gas Turbine, Hamid Asgari, XiaoQi Chen, Mohsen Fathi Jegarkandi and Raazesh Sainudiin, Aircraft Engineering and Aerospace Technology, Vol. 89, Iss: 1, pp. 52-65, <a class="linkitem" href="http://dx.doi.org/10.1108/AEAT-11-2014-0187">DOI: 10.1108/AEAT-11-2014-0187</a>, 2017</li>
 <li>The Transmission Process: A Combinatorial Stochastic Process for the Evolution of Transmission Trees over Networks, Raazesh Sainudiin and David Welch, Journal of Theoretical Biology, Volume 410, Pages 137–170, <a class="linkitem" href="http://dx.doi.org/10.1016/j.jtbi.2016.07.038">10.1016/j.jtbi.2016.07.038</a>, 2016. See research project: <a class="linkitem" href="https://lamastex.github.io/scalable-data-science/sds/research/mep/">Meme Evolution Programme</a></li>
@@ -56,8 +57,8 @@ The full list of publications in peer-reviewed journals, conference proceedings 
 
 </ol>
 
-<h3>Books and Book Chapters</h3>
-<ol reversed="" start="21">
+## Books and Book Chapters
+<ol reversed="" start="22">
 <li>Scalable Data Science - 1.x from Middle Earth, Raazesh Sainudiin and Sivanand Sivaram, Published by GitBook <a class="linkitem" href="https://www.gitbook.com/book/lamastex/scalable-data-science/details">https://www.gitbook.com/book/lamastex/scalable-data-science/details</a>, 791 pages, 24th July 2017.</li>
 <li>An Auto-validating Rejection Sampler for Differentiable Arithmetical Expressions: Posterior Sampling of Phylogenetic Quartets, Raazesh Sainudiin, In Martine Ceberio and Vladik Kreinovich (Eds.), <a class="linkitem" href="http://link.springer.com/book/10.1007/978-3-319-04280-0">Constraint Programming and Decision Making (Studies in Computational Intelligence)</a>, Springer Verlag, Berlin, Heidelberg, pp. 143-152, 2014 (<a class="linkitem" href="http://lamastex.org/preprints/avs_CoProD_2013.pdf">PDF</a> 400KB)</li>
 <li>Modelling and Simulation Approaches for Gas Turbine System Optimization, Hamid Asgari, XiaoQi Chen and Raazesh Sainudiin, In M.K. Habib and J.P. Davim (Eds.), <a class="linkitem" href="http://www.igi-global.com/chapter/modelling-simulation-approaches-gas-turbine/78108">Engineering Creative Design in Robotics and Mechatronics, Ch. 14, pp. 240-264, IGI Global</a>, Hershey, PA, 2013</li>
@@ -68,8 +69,8 @@ The full list of publications in peer-reviewed journals, conference proceedings 
 <li>Models of microsatellite evolution, Peter Calabrese and Raazesh Sainudiin, In R. Nielsen (Ed.), <a class="linkitem" href="http://www.springer.com/life+sci/book/978-0-387-22333-9">Statistical Methods in Molecular Evolution</a>, Series: Statistics for Biology and Health, Springer, 2004</li>
 </ol>
 
-<h3>Full Papers in Conference Proceedings</h3>
-<ol reversed="" start="15">
+## Full Papers in Conference Proceedings
+<ol reversed="" start="16">
 <li>Final Report <a class="linkitem" href="http://www.birs.ca/cmo-workshops/2016/16w5099/report16w5099.pdf">Final Report of 16w5099 - Interval Analysis and Constructive Mathematics</a>, Eds. Douglas Bridges, Hannes Diener, Baker Kearfott, Vladik Kreinovich, Patricia Melin, Raazesh Sainudiin and Helmut Schwichtenberg, pp. 1-13, 2017, <a href="http://www.birs.ca/events/2016/5-day-workshops/16w5099">5-Day-Workshop,Casa Matemática Oaxaca (CMO) in Mexico, November 13-18, 2016</a>.</li>
 <li>Optimal Hyper-parameter Search in Support Vector Machines Using Bezier Surfaces, Shinichi Yamada, Kourosh Neshatian and Raazesh Sainudiin, <a class="linkitem" href="http://www.springer.com/us/book/9783319263496">Springer Lecture Notes on Artificial Intelligence Series, Proceedings of the 28th Australian Joint Conference on Artificial Intelligence, 623-629</a>, 2015.</li>
 <li>"L1-consistent Adaptive Multivariate Histograms from a Randomized Queue Prioritized for Statistically Equivalent Blocks", Gloria Teng, Jennifer Harlow and Raazesh Sainudiin, in <a class="linkitem" href="http://lamastex.org/preprints/icmsfm2014_proc.pdf">the Proceedings of the International Conference on Mathematics, Statistics, and Financial Mathematics 2014 with IASC-ARS Sessions, November 18-19, Kuala Lumpur, Malaysia</a>, pp. 88-102, 2014 (<a class="linkitem" href="http://lamastex.org/preprints/20141023_L1ConsistentRPQ_ICMSFM.pdf">PDF</a> 716KB)</li>
@@ -86,8 +87,9 @@ The full list of publications in peer-reviewed journals, conference proceedings 
 <li><a class="linkitem" href="http://arxiv.org/abs/1006.0405v1">A Rigorous Extension of the Sch&ouml;nhage-Strassen Integer Multiplication Algorithm Using Complex Interval Arithmetic</a>, Thomas Steinke and Raazesh Sainudiin, June 3, 2010, <a class="linkitem" href="http://arxiv.org/html/1006.0551">EPTCS 24 Proceedings Seventh International Conference on Computability and Complexity in Analysis</a>, Zhenjiang, China, 21-25th June 2010</li>
 </ol>
 
-<h3>Industrial and Governmental Contracts</h3>
-<ol reversed="" start="3">
+## Industrial and Governmental Contracts
+<ol reversed="" start="4">
+<li>"Consulting on various technical and non-technical interacting aspects of the Data Science Processes" for <a href="https://combient.com">Combient AB</a>, Stockholm, Sweden, 2017 (confidential)</li>
 <li>"Nonparametric Self-Exciting Space-Time Point Process Model for Crime Risk Prediction", Raazesh Sainudiin, Statistical Consulting for Wynyard Group, Christchurch, NZ, UC Contract Number 14-02-007, 2014 (confidential)</li>
 <li>"Intelligent Bidding Systems (Collaborative Filtering)", Raazesh Sainudiin (with Kourosh Neshantian), Ministry of Business Innovation and Employment (two year-long Capability Fellowships), Consulting for <a href="http://www.adscale.co.nz/">adScale Laboratories</a>, Christchurch, NZ, UC Contract Numbers E6075 and E6076, 2013-2014</li>
 <li>"Imputation Variance Estimation for Statistics New Zealand&#39;s Accommodation Occupancy Survey", Raazesh Sainudiin and Richard Penny, Statistical Consulting Report Prepared for The New Zealand Ministry of Tourism, Resource Centre 36, Sub-Project 5050300, p. 1-25, 2009  (<a class="linkitem" href="http://lamastex.org/preprints/MOTImputationReport.pdf">PDF</a> 936KB)</li>
@@ -98,6 +100,7 @@ The full list of publications in peer-reviewed journals, conference proceedings 
 
 <h3>(Re)Submitted / Under Review / Being Revised</h3>
 <ol reversed="">
+<li>Some Distributions on Finite Rooted Binary Trees, Sean Cleary, Mareike Fischer, Robert C. Griffiths and Raazesh Sainudiin, 21 pages, 2016 (<a class="linkitem" href="arxiv">arxiv link to appear</a></li>
 <li>Kumar Yogeeswaran, Kyle Nash, Rania Sahioun and Raazesh Sainudiin, Seeded by Hate? Characterizing the Twitter Networks of Prominent Politicians and Hate Groups in the 2016 US Election, 2017 (<a class="linkitem" href="http://lamastex.org/preprints/2017HateIn2016USAElection.pdf">PDF of Working Paper</a> 816KB)</li>
 <li>Data-adaptive histograms through statistical regular pavings, Raazesh Sainudiin, Gloria Teng, Jennifer Harlow and Warwick Tucker, 2016 (<a class="linkitem" href="http://lamastex.org/preprints/20161121optMAPMDE.pdf">PDF</a> 1.8MB)</li>
 <li>Jasper Mackenzie, Raazesh Sainudiin, James Smithies and Heather Wolffram, A nonparametric view of the civilizing process in London's Old Bailey, Research Report UCDMS2015/1, 32 pages, 2015 (<a class="linkitem" href="http://lamastex.org/preprints/20150828_civilizingProcOBO.pdf">PDF version 2</a> 1.2MB, <a class="linkitem" href="http://lamastex.org/preprints/20150828_civilizingProcOBOv1.pdf">PDF version 1</a> 4.8MB)</li>
@@ -124,7 +127,7 @@ The full list of publications in peer-reviewed journals, conference proceedings 
 <li><a class="linkitem" href="http://new-models-of-tertiary-education.blogspot.co.nz/2016/03/discussions-on-q26.html">On International Quality and Standard of a New Zealand Degree</a></li>
 </ul>
 </li>
-<li>MRS 2.0: A C++ Class Library for Statistical Set Processing and Computer-Aided Proofs in Statistics (Version 2.0) [Software], Jennifer Harlow, Raazesh Sainudiin, Gloria Teng, Warwick Tucker and Thomas York, Available from <a class="linkitem" href="https://github.com/lamastex/mrs2">https://github.com/lamastex/mrs2</a>, 2016</li>
+<li>MRS 2.0: A C++ Class Library for Statistical Set Processing and Computer-Aided Proofs in Statistics (Version 2.0) [Software], Jennifer Harlow, Raazesh Sainudiin, Gloria Teng, Warwick Tucker and Thomas York, Available from <a class="linkitem" href="https://github.com/lamastex/mrs2">https://github.com/lamastex/mrs2</a>, 2017</li>
 <li>The Transmission Process: A Combinatorial Stochastic Process for the Evolution of Transmission Trees over Networks, Raazesh Sainudiin and David Welch, Research Report UCDMS2016/1, 2016, 56 pages, 2016 <a class="linkitem" href="http://lamastex.org/preprints/20160721_transmissionProc.pdf">PDF</a> 868KB (<a class="linkitem" href="http://lamastex.org/preprints/20160806_transmissionProcJTBFinal.pdf">JTB preprint PDF</a> 900KB, See final publication in Journal of Theoretical Biology, Volume 410, Pages 137–170, <a class="linkitem" href="http://dx.doi.org/10.1016/j.jtbi.2016.07.038">10.1016/j.jtbi.2016.07.038</a>, 2016)</li>
 <li>Approximate Bayesian Computation from multi-locus SNP+microsatellite markers in structured recombining populations, Jennifer Harlow, Sharyn Goldstien, Brendan Bycroft and Raazesh Sainudiin, In LCE: A C++ Class Library for Lumped Coalescent Experiments:: modules: mct, hudson_ms and ABCReg and AHABCtesting, <a class="linkitem" href="https://github.com/lamastex/lce">https://github.com/lamastex/lce</a>, 2016</li>
 <li>The Transmission Process: A Combinatorial Stochastic Process on Binary Trees over the Contact Network of Hosts in an Epidemic, Raazesh Sainudiin and David Welch, Research Report UCDMS2015/4, 2015, 31 pages, 2015 (<a class="linkitem" href="http://lamastex.org/preprints/20151210_transmissionProc.pdf">PDF</a> 684KB)</li>

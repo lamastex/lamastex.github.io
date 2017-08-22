@@ -98,7 +98,7 @@ The full list of publications in peer-reviewed journals, conference proceedings 
 
 <hr>
 
-<h3>(Re)Submitted / Under Review / Being Revised</h3>
+## Submitted / Under Review
 <ol reversed="">
 <li>Some Distributions on Finite Rooted Binary Trees, Sean Cleary, Mareike Fischer, Robert C. Griffiths and Raazesh Sainudiin, 25 pages, 2017 (<a class="linkitem" href="https://arxiv.org/abs/1708.06130">arxiv:1708.06130</a></li>
 <li>Kumar Yogeeswaran, Kyle Nash, Rania Sahioun and Raazesh Sainudiin, Seeded by Hate? Characterizing the Twitter Networks of Prominent Politicians and Hate Groups in the 2016 US Election, 2017 (<a class="linkitem" href="http://lamastex.org/preprints/2017HateIn2016USAElection.pdf">PDF of Working Paper</a> 816KB)</li>

@@ -210,7 +210,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 </li>
 <li>Coordinator of a <a class="linkitem" href="http://lamastex.org/numb3rs/">Numb3rs Learning Community</a> and <a class="linkitem" href="http://lamastex.org/lmse/">Laboratory for Mathematical Statistical Experiments</a>.</li>
 </ul>
-# Industrial and Governmental Contracts
+# Industrial Contracts
 <ol>
 <li>"Consulting on technical and non-technical aspects of various Data Science Processes" for <a href="https://combient.com">Combient AB</a>, Stockholm, Sweden, 2017 (confidential)</li>
 <li>"Nonparametric Self-Exciting Space-Time Point Process Model for Crime Risk Prediction", Raazesh Sainudiin, Statistical Consulting for Wynyard Group, Christchurch, NZ, UC Contract Number 14-02-007, 2014 (confidential)</li>

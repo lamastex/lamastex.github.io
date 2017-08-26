@@ -109,7 +109,6 @@ The full list of publications in peer-reviewed journals, conference proceedings 
 
 <h3>In Preparation</h3>
 <ol reversed="">
-<li>Full Likelihood Inference from the Site Frequency Spectrum of a Non-Recombining Locus, Raazesh Sainudiin and Amandine V&eacute;ber, 2013</li>
 <li>Empirical Population Pedigree Processes: Case of the Florida Scrub Jays, Nancy Chen, Andrew G Clark, John Fitzpatrick, Raazesh Sainudiin and Amandine V&eacute;ber, 2016</li>
 <li>Modeling of Black Robin populations using matrix-analytic age-structured branching processes: Informed management strategies for reintroduction of endangered species, Sophie Hautphenne, Melanie Massaro and Raazesh Sainudiin, 2014</li>
 <li>Empirical Population Pedigree Processes: Theory, Raazesh Sainudiin and Amandine V&eacute;ber, 2011</li>

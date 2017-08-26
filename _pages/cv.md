@@ -11,10 +11,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 ---
 {% include toc %}
 
-# Raazesh Sainudiin's CV
-
-
-## Professional Preparation
+# Professional Preparation
 <ol>
 <li>
 2005-2007: Research Fellow (under <a href="http://www.stats.ox.ac.uk/people/academic_staff/peter_donnelly">P Donnelly</a> and <a href="http://www.stats.ox.ac.uk/people/academic_staff/bob_griffiths">RC Griffiths</a>), University of Oxford, Oxford, UK
@@ -30,7 +27,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 </li>
 </ol>
 
-## Appointments, Awards and Honors
+# Appointments, Awards and Honors
 
 <ol>
 <li>2017 Jan - : <a href="http://katalog.uu.se/profile/?id=N17-214">Researcher in Applied Mathematics and Statistics</a>, <a href="http://www.math.uu.se/">Department of Mathematics</a>, <a href="http://www.uu.se/">Uppsala University</a>, Uppsala, Sweden</li>
@@ -73,7 +70,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 </li>
 </ol>
 
-## Selected Publications by Field
+# Selected Publications by Field
 <ol>
 <li>
 <strong>Computer Arithmetic and Computer-Aided Proofs in Statistics and Simulation</strong>
@@ -183,7 +180,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 
 <p>See <a class="linkitem" href="/research/">Current list of all all publications</a> and <a href="http://scholar.google.com/citations?user=QhWtb8oAAAAJ">Google Scholar</a>.</p>
 
-## Service
+# Service
 <ul>
 <li>Contributor of several coding projects at <a href="https://github.com/lamastex">https://github.com/lamastex</a>.</li>
 <li>Reviewer for the following journals and funding agencies: 
@@ -213,7 +210,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 </li>
 <li>Coordinator of a <a class="linkitem" href="http://lamastex.org/numb3rs/">Numb3rs Learning Community</a> and <a class="linkitem" href="http://lamastex.org/lmse/">Laboratory for Mathematical Statistical Experiments</a>.</li>
 </ul>
-## Industrial and Governmental Contracts
+# Industrial and Governmental Contracts
 <ol>
 <li>"Consulting on technical and non-technical aspects of various Data Science Processes" for <a href="https://combient.com">Combient AB</a>, Stockholm, Sweden, 2017 (confidential)</li>
 <li>"Nonparametric Self-Exciting Space-Time Point Process Model for Crime Risk Prediction", Raazesh Sainudiin, Statistical Consulting for Wynyard Group, Christchurch, NZ, UC Contract Number 14-02-007, 2014 (confidential)</li>

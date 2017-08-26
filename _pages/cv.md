@@ -114,8 +114,8 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 <li>
 <strong>Mathematical and Statistical Physics</strong>
 <ul>
-<li>A nonlinear dynamical system approach for the yielding behaviour of a viscoplastic fluid, Teodor Burghelea, Miguel Moyers-Gonzalez and Raazesh Sainudiin, 22 pages, Soft Matter, The Royal Society of Chemistry, 2017 (accepted)</li>
-<li>A Microscopic Gibbs field model for the macroscopic yielding behavior of a viscoplastic fluid, Raazesh Sainudiin, Miguel Moyers-Gonzalez and Teodor Burghelea, Soft Matter, <a class="linkitem" href="http://dx.doi.org/10.1039/c5sm00857c">10.1039/c5sm00857c</a>, The Royal Society of Chemistry, 15 pages, 2015</li>
+<li>A nonlinear dynamical system approach for the yielding behaviour of a viscoplastic fluid, Teodor Burghelea, Miguel Moyers-Gonzalez and Raazesh Sainudiin, Soft Matter, 13, 2024-2039, <a class="linkitem" href="http://dx.doi.org/10.1039/C6SM02361D">10.1039/C6SM02361D</a>, 2017</li>
+<li>A microscopic Gibbs field model for the macroscopic yielding behavior of a viscoplastic fluid, Raazesh Sainudiin, Miguel Moyers-Gonzalez and Teodor Burghelea, Soft Matter,11, 5531-5545, <a class="linkitem" href="http://dx.doi.org/10.1039/C5SM00857C">10.1039/C5SM00857C</a>, 2015</li>
 <li>A Microscopic Gibbs Field Model for the Macroscopic Behavior of a Viscoplastic Fluid, Raazesh Sainudiin, Miguel Moyers-Gonzalez and Teodor Burghelea, Research Report UCDMS2014/1, 17 pages, 2014 (<a class="linkitem" href="http://lamastex.org/preprints/20140825_MicroNNF.pdf">PDF</a> 5.6MB)</li>
 </ul>
 </li>

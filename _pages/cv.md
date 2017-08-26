@@ -27,7 +27,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 </li>
 </ol>
 
-# Appointments, Awards and Honors
+# Appointments and Awards
 
 <ol>
 <li>2017 Jan - : <a href="http://katalog.uu.se/profile/?id=N17-214">Researcher in Applied Mathematics and Statistics</a>, <a href="http://www.math.uu.se/">Department of Mathematics</a>, <a href="http://www.uu.se/">Uppsala University</a>, Uppsala, Sweden</li>

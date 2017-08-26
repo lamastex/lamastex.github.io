@@ -215,7 +215,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 </ul>
 ## Industrial and Governmental Contracts
 <ol>
-<li>"Consulting on various technical and non-technical interacting aspects of the Data Science Processes" for <a href="https://combient.com">Combient AB</a>, Stockholm, Sweden, 2017 (confidential)</li>
+<li>"Consulting on technical and non-technical aspects of various Data Science Processes" for <a href="https://combient.com">Combient AB</a>, Stockholm, Sweden, 2017 (confidential)</li>
 <li>"Nonparametric Self-Exciting Space-Time Point Process Model for Crime Risk Prediction", Raazesh Sainudiin, Statistical Consulting for Wynyard Group, Christchurch, NZ, UC Contract Number 14-02-007, 2014 (confidential)</li>
 <li>"Intelligent Bidding Systems (Collaborative Filtering)", Raazesh Sainudiin (with Kourosh Neshantian), Ministry of Business Innovation and Employment (two year-long Capability Fellowships), Consulting for <a href="http://www.adscale.co.nz/">adScale Laboratories</a>, Christchurch, NZ, UC Contract Numbers E6075 and E6076, 2013-2014</li>
 <li>"Imputation Variance Estimation for Statistics New Zealand&#39;s Accommodation Occupancy Survey", Raazesh Sainudiin and Richard Penny, Statistical Consulting Report Prepared for The New Zealand Ministry of Tourism, Resource Centre 36, Sub-Project 5050300, p. 1-25, 2009  (<a class="linkitem" href="http://lamastex.org/preprints/MOTImputationReport.pdf">PDF</a> 936KB)</li>

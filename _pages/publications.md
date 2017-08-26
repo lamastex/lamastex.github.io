@@ -11,13 +11,8 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 ---
 {% include toc %}
 
-Research at LaMaStEx is at the interdisciplinary interface of computing, mathematics and statistics. 
-We use computer arithmetic and combinatorial data-structures through custom-built mathematical and statistical models to rigorously solve numerical optimization and simulation problems that arise in statistical decision-making from real-world data.
-
+The full list of publications in peer-reviewed journals, conference proceedings as well as software contributions follows below. 
 Please see [CV](/cv/) for a field-specific picture.
-
-
-The full list of publications in peer-reviewed journals, conference proceedings as well as software contributions follows below.
  
 # Journal Articles
 <ol reversed="" start="51">

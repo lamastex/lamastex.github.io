@@ -101,14 +101,14 @@ Please see [CV](/cv/) for a field-specific picture.
 <li>Jasper Mackenzie, Raazesh Sainudiin, James Smithies and Heather Wolffram, A nonparametric view of the civilizing process in London's Old Bailey, Research Report UCDMS2015/1, 32 pages, 2015 (<a class="linkitem" href="http://lamastex.org/preprints/20150828_civilizingProcOBO.pdf">PDF version 2</a> 1.2MB, <a class="linkitem" href="http://lamastex.org/preprints/20150828_civilizingProcOBOv1.pdf">PDF version 1</a> 4.8MB)</li>
 </ol>
 
-<h3>In Preparation</h3>
+# In Preparation
 <ol reversed="">
 <li>Empirical Population Pedigree Processes: Case of the Florida Scrub Jays, Nancy Chen, Andrew G Clark, John Fitzpatrick, Raazesh Sainudiin and Amandine V&eacute;ber, 2016</li>
 <li>Modeling of Black Robin populations using matrix-analytic age-structured branching processes: Informed management strategies for reintroduction of endangered species, Sophie Hautphenne, Melanie Massaro and Raazesh Sainudiin, 2014</li>
 <li>Empirical Population Pedigree Processes: Theory, Raazesh Sainudiin and Amandine V&eacute;ber, 2011</li>
 <li>Classification of Voxel Images, Josh Collins, Ben Martin and Raazesh Sainudiin, 2010</li>
 <li>Computational Statistical Experiments in Matlab, Raazesh Sainudiin and Dominic Lee, 341 pages, 2007-2016 (<a class="linkitem" href="http://lamastex.org/courses/STAT459/CSEBook.pdf">CSEBook.pdf</a> <!--#flastmod file="http://lamastex.org/courses/STAT459/CSEBook.pdf" -->). See <a class="linkitem" href="https://github.com/lamastex/computational-statistical-experiments">https://github.com/lamastex/computational-statistical-experiments</a></li>
-<li>Memetic Notions of Self in Trans-traditional Life Experiments, Raazesh Sainudiin, 1991</li>
+<li>Memetic Notions of Self in Trans-traditional Life Experiments, Raazesh Sainudiin, 1991 (see <a class="linkitem" href="http://lamastex.org/transtradmathstatexps.shtml"</a>Self-Study Group</a>)</li>
 </ol>
 
 <hr>

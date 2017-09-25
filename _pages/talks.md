@@ -14,6 +14,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 <h1>Selected Research Talks</h1>
 <br>
 <ol reversed="">
+<li>Monday September 25 2017, on "Characterizing the Twitter networks of prominent politicians and hate groups", InfoLab Meeting, IT Department, Uppsala University, Uppsala, Sweden</li>
 <li>Tuesday September 12 2017, on "Ancestries of a Recombining Diploid Population: Towards a theoretical union of bahavioural ecology and population genetics", Complex Systems Lunch seminar, Centre for Interdisciplinary Mathematics, Uppsala University, Uppsala, Sweden (<a class="linkitem" href="http://lamastex.org/talks/20170912_Cosy_ARDP_UnionOfBehavEcolAndPopGen.pdf">PDF</a> 13MB)</li>
 <li>Wednesday 15 March 2017, on "Black Robins of Rangatira and Ancestries of a Recombining Diploid Population", Upp-Upp Statistics Workshop, Uppsala University, Uppsala, Sweden (<a class="linkitem" href="http://lamastex.org/talks/BlackRobin_UppUpp.pdf">PDF</a> 19MB)</li>
 <li>Tuesday 14 February 2017, on "The transmission process: A combinatorial stochastic process for the evolution of transmission trees over networks", CoSy Seminar, Centre for Interdisciplinary Mathematics, Uppsala University, Uppsala, Sweden</li>

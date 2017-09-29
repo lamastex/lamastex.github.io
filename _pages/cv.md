@@ -200,6 +200,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 <li>Organizer of the following events:
 <ul>
 <li><a href="http://www.birs.ca/events/2016/5-day-workshops/16w5099">Interval Analysis and Constructive Mathematics (16w5099) 5-Day-Workshop,Casa Matemática Oaxaca (CMO) in Mexico, November 13-18, 2016</a></li>
+<li>Founding organizer of <a href="https://www.meetup.com/preview/Uppsala-Big-Data-Meetup">Uppsala Big Data Meetup March 2017 - Present</a></li>
 <li>Founding organizer of <a href="http://www.meetup.com/Christchurch-Big-Data-Meetup/">Christchurch Apache Spark (Big Data) Meetup February - August 2016</a></li>
 <li><a href="https://www.math.cornell.edu/~raazesh/LifeNetworks2014.html">Graduate Special Topics in Biometry and Statistics, Cornell University, Ithaca NY, USA, 12 September - 14 November 2014 (LifeNetworks2014)</a></li>
 <li><a class="linkitem" href="http://lamastex.org/research_events/IPA2012/">Intervals, Pavings and Applications, Uppsala, Sweden, 15-17 October 2012 (IPA2012)</a></li>

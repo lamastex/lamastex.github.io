@@ -14,9 +14,9 @@ excerpt: 'in Mathematics, Statistics, Computing and Data Science.<br /><br /><br
 
 Current teaching/learning materials developed under [Unlicense](https://en.wikipedia.org/wiki/Unlicense), [Creative Commons Attribution-Noncommercial-Share Alike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) or [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0) are listed below.
 
-* [360-in-525 Minutes CIM Course Set in Data Sciences, Spring 2018](https://lamastex.github.io/360-in-525/)
+* [360-in-525 Minutes CIM Course Set in Data Sciences for Uppsala's PhD/MSc Students](https://lamastex.github.io/360-in-525/), Spring 2018 (planned).
 
-* [Scalable Data Science for Uppsala's PhD Students](https://lamastex.github.io/scalable-data-science), Raazesh Sainudiin, 2017 (under progress).
+* [Scalable Data Science for Uppsala's PhD/MSc Students](https://lamastex.github.io/scalable-data-science), Fall 2017 (under progress).
 
 * Scalable Data Science - 1.6 from Middle Earth, Raazesh Sainudiin and Sivanand Sivaram, Published by [GitBook](https://www.gitbook.com/book/lamastex/scalable-data-science/details), 791 pages, 24th July 2017. Available as:
   * forkable open source in [GitHub](https://github.com/lamastex/scalable-data-science)

@@ -14,15 +14,14 @@ Research at LaMaStEx is at the interdisciplinary interface of computing, mathema
 We use computer arithmetic and combinatorial data-structures through custom-built mathematical and statistical models to rigorously solve numerical optimization and simulation problems that arise in statistical decision-making from real-world data.
 
 # My Personal Mathematical Journey
+### Memetic Notions of Self in Trans-Traditional Life Experiments
 
 by Raazesh Sainudiin
 
 This is meant for a live interactive presentation to students in a mathematical club at Uppsala University.
 
-## Skeletal Outline 
+## Skeletal Outline of Talk
 
-Title: A Personal Mathematical Journey
-sub-title: Memetic Notions of Self in Trans-Traditional Life Experiments
 
 Style and Context: The talk will be spontaneous and interactive.
 

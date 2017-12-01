@@ -14,7 +14,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 <h1>Selected Research Talks</h1>
 <br>
 <ol reversed="">
-<li>Tuesday 12 December 2017, on "A Mathematical Journey: Memetic Notions of Self in Trans-traditional Life Experiments, Mathematics Club, Uppsala University, Uppsala, Sweden (<a class="linkitem" href="https://lamastex.github.io/talks/2017/12/12_myMathJourney/">md of talk</a>)</li>
+<li>Tuesday 12 December 2017, on "My Personal Mathematical Journey: Memetic Notions of Self in Trans-traditional Life Experiments, Mathematics Club, Uppsala University, Uppsala, Sweden (<a class="linkitem" href="https://lamastex.github.io/talks/2017/12/12_myMathJourney/">md of talk</a>)</li>
 <li>Friday 27 October 2017, on "Characterizing the Twitter network of prominent politicians and hate groups in the USA (2016 Election)", Cramer Society Conference on Big Data, KTH, Stockholm, Sweden (<a class="linkitem" href="http://lamastex.org/talks/20171027_CramerSocietyBigDataKTHStockholm_2016USElection.pdf">PDF</a> 6.4MB)</li>
 <li>Monday September 25 2017, on "Characterizing the Twitter networks of prominent politicians and hate groups", InfoLab Meeting, IT Department, Uppsala University, Uppsala, Sweden (<a class="linkitem" href="http://lamastex.org/talks/20170925_InfoLabUU_2016USElection.pdf">PDF</a> 5.8MB)</li>
 <li>Tuesday September 12 2017, on "Ancestries of a Recombining Diploid Population: Towards a theoretical union of bahavioural ecology and population genetics", Complex Systems Lunch seminar, Centre for Interdisciplinary Mathematics, Uppsala University, Uppsala, Sweden (<a class="linkitem" href="http://lamastex.org/talks/20170912_Cosy_ARDP_UnionOfBehavEcolAndPopGen.pdf">PDF</a> 13MB)</li>

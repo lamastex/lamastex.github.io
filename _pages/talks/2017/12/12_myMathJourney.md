@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Research
+title: My Personal Mathematical Journey
 permalink: /talks/2017/12/12_myMathJourney/
 author_profile: true
 header:
@@ -13,11 +13,33 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 Research at LaMaStEx is at the interdisciplinary interface of computing, mathematics and statistics. 
 We use computer arithmetic and combinatorial data-structures through custom-built mathematical and statistical models to rigorously solve numerical optimization and simulation problems that arise in statistical decision-making from real-world data.
 
-# Some Images for my Personal Mathematical Journey
+# My Personal Mathematical Journey
 
 by Raazesh Sainudiin
 
+This is meant for live interactive presentation to students in a mathematical club at Uppsala University.
+
+# Brief Geospatal Historical Trajectory in Schooling/Working
+
+* 1991 - left India for Minnesota as Count Folke Bernadotte Memorial Scholar to Gustavus Adolphus College
+* was deeply troubled by the experiential awareness of the relativity of loclaly co-fabricated cosmologies
+* dropped out from Mathematics and COmputer Science major and switched to Philosohpy and Religion
+* dropped out of College and lived in the Pine Ridge Indian Reservation and the Black Hills of South Dakota for a couple years
+* finished double major in Biology and Mathematics at Minnesotta State University
+* Went to Cornell University to study Plant Pathology
+* switched to MS in Biometrics
+* switched to PhD in Mathematical Staitstics
+* first Post Doc in Mathematics, Dept of Maths, Cornell Univ, USA
+* second Postdoc in Statistical genetics, Dept of Stats, Oxford Univ., Oxford, UK
+* permanent position Lecturer/Senior Lecturer in New Zealand, Univ of Canterbury 2007-2016
+* took an industrial R&D detour in 2015
+* now here at maths Department at UU and working in Stockholm as consultant once a week
  
+---
+---
+
+# Some images for a random projection story
+
 * 2000 -- Ecuador, Internaltional Agriculture Field Trip, Cornell College of Agricultural and Life Sciences 
   * [https://photos.app.goo.gl/NTBBfpWkHAVHCzqq2](https://photos.app.goo.gl/NTBBfpWkHAVHCzqq2)
 
@@ -50,7 +72,7 @@ by Raazesh Sainudiin
 ---
 ---
 
-## Things you are expected to do as an academic in a Mathematical Department
+## My Favourite Mathematical research Presentation Tours
 
 * Presentations at International Mathematical Conferences
   * A Christchurch-to-Christchurch 2012 Mathematical Tour (Christchurch, Los Angeles, Frankfurt, Moscow, Novosibirsk, Moscow, Oslo, Uppsala, Arlanda, Hong Kong, Christchurch):

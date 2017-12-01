@@ -67,14 +67,14 @@ This is meant for live interactive presentation to students in a mathematical cl
   * Community Open Day in Mathematics [https://photos.app.goo.gl/HE5nX8tOWuOy2ZSn2](https://photos.app.goo.gl/HE5nX8tOWuOy2ZSn2)
   * Engaging with Primary School Students by playing games: [https://photos.app.goo.gl/oOeus06REtWkQwbU2](https://photos.app.goo.gl/oOeus06REtWkQwbU2)
 
-* 2015-2017 -- Mathematical Statistical Data Engineering Sciences
-  * L1 view on one vein and data engineering sciences on another: [https://photos.app.goo.gl/8BwgJrIx5wVmSJff2](https://photos.app.goo.gl/8BwgJrIx5wVmSJff2)
+* 2015-2017 -- Mathematical Statistical Data Engineering Sciences 
+  * An L1 view on one vein and data engineering sciences on another: [https://photos.app.goo.gl/8BwgJrIx5wVmSJff2](https://photos.app.goo.gl/8BwgJrIx5wVmSJff2)
 ---
 ---
 
 ## My Favourite Mathematical research Presentation Tours
 
-* Presentations at International Mathematical Conferences
+* Presentations at International Mathematical Conferences 
   * A Christchurch-to-Christchurch 2012 Mathematical Tour (Christchurch, Los Angeles, Frankfurt, Moscow, Novosibirsk, Moscow, Oslo, Uppsala, Arlanda, Hong Kong, Christchurch):
   * SiberiaSCAN2012-Oslo: [https://photos.app.goo.gl/WjGUe1Biu8i1UMHw1](https://photos.app.goo.gl/WjGUe1Biu8i1UMHw1)
   * Uppsala-IPA-2012: [https://photos.app.goo.gl/iUreHq13tbZsQZgV2](https://photos.app.goo.gl/iUreHq13tbZsQZgV2)

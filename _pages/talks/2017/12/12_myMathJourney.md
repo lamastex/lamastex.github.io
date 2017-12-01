@@ -13,7 +13,9 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 
 # My Personal Mathematical Journey
 
-by Raazesh Sainudiin on Tuesday December 12 2017, Uppsala, Sweden
+by Raazesh Sainudiin 
+
+on Tuesday December 12 2017, Uppsala, Sweden
 
 This is meant for a live interactive presentation to students in a mathematical club at Uppsala University.
 

@@ -11,34 +11,31 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 ---
 {% include toc %}
 
-Research at LaMaStEx is at the interdisciplinary interface of computing, mathematics and statistics. 
-We use computer arithmetic and combinatorial data-structures through custom-built mathematical and statistical models to rigorously solve numerical optimization and simulation problems that arise in statistical decision-making from real-world data.
-
 # My Personal Mathematical Journey
-### Memetic Notions of Self in Trans-Traditional Life Experiments
 
 by Raazesh Sainudiin
 
 This is meant for a live interactive presentation to students in a mathematical club at Uppsala University.
 
-## Skeletal Outline of Talk
+## Memetic Notions of Self in Trans-Traditional Life Experiments
 
 
-Style and Context: The talk will be spontaneous and interactive.
+**Style and Context:** The talk will be spontaneous and interactive.
 
-Skeletal Outline: What I would like to cover is my own journey into my current mathematical research problems in behavioral ecology, population genetics, social psychology and theologies of extremist ideologies. The mathematical definitions and the resolution of Markov control operators over appropriately measurable combinatorial stochastic processes are motivated by concerns over security and law (every unfamiliar word can be explained interactively and students are encouraged to ask questions).
+**Intended Skeletal Outline:** What I would like to cover is my own journey into my current mathematical research problems in behavioral ecology, population genetics, social psychology and theologies of extremist ideologies. The mathematical definitions and the resolution of Markov control operators over appropriately measurable combinatorial stochastic processes are motivated by concerns over security and law (every unfamiliar word can be explained interactively and students are encouraged to ask questions).
 
 The idea is to view mathematics as various traditions of communicable expressions by live populations of biological species on earth, a fully connected continuum in space-time. Clearly, what is meant by 'self' and 'non-self' and how these notions of self get transmitted (mimetically) within various traditions of experimenters is a core unifying theme of the talk.
 
 You only need some familiarity with high-school level diversity of subjects across basic subjects like history, geography, biology, etc. beyond being a bit brave and stubborn.
 
 Some important landmarks in the journey include:
-[1.]European empirical traditions of Locke, Berkeley and Hume (its mathematical expressions like Charles Law and its pursuant New England Company in North America), 
-[2] Pre-Judea-Christian Indo-European traditions (including those visiting the ancient temples of Gamla Uppsala) with a tri-partite notion of time and lack of ethical hierarchies over the set of Charles Darwin's notion of biological species (mathematical expressions include Aryabhatta's zero and Nagarjuna's logical reasons for emptyness, Pingala's reasons for Binomial coefficients and the ensuing spice trades giving birth to the negative numbers to book-keep ship-wrecks, etc).
-[3] Native American traditions of the American Prairies with a form of purely-in-memory-and-experientially-evolvable oral traditions with radically different notions of space, time, peoples (Buffalo people, grass people, European peoples, Ogalala Lakota People, Cheyenne People, etc) and taxonomy (non-Linean cousin traditions that domesticated potatoes, corn, etc, for example).
-[4] Current traditions and the stability of the joint operational environment (mathematical expressions include von Neumann's MAD principle to ensure limits on operational intensities of current affairs).
 
-# Brief Trajectory in Schooling/Working
+1. European empirical traditions of Locke, Berkeley and Hume (its mathematical expressions like Charles Law and its pursuant New England Company in North America), 
+2. Pre-Judea-Christian Indo-European traditions (including those visiting the ancient temples of Gamla Uppsala) with a tri-partite notion of time and lack of ethical hierarchies over the set of Charles Darwin's notion of biological species (mathematical expressions include Aryabhatta's zero and Nagarjuna's logical reasons for emptyness, Pingala's reasons for Binomial coefficients and the ensuing spice trades giving birth to the negative numbers to book-keep ship-wrecks, etc).
+3. Native American traditions of the American Prairies with a form of purely-in-memory-and-experientially-evolvable oral traditions with radically different notions of space, time, peoples (Buffalo people, grass people, European peoples, Ogalala Lakota People, Cheyenne People, etc) and taxonomy (non-Linean cousin traditions that domesticated potatoes, corn, etc, for example).
+4. Current traditions and the stability of the joint operational environment (mathematical expressions include von Neumann's MAD principle to ensure limits on operational intensities of current affairs).
+
+## Brief Trajectory in Schooling/Working
 
 * 1991 - left India for Minnesota as Count Folke Bernadotte Memorial Scholar to Gustavus Adolphus College
 * was deeply troubled by the experiential awareness of the relativity of loclaly co-fabricated cosmologies

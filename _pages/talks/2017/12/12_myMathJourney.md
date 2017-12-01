@@ -13,7 +13,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 
 # My Personal Mathematical Journey
 
-by Raazesh Sainudiin
+by Raazesh Sainudiin on Tuesday December 12 2017, Uppsala, Sweden
 
 This is meant for a live interactive presentation to students in a mathematical club at Uppsala University.
 
@@ -46,10 +46,10 @@ Some important landmarks in the journey include:
 * switched to MS in Biometrics
 * switched to PhD in Mathematical Staitstics
 * first Post Doc in Mathematics, Dept of Maths, Cornell Univ, USA
-* second Postdoc in Statistical genetics, Dept of Stats, Oxford Univ., Oxford, UK
+* second Postdoc in Statistical genetics, Dept of Stats, Oxford Univ, UK
 * permanent position Lecturer/Senior Lecturer in New Zealand, Univ of Canterbury 2007-2016
 * took an industrial R&D detour in 2015 (data fusion for security and intelligence industry)
-* now here at maths Department at UU and working in Stockholm as consultant once a week
+* now here at Mathematics Department at UU and working in Stockholm as consultant once a week
  
 ---
 ---

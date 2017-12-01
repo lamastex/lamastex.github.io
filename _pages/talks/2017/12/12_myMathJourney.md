@@ -37,7 +37,7 @@ Some important landmarks in the journey include:
 [3] Native American traditions of the American Prairies with a form of purely-in-memory-and-experientially-evolvable oral traditions with radically different notions of space, time, peoples (Buffalo people, grass people, European peoples, Ogalala Lakota People, Cheyenne People, etc) and taxonomy (non-Linean cousin traditions that domesticated potatoes, corn, etc, for example).
 [4] Current traditions and the stability of the joint operational environment (mathematical expressions include von Neumann's MAD principle to ensure limits on operational intensities of current affairs).
 
-# Brief Geospatal Historical Trajectory in Schooling/Working
+# Brief Trajectory in Schooling/Working
 
 * 1991 - left India for Minnesota as Count Folke Bernadotte Memorial Scholar to Gustavus Adolphus College
 * was deeply troubled by the experiential awareness of the relativity of loclaly co-fabricated cosmologies

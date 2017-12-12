@@ -27,6 +27,8 @@ This is meant for a live interactive presentation to students in a mathematical 
 * [01 - Brief Trajectory in Schooling/Working](/talks/2017/12/12_myMathJourney/01/)
 * [02 - Formative Years](/talks/2017/12/12_myMathJourney/02/)
 * [03 - Late Teen Relativity Crisis](/talks/2017/12/12_myMathJourney/03/)
+* [04 - The Nine-Year-BS](/talks/2017/12/12_myMathJourney/04/)
+* [05 - The Six-Year-PhD](/talks/2017/12/12_myMathJourney/05/)
 
 
 # Abstract

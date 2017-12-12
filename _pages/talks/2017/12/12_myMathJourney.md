@@ -39,6 +39,53 @@ Some important landmarks in the journey include:
 
 ## Brief Trajectory in Schooling/Working
 
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['timeline']});
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var container = document.getElementById('timelineCountries');
+        var chart = new google.visualization.Timeline(container);
+        var dataTable = new google.visualization.DataTable();
+
+        dataTable.addColumn({ type: 'string', id: 'Country' });
+        dataTable.addColumn({ type: 'string', id: 'Location' });
+        dataTable.addColumn({ type: 'date', id: 'Start' });
+        dataTable.addColumn({ type: 'date', id: 'End' });
+        dataTable.addRows([
+          [ 'India', 'Chennai', new Date(1973, 11, 15), new Date(1984, 8, 1) ],
+          [ 'India', 'Nilgiris', new Date(1984, 8, 1), new Date(1988, 8, 1) ],
+          [ 'India', 'Chennai', new Date(1988, 8, 1), new Date(1991, 9, 1) ],
+          [ 'USA', 'Gustavus Adolphus Coll., Minnesota', new Date(1991, 9, 1),  new Date(1994, 6, 1) ],
+          [ 'USA', 'SD, Indn. Rsrv.',  new Date(1994, 6, 1),  new Date(1996, 1, 1) ],
+          [ 'USA', 'MN State U', new Date(1996, 1, 1),  new Date(1999, 9, 1) ],
+          [ 'USA', 'NY, Cornell Plant. Path. MS/PhD', new Date(1999, 9, 1),  new Date(2000, 5, 15) ],
+          [ 'USA', 'NY, Phase II Rsrchr. Dow Agro Sci', new Date(2000, 5, 15),  new Date(2000, 9, 1) ],
+          [ 'USA', 'NY, Cornell Biometrics MS/PhD - IGERT', new Date(2000, 9, 1),  new Date(2003, 5, 15) ],
+          [ 'USA', 'NY, Cornell Math Stats PhD - IGERT', new Date(2003, 9, 1),  new Date(2005, 5, 15) ],
+          [ 'USA', 'NY, Cornell Math Postdoc', new Date(2005, 5, 15),  new Date(2005, 12, 15) ],
+          [ 'UK', 'Oxford Math-Stat-Pop-Gen Postdoc', new Date(2005, 12, 15),  new Date(2007, 7, 15) ],
+          [ 'NZ', 'Univ. of Canterbury Lect./Snr.Lect.', new Date(2007, 7, 15),  new Date(2016, 12, 31) ],
+          [ 'NZ', 'Christchurch Data Indust.- Principal Data Scientist', new Date(2015, 1, 1),  new Date(2015, 12, 31) ],
+          [ 'SE', 'Uppsala Rsrchr.', new Date(2017, 1, 1),  new Date(2018, 12, 31) ]
+]);
+
+    var options = {
+        timeline: { showRowLabels: true, groupByRowLabel: false},
+        avoidOverlappingGridLines: false
+      };
+
+      chart.draw(dataTable, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="timelineCountries" style="height: 800px; width: 1000px;"></div>
+  </body>
+</html>
+
 * 1991 - left India for Minnesota as Count Folke Bernadotte Memorial Scholar to Gustavus Adolphus College
 * was deeply troubled by the experiential awareness of the relativity of loclaly co-fabricated cosmologies
 * dropped out from Mathematics and COmputer Science major and switched to Philosohpy and Religion

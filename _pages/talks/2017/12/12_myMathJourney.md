@@ -26,7 +26,10 @@ This is meant for a live interactive presentation to students in a mathematical 
 * [00 - My Personal mathematical Journey](/talks/2017/12/12_myMathJourney/)
 * [01 - Brief Trajectory in Schooling/Working](/talks/2017/12/12_myMathJourney/01/)
 * [02 - Formative Years](/talks/2017/12/12_myMathJourney/02/)
+* [03 - Late Teen Relativity Crisis](/talks/2017/12/12_myMathJourney/03/)
 
+
+# Abstract
 
 **Style and Context:** The talk will be spontaneous and interactive.
 

@@ -16,7 +16,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 
 by Raazesh Sainudiin 
 
-on Tuesday December 12 2017, Uppsala, Sweden
+on Tuesday December 12 2017 1715 hours CET, Angstrom 4003, Uppsala, Sweden
 
 This is meant for a live interactive presentation to students in a mathematical club at Uppsala University.
 

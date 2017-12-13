@@ -39,7 +39,7 @@ This is meant for a live interactive presentation to students in a mathematical 
 
 **Intended Skeletal Outline:** What I would like to cover is my own journey into my current mathematical research problems in behavioral ecology, population genetics, social psychology and theologies of extremist ideologies. The mathematical definitions and the resolution of Markov control operators over appropriately measurable combinatorial stochastic processes are motivated by concerns over security and law (every unfamiliar word can be explained interactively and students are encouraged to ask questions).
 
-The idea is to view mathematics as a way to unambiguously express the actions taken by various traditions of experimenters composed of *live populations of biological species on earth*, a fully connected continuum in space-time. Clearly, what is topologically meant by *self* and *non-self* and how these notions of self at appropriate spatio-temporal scales get transmitted (mimetically) within various human traditions of experimenters is a core unifying theme of the talk.
+The idea is to view mathematics as a way to unambiguously express the actions taken by various traditions of experimenters composed of *live populations of biological species on earth*, a fully connected continuum in space-time. Clearly, what is topologically meant by *self* and *non-self* and how these notions of self at appropriate spatio-temporal scales get transmitted (memetically) within various human traditions of experimenters is a core unifying theme of the talk.
 
 You only need some familiarity with high-school level diversity of subjects across basic subjects like history, geography, biology, etc. beyond being a bit brave and stubborn.
 

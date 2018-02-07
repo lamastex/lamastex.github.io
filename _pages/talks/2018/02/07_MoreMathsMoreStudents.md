@@ -22,6 +22,6 @@ on February 07 2018, Uppsala Sweden
 
 * 00 - Numb3rs for Math Club
   * [Numb3rs math Activities from math@cornell](http://www.math.cornell.edu/~numb3rs/)
-  * [Numb3rs Club from math@canterbury](http://lamastex.org/courses/STAT221/index.shtml)
+  * [Numb3rs Club from math@canterbury](http://lamastex.org/numb3rs/)
 * 01 - Computational Mathematics with SageMath
   * [Comp Math with SageMath](http://lamastex.org/preprints/compSageMathZimmerman120517.pdf)

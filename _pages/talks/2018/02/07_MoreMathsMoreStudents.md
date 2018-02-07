@@ -20,6 +20,8 @@ on February 07 2018, Uppsala Sweden
 
 # Outline
 
+Mathematics prepares you for the ever-changing world - training in thinking and learning
+ 
 * 00 - Numb3rs for Math Club
   * [Numb3rs math Activities from math@cornell](http://www.math.cornell.edu/~numb3rs/)
   * [Numb3rs Club from math@canterbury](http://lamastex.org/numb3rs/)

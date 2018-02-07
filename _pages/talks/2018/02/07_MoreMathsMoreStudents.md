@@ -30,5 +30,7 @@ Mathematics gives you the best time-tested *training in thinking and learning*.
 * 00 - More Students into Maths - Numb3rs for Math Club
   * [Numb3rs math Activities from math@cornell](http://www.math.cornell.edu/~numb3rs/)
   * [Numb3rs Club from math@canterbury](http://lamastex.org/numb3rs/)
+  * "Mathematics is the incubator of future fields" - some famous person
 * 01 - More Maths into Students - Computational Mathematics with SageMath
   * [Comp Math with SageMath](http://lamastex.org/preprints/compSageMathZimmerman120517.pdf)
+  * "The only maths I didn't use is the one I dodn't know" - Lucien LeCam.

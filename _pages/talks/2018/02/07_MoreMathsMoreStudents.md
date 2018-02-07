@@ -20,7 +20,9 @@ on February 07 2018, Uppsala Sweden
 
 # Outline
 
-Mathematics prepares you for the ever-changing world - training in thinking and learning
+Mathematics prepares you for the ever-changing world.
+
+Mathematics education is nothing but training in thinking and learning.
  
 * 00 - Numb3rs for Math Club
   * [Numb3rs math Activities from math@cornell](http://www.math.cornell.edu/~numb3rs/)

@@ -22,10 +22,13 @@ on February 07 2018, Uppsala Sweden
 
 Mathematics prepares you for the ever-changing world.
 
-Mathematics education is nothing but training in thinking and learning.
+Mathematics gives you the best time-tested *training in thinking and learning*.
+
+*Talk Objective:* Get students to appreciate this early in their education career.
+
  
-* 00 - Numb3rs for Math Club
+* 00 - More Students into Maths - Numb3rs for Math Club
   * [Numb3rs math Activities from math@cornell](http://www.math.cornell.edu/~numb3rs/)
   * [Numb3rs Club from math@canterbury](http://lamastex.org/numb3rs/)
-* 01 - Computational Mathematics with SageMath
+* 01 - More Maths into Students - Computational Mathematics with SageMath
   * [Comp Math with SageMath](http://lamastex.org/preprints/compSageMathZimmerman120517.pdf)

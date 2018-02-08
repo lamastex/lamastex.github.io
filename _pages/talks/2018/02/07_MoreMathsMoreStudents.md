@@ -33,4 +33,4 @@ Mathematics gives you the best time-tested *training in thinking and learning*.
   * "Mathematics is the incubator of future fields" - some famous person
 * 01 - More Maths into Students - Computational Mathematics with SageMath
   * [Comp Math with SageMath](http://lamastex.org/preprints/compSageMathZimmerman120517.pdf)
-  * "The only maths I didn't use is the one I dodn't know" - Lucien LeCam.
+  * "The only maths I didn't use is the one I didn't know" - Lucien LeCam.

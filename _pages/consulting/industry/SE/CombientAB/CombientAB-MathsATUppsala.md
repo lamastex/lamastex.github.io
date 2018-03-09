@@ -17,9 +17,6 @@ by Raazesh Sainudiin
 
 on Fri Mar  9 11:04:56 CET 2018, Stockholm, Sweden
 
-supplements folder
-* [supplements](/consulting/industry/SE/CombientAB/CombientAB-MathsATUppsala/)
-
 
 # Abstract
 
@@ -95,7 +92,7 @@ This is a brief record of industrial consulting done by Raazesh Sainudiin for CO
     - AWS Certified Instructor for Cloud Architecture Course in Dublin, 2017  
     - DL/AI Workshop by Databricks at EU Spark Summit in Dublin, 2017
 
-* Inter-Faculty Course in data Sciences
+## Inter-Faculty Course in data Sciences
   - Application succeeds with 80,000 sek from Division of Technical and Natural Sciences at UU plus support from: 
     - Department of Mathematics, Uppsala University
     - Combient AB, for technical feedback and fika support for students 
@@ -107,4 +104,18 @@ This is a brief record of industrial consulting done by Raazesh Sainudiin for CO
     - Scalable Geopspatial Analytics for spatio-temporal trajectory analytics
   - GOAL: Train students for immediate summer intership placements; see example student projects at the end of course
     - [Network anomaly detection: Student Project by Victor Ingman and Kasper Ramström](https://lamastex.github.io/scalable-data-science/sds/2/2/db/999_01_StudentProject_NetworkAnomalyDetection/)    - five projects were done in areas including power forecasting, twitter experimantal designs and NLP, population genomics on the 1000 human genomes project, etc. 
+
+## Rolling out full-day Workshops in Data Science and Engineering
+
+- See the [360-in-525 Minutes Course Set in Data Sciences, Spring 2018 - starting **April 20 2018**](https://lamastex.github.io/360-in-525/)  
+
+### Proposal
+By supporting two secifically skilled Engineering Mathematics Assistants (Dan Lilja and Tilo Wiklund) at 10% of their PhD student salary from **April 1 - June 1 2018** one can generate content for training data scientists for specific needs of various Swedish industries. 
+
+Need support from industry to take advantage of the momentum we have built up since March 2017!
+
+
+## supplements folder
+
+* [supplements](/consulting/industry/SE/CombientAB/CombientAB-MathsATUppsala/)
 

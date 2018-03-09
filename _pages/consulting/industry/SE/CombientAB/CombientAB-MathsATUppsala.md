@@ -86,11 +86,14 @@ This is a brief record of industrial consulting done by Raazesh Sainudiin for CO
   - learnt about coding, software and research habits of data scientists and its possible effects on the rate of prototypung 
     - devised an inter-notebook babling *solution* via Tilo Wiklund's [pinot](https://github.com/TiloWiklund/pinot)
 
-* Public Cloud Integration Efforts
+* Public Cloud Integration Efforts and Continuous Training
   - Uppsala University succeessfully accepted as an [AWS Educate](https://aws.amazon.com/education/awseducate/) Partner Institution ([list of AWS Educate Partner Institutions](https://s3.amazonaws.com/awseducate-list/AWS_Educate_Institutions.pdf))
     - this allows aws-spinnable clusters for **any** Uppsala University student or faculty - ideal for labs in the public cloud
   - Databricks Academic Partnership allows couses in data science in a cloud-free manner
   - Close ties and complementary efforts with Uppsala's Applied Cloud Computing Group (to minimize course overlap and maximize complementation)
+  - Maths Dept at UU and Combient AB jointly sponsored training 
+    - AWS Certified Instructor for Cloud Architecture Course in Dublin, 2017  
+    - DL/AI Workshop by Databricks at EU Spark Summit in Dublin, 2017
 
 * Inter-Faculty Course in data Sciences
   - Application succeeds with 80,000 sek from Division of Technical and Natural Sciences at UU plus support from: 

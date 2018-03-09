@@ -10,7 +10,7 @@ header:
 excerpt: 'At the interface of computing, mathematics and statistics.<br /><br /><br />'
 ---
 
-# Brief Record of Indistrial Consulting 
+# Brief Record of Industrial Consulting 
 ## Emphasizing Industrially-aligned training and research
 
 by Raazesh Sainudiin 

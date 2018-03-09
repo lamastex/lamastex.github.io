@@ -45,9 +45,9 @@ This is a brief record of industrial consulting done by Raazesh Sainudiin for CO
         dataTable.addColumn({ type: 'date', id: 'Start' });
         dataTable.addColumn({ type: 'date', id: 'End' });
         dataTable.addRows([
-          [ 'Data-Engineering', '<a href="https://www.meetup.com/Uppsala-Big-Data-Meetup/events/ckfktmywhbxb/">working with AS</a>', 'Alexey Siretskiy, Data Engineer from Combient AB (https://combient.com/) will be showing us how to build a small private bare-metal cluster on intel NUCs (http://www.intel.com/content/www/us/en/products/boards-kits/nuc.html) with Cobbler (http://cobbler.github.io/) automatically See the Meetup: https://www.meetup.com/Uppsala-Big-Data-Meetup/events/ckfktmywhbxb/', new Date(2017, 3, 1), new Date(2017, 6, 1) ],
-          [ 'IN', 'Chennai', '',  new Date(2017, 6, 1), new Date(2017, 9, 1) ],
-          [ 'AIM-Day Prep', 'working with JEG and HP', '',  new Date(2017, 6, 1), new Date(2017, 9, 1) ],
+          [ 'Data-Engineering', 'working with AS','', new Date(2017, 3, 1), new Date(2017, 6, 1) ],
+          [ 'Data-Science', 'working with Combient data scientists and creating course content', '',  new Date(2017, 6, 1), new Date(2017, 9, 1) ],
+          [ 'Various Activities', 'working on various technical and non-technical aspects of the data science process', 'AIM Day with HP and JEG, BA and HP on data science publicly knwon algorithms, etc',  new Date(2017, 6, 1), new Date(2018, 4, 1) ],
 
           [ 'Proposal April-June 2018', 'Engineering Mathematics Assistants', 'Support for 2 X 10% of 30k sek / month for Engineering Mathematics Assistants Dan Lilija and Tilo Wiklund', new Date(2018, 4, 1), new Date(2018, 6, 1) ]
 ]);
@@ -65,7 +65,7 @@ This is a brief record of industrial consulting done by Raazesh Sainudiin for CO
     </script>
   </head>
   <body>
-    <div id="timelineCountries" style="height: 600px; width: 1000px;"></div>
+    <div id="timelineCountries" style="width: 1000px;"></div>
   </body>
 </html>
 

@@ -11,7 +11,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 ---
 
 # Brief Record of Indistrial Consulting 
-### Industrially-aligned training and research
+## Emphasizing Industrially-aligned training and research
 
 by Raazesh Sainudiin 
 

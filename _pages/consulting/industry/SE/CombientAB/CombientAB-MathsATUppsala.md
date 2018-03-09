@@ -65,7 +65,7 @@ This is a brief record of industrial consulting done by Raazesh Sainudiin for CO
     </script>
   </head>
   <body>
-    <div id="timelineCountries" style="height: 1800px; width: 1000px;"></div>
+    <div id="timelineCountries" style="height: 600px; width: 1000px;"></div>
   </body>
 </html>
 

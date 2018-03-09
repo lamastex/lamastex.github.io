@@ -48,7 +48,7 @@ This is a brief record of industrial consulting done by Raazesh Sainudiin for CO
           [ 'Data-Engineering', 'working with Alexey S', 'Alexey Siretskiy, Data Engineer from Combient AB (https://combient.com/) will be showing us how to build a small private bare-metal cluster on intel NUCs (http://www.intel.com/content/www/us/en/products/boards-kits/nuc.html) with Cobbler (http://cobbler.github.io/) automatically See the Meetup: https://www.meetup.com/Uppsala-Big-Data-Meetup/events/ckfktmywhbxb/', new Date(2017, 3, 1), new Date(2017, 6, 1) ],
           [ 'IN', 'Chennai', '',  new Date(1988, 8, 1), new Date(1991, 9, 1) ],
 
-          [ 'Proposal April-June', 'Engineering Mathematics Assistants', 'Support for 2 X 10% of 30k sek / month for Engineering Mathematics Assistants Dan Lilija and Tilo Wiklund', new Date(1984, 8, 1), new Date(2018, 12, 31) ]
+          [ 'Proposal April-June', 'Engineering Mathematics Assistants', 'Support for 2 X 10% of 30k sek / month for Engineering Mathematics Assistants Dan Lilija and Tilo Wiklund', new Date(2018, 4, 1), new Date(2018, 6, 1) ]
 ]);
 
     var options = {

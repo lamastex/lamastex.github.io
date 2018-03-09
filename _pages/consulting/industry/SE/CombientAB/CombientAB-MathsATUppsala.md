@@ -42,9 +42,9 @@ This is a brief record of industrial consulting done by Raazesh Sainudiin for CO
         dataTable.addColumn({ type: 'date', id: 'Start' });
         dataTable.addColumn({ type: 'date', id: 'End' });
         dataTable.addRows([
-          [ 'Data-Engineering', 'working with AS','', new Date(2017, 3, 1), new Date(2018, 4, 1) ],
-          [ 'Data-Science', 'working with Combient data scientists and creating course content', '',  new Date(2017, 6, 1), new Date(2018, 4, 1) ],
-          [ 'Various Activities', 'working on various technical and non-technical aspects of the data science process', 'AIM Day with HP and JEG, BA and HP on data science publicly knwon algorithms, etc',  new Date(2017, 6, 1), new Date(2018, 4, 1) ],
+          [ 'Data Engineering Science', 'working with AS','', new Date(2017, 3, 1), new Date(2018, 4, 1) ],
+          [ 'Data Science', 'working with Combient data scientists and creating course content', '',  new Date(2017, 6, 1), new Date(2018, 4, 1) ],
+          [ 'Various Other Activities', 'working on various technical and non-technical aspects of the data science process', 'AIM Day with HP and JEG, BA and HP on data science publicly knwon algorithms, etc',  new Date(2017, 6, 1), new Date(2018, 4, 1) ],
 
           [ 'Proposal April-June 2018', 'Engineering Mathematics Assistants', 'Support for 2 X 10% of 30k sek / month for Engineering Mathematics Assistants Dan Lilija and Tilo Wiklund', new Date(2018, 4, 1), new Date(2018, 6, 1) ]
 ]);
@@ -66,7 +66,9 @@ This is a brief record of industrial consulting done by Raazesh Sainudiin for CO
   </body>
 </html>
 
-* **Data Engineering Science** Exchangees between Combient's ACE Data Engineering and Technology Teams and Department of Mathematics, Uppsala University
+# Data Engineering Science
+## Academia-Industry Cooperation and Feedback Loops 
+Exchanges between Combient's ACE Data Engineering and Technology Teams and Department of Mathematics, Uppsala University
   - tested HDP, local onpremise clusters 
   - studied and experimented with various public/private cloud-agnostic code as service solutions
   - industry-academia know-how exchange via:
@@ -92,6 +94,7 @@ This is a brief record of industrial consulting done by Raazesh Sainudiin for CO
     - AWS Certified Instructor for Cloud Architecture Course in Dublin, 2017  
     - DL/AI Workshop by Databricks at EU Spark Summit in Dublin, 2017
 
+# Data Science
 ## Inter-Faculty Course in data Sciences
   - Application succeeds with 80,000 sek from Division of Technical and Natural Sciences at UU plus support from: 
     - Department of Mathematics, Uppsala University
@@ -105,15 +108,18 @@ This is a brief record of industrial consulting done by Raazesh Sainudiin for CO
   - GOAL: Train students for immediate summer intership placements; see example student projects at the end of course
     - [Network anomaly detection: Student Project by Victor Ingman and Kasper Ramström](https://lamastex.github.io/scalable-data-science/sds/2/2/db/999_01_StudentProject_NetworkAnomalyDetection/)    - five projects were done in areas including power forecasting, twitter experimantal designs and NLP, population genomics on the 1000 human genomes project, etc. 
 
-## Rolling out full-day Workshops in Data Science and Engineering
+# Proposal
 
-- See the [360-in-525 Minutes Course Set in Data Sciences, Spring 2018 - starting **April 20 2018**](https://lamastex.github.io/360-in-525/)  
+Pitch - minimal funding to quickly roll out *Full-day Workshops in Data Science and Engineering by Combient AB and Department of Mathematics, Uppsala University* (after June 2 2018).
 
-### Proposal
+- Build from [360-in-525 Minutes Course Set in Data Sciences, Spring 2018 - starting **April 20 2018**](https://lamastex.github.io/360-in-525/) - jointly sponsored by Centre for Interdisciplinary Mathematics and Department of Mathematics, Uppsala University -- scalable geospatial analytics, digital humanities and global news feed processing, population genomics towards personalized medicine, etc. 
+
+### Request
 By supporting two secifically skilled Engineering Mathematics Assistants (Dan Lilja and Tilo Wiklund) at 10% of their PhD student salary from **April 1 - June 1 2018** one can generate content for training data scientists for specific needs of various Swedish industries. 
 
 Need support from industry to take advantage of the momentum we have built up since March 2017!
 
+**Deliverable:** Full-day Workshop Packages that can be remotely or directly done by those at Maths Department or data scientists at Combient for **continual training of data scientists in the co-owner circle**.
 
 ## supplements folder
 

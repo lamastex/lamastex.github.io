@@ -86,4 +86,22 @@ This is a brief record of industrial consulting done by Raazesh Sainudiin for CO
   - learnt about coding, software and research habits of data scientists and its possible effects on the rate of prototypung 
     - devised an inter-notebook babling *solution* via Tilo Wiklund's [pinot](https://github.com/TiloWiklund/pinot)
 
-* 
+* Public Cloud Integration Efforts
+  - Uppsala University succeessfully accepted as an [AWS Educate](https://aws.amazon.com/education/awseducate/) Partner Institution ([list of AWS Educate Partner Institutions](https://s3.amazonaws.com/awseducate-list/AWS_Educate_Institutions.pdf))
+    - this allows aws-spinnable clusters for **any** Uppsala University student or faculty - ideal for labs in the public cloud
+  - Databricks Academic Partnership allows couses in data science in a cloud-free manner
+  - Close ties and complementary efforts with Uppsala's Applied Cloud Computing Group (to minimize course overlap and maximize complementation)
+
+* Inter-Faculty Course in data Sciences
+  - Application succeeds with 80,000 sek from Division of Technical and Natural Sciences at UU plus support from: 
+    - Department of Mathematics, Uppsala University
+    - Combient AB, for technical feedback and fika support for students 
+  - This leads to the development of two data science courses amicably called [Scalable Data Science from Atlantis, A Big Data Course in Apache Spark 2.2](https://lamastex.github.io/scalable-data-science/sds/2/2/) 
+  - [See](https://youtu.be/zloLA6AyNqk?list=PL_I1mOIPmfpawQcs9l1vYfh50RhK_UJfY&t=2530) Combient Data Engineer introducing Combient to students on the first day
+  - The syllabus is interactively designed with weekly input from Combient AB'a current data science needs, examples include: 
+    - Deep Learning and AI (after being trained at EU Spark Summit in Dublin - jointly sponsored by Combient and Maths Dept at UU), 
+    - Structured Streaming for Anomaly Detection via t-digest sketching, etc.
+    - Scalable Geopspatial Analytics for spatio-temporal trajectory analytics
+  - GOAL: Train students for immediate summer intership placements; see example student projects at the end of course
+    - [Network anomaly detection: Student Project by Victor Ingman and Kasper Ramström](https://lamastex.github.io/scalable-data-science/sds/2/2/db/999_01_StudentProject_NetworkAnomalyDetection/)    - five projects were done in areas including power forecasting, twitter experimantal designs and NLP, population genomics on the 1000 human genomes project, etc. 
+

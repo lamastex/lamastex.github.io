@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Consulting for Combinet AB from Department of Mathematics, Uppsala University - 03/2017 - 2018
+title: Consulting for Combient AB from Department of Mathematics, Uppsala University - 03/2017 - 2018
 permalink: /consulting/industry/SE/CombientAB/CombientAB-MathsATUppsala
 author_profile: true
 header:
@@ -44,9 +44,9 @@ This is a brief record of industrial consulting done by Raazesh Sainudiin for Co
         dataTable.addRows([
           [ 'Data Engineering Science', 'working with data scientists and engineers in academia and industry','', new Date(2017, 3, 1), new Date(2018, 4, 1) ],
           [ 'Data Science', 'working with Combient data scientists and creating course content', '',  new Date(2017, 6, 1), new Date(2018, 4, 1) ],
-          [ 'Various Other Activities', 'working on various technical and non-technical aspects of the data science process', 'AIM Day with HP and JEG, BA and HP on data science publicly knwon algorithms, etc',  new Date(2017, 6, 1), new Date(2018, 4, 1) ],
+          [ 'Various Other Activities', 'working on various technical and non-technical aspects of the data science process', 'AIM Day with HP and JEG, BA and HP on data science publicly known algorithms, etc',  new Date(2017, 6, 1), new Date(2018, 4, 1) ],
 
-          [ 'Proposal April-June 2018', 'Engineering Mathematics Assistants', 'Support for 2 X 10% of 30k sek / month for Engineering Mathematics Assistants Dan Lilija and Tilo Wiklund', new Date(2018, 4, 1), new Date(2018, 6, 1) ]
+          [ 'Proposal April-June 2018', 'Engineering Mathematics Assistants', 'Support for 2 X 10% of 30k sek / month for Engineering Mathematics Assistants Dan Lilja and Tilo Wiklund', new Date(2018, 4, 1), new Date(2018, 6, 1) ]
 ]);
 
     var options = {
@@ -82,13 +82,13 @@ Exchanges between Combient's ACE Data Engineering and Technology Teams and Depar
     - <a href="https://lamastex.github.io/scalable-data-science/sds/basics/infrastructure/onpremise/rootless/">Installing Spark-Hadoop-Yarn-Hive-Zeppelin without Root Access, by Dan Lilja, PhD Student, Department of Mathematics, Uppsala University</a>
     - <a href="https://lamastex.github.io/scalable-data-science/sds/basics/infrastructure/onpremise/setups/">Networking/OS Setups for your On-Premise Cluster of Computers by Tilo Wiklund, PhD Student, Department of Mathematics, Uppsala University</a>
     - <a href="https://lamastex.github.io/scalable-data-science/sds/basics/infrastructure/onpremise/bashSparkCluster/">How to BASH your own Spark-Yarn-HDFS cluster? by Benny Avelin, Data Scientist, Combient AB</a>
-  - learnt about coding, software and research habits of data scientists and its possible effects on the rate of prototypung 
+  - have learnt about coding, software and research habits of data scientists and its possible effects on the rate of prototyping 
     - devised an inter-notebook babling *solution* via Tilo Wiklund's [pinot](https://github.com/TiloWiklund/pinot)
 
 * Public Cloud Integration Efforts and Continuous Training
-  - Uppsala University succeessfully accepted as an [AWS Educate](https://aws.amazon.com/education/awseducate/) Partner Institution ([list of AWS Educate Partner Institutions](https://s3.amazonaws.com/awseducate-list/AWS_Educate_Institutions.pdf))
+  - Uppsala University successfully accepted as an [AWS Educate](https://aws.amazon.com/education/awseducate/) Partner Institution ([list of AWS Educate Partner Institutions](https://s3.amazonaws.com/awseducate-list/AWS_Educate_Institutions.pdf))
     - this allows aws-spinnable clusters for **any** Uppsala University student or faculty - ideal for labs in the public cloud
-  - Databricks Academic Partnership allows couses in data science in a cloud-free manner
+  - Databricks Academic Partnership allows courses in data science in a cloud-free manner
   - Close ties and complementary efforts with Uppsala's Applied Cloud Computing Group (to minimize course overlap and maximize complementation)
   - Maths Dept at UU and Combient AB jointly sponsored training 
     - AWS Certified Instructor for Cloud Architecture Course in Dublin, 2017  
@@ -106,9 +106,9 @@ Exchanges between Combient's ACE Data Engineering and Technology Teams and Depar
   - The syllabus is interactively designed with weekly input from Combient AB'a current data science needs, examples include: 
     - Deep Learning and AI (after being trained at EU Spark Summit in Dublin - jointly sponsored by Combient and Maths Dept at UU), 
     - Structured Streaming for Anomaly Detection via t-digest sketching, etc.
-    - Scalable Geopspatial Analytics for spatio-temporal trajectory analytics
-  - GOAL: Train students for immediate summer intership placements; see example student projects at the end of course
-    - [Network anomaly detection: Student Project by Victor Ingman and Kasper Ramström](https://lamastex.github.io/scalable-data-science/sds/2/2/db/999_01_StudentProject_NetworkAnomalyDetection/)    - five projects were done in areas including power forecasting, twitter experimantal designs and NLP, population genomics on the 1000 human genomes project, etc. 
+    - Scalable Geospatial Analytics for spatio-temporal trajectory analytics
+  - GOAL: Train students for immediate summer internship placements; see example student projects at the end of course
+    - [Network anomaly detection: Student Project by Victor Ingman and Kasper Ramström](https://lamastex.github.io/scalable-data-science/sds/2/2/db/999_01_StudentProject_NetworkAnomalyDetection/)    - five projects were done in areas including power forecasting, twitter experimental designs and NLP, population genomics on the 1000 human genomes project, etc. 
 
 # Proposal
 
@@ -117,7 +117,7 @@ Pitch - minimal funding to quickly roll out *Full-day Workshops in Data Science 
 - Build from [360-in-525 Minutes Course Set in Data Sciences, Spring 2018 - starting **April 20 2018**](https://lamastex.github.io/360-in-525/) - jointly sponsored by Centre for Interdisciplinary Mathematics and Department of Mathematics, Uppsala University -- scalable geospatial analytics, digital humanities and global news feed processing, population genomics towards personalized medicine, etc. 
 
 ### Request
-By supporting two secifically skilled Engineering Mathematics Assistants (Dan Lilja and Tilo Wiklund) at 10% of their PhD student salary from **April 1 - June 1 2018** one can generate content for training data scientists for specific needs of various Swedish industries. 
+By supporting two specifically skilled Engineering Mathematics Assistants (Dan Lilja and Tilo Wiklund) at 10% of their PhD student salary from **April 1 - June 1 2018** one can generate content for training data scientists for specific needs of various Swedish industries. 
 
 Need support from industry to take advantage of the momentum we have built up since March 2017!
 

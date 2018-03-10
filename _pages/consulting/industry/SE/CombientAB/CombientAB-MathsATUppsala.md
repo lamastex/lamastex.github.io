@@ -86,7 +86,7 @@ Exchanges between Combient's ACE Data Engineering and Technology Teams and Depar
     - devised an inter-notebook babling *solution* via Tilo Wiklund's [pinot](https://github.com/TiloWiklund/pinot)
 
 * Public Cloud Integration Efforts and Continuous Training
-  - Uppsala University successfully accepted as an [AWS Educate](https://aws.amazon.com/education/awseducate/) Partner Institution ([list of AWS Educate Partner Institutions](https://s3.amazonaws.com/awseducate-list/AWS_Educate_Institutions.pdf))
+  - Uppsala University was successfully accepted as an [AWS Educate](https://aws.amazon.com/education/awseducate/) Partner Institution ([list of AWS Educate Partner Institutions](https://s3.amazonaws.com/awseducate-list/AWS_Educate_Institutions.pdf))
     - this allows aws-spinnable clusters for **any** Uppsala University student or faculty - ideal for labs in the public cloud
   - Databricks Academic Partnership allows courses in data science in a cloud-free manner
   - Close ties and complementary efforts with Uppsala's Applied Cloud Computing Group (to minimize course overlap and maximize complementation)

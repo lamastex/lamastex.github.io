@@ -20,7 +20,7 @@ on Fri Mar  9 11:04:56 CET 2018, Stockholm, Sweden
 
 # Abstract
 
-This is a brief record of industrial consulting done by Raazesh Sainudiin for COmbient AB from the Department of Mathematics, Uppsala University. 
+This is a brief record of industrial consulting done by Raazesh Sainudiin for Combient AB from the Department of Mathematics, Uppsala University. 
 
 ---
 ---

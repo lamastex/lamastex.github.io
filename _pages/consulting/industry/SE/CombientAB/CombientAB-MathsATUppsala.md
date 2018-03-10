@@ -95,13 +95,13 @@ Exchanges between Combient's ACE Data Engineering and Technology Teams and Depar
     - DL/AI Workshop by Databricks at EU Spark Summit in Dublin, 2017
 
 # Data Science
-## Inter-Faculty Course in data Sciences
+## Inter-Faculty Course in Data Sciences
   - Application succeeds with 80,000 sek from Division of Technical and Natural Sciences at UU plus support from: 
     - Department of Mathematics, Uppsala University
     - Combient AB, for technical feedback and fika support for students 
-  - This leads to the development of two data science courses amicably called [Scalable Data Science from Atlantis, A Big Data Course in Apache Spark 2.2](https://lamastex.github.io/scalable-data-science/sds/2/2/) 
+  - This leads to the development of two data science courses (Introduction to data Science and Fundamentals of Data Science) that were publically wrapped as [Scalable Data Science from Atlantis, A Big Data Course in Apache Spark 2.2](https://lamastex.github.io/scalable-data-science/sds/2/2/) 
     - see the [github repository](https://github.com/lamastex/scalable-data-science/) (43 stars, 38 forks and 15 contributors by March 2018)
-    - see the [gitbook of a subset of the content](https://www.gitbook.com/book/lamastex/sds-2-2/details) 
+    - see the [gitbook of a subset of the content](https://www.gitbook.com/book/lamastex/sds-2-2/details) edited by Dan Lilja, Raazesh Sainudiin and Tilo Wiklund (about 2000 pages)
   - [See](https://youtu.be/zloLA6AyNqk?list=PL_I1mOIPmfpawQcs9l1vYfh50RhK_UJfY&t=2530) Combient Data Engineer introducing Combient to students on the first day
   - The syllabus is interactively designed with weekly input from Combient AB'a current data science needs, examples include: 
     - Deep Learning and AI (after being trained at EU Spark Summit in Dublin - jointly sponsored by Combient and Maths Dept at UU), 

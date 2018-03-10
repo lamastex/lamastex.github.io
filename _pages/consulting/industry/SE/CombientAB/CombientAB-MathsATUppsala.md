@@ -81,7 +81,7 @@ Exchanges between Combient's ACE Data Engineering and Technology Teams and Depar
     - <a href="https://lamastex.github.io/scalable-data-science/sds/basics/infrastructure/onpremise/NUCcluster/">Building NUC Cluster, by Alexey Siretskiy, Data Engineer, Combient AB</a>
     - <a href="https://lamastex.github.io/scalable-data-science/sds/basics/infrastructure/onpremise/rootless/">Installing Spark-Hadoop-Yarn-Hive-Zeppelin without Root Access, by Dan Lilja, PhD Student, Department of Mathematics, Uppsala University</a>
     - <a href="https://lamastex.github.io/scalable-data-science/sds/basics/infrastructure/onpremise/setups/">Networking/OS Setups for your On-Premise Cluster of Computers by Tilo Wiklund, PhD Student, Department of Mathematics, Uppsala University</a>
-    - <a href="PhD Student in Mathematics, Uppsala University">How to BASH your own Spark-Yarn-HDFS cluster? by Benny Avelin, Data Scientist, Combient AB</a>
+    - <a href="https://lamastex.github.io/scalable-data-science/sds/basics/infrastructure/onpremise/bashSparkCluster/">How to BASH your own Spark-Yarn-HDFS cluster? by Benny Avelin, Data Scientist, Combient AB</a>
   - learnt about coding, software and research habits of data scientists and its possible effects on the rate of prototypung 
     - devised an inter-notebook babling *solution* via Tilo Wiklund's [pinot](https://github.com/TiloWiklund/pinot)
 

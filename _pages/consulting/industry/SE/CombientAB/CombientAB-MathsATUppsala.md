@@ -42,7 +42,7 @@ This is a brief record of industrial consulting done by Raazesh Sainudiin for Co
         dataTable.addColumn({ type: 'date', id: 'Start' });
         dataTable.addColumn({ type: 'date', id: 'End' });
         dataTable.addRows([
-          [ 'Data Engineering Science', 'working with AS','', new Date(2017, 3, 1), new Date(2018, 4, 1) ],
+          [ 'Data Engineering Science', 'working with data scientists and engineers','', new Date(2017, 3, 1), new Date(2018, 4, 1) ],
           [ 'Data Science', 'working with Combient data scientists and creating course content', '',  new Date(2017, 6, 1), new Date(2018, 4, 1) ],
           [ 'Various Other Activities', 'working on various technical and non-technical aspects of the data science process', 'AIM Day with HP and JEG, BA and HP on data science publicly knwon algorithms, etc',  new Date(2017, 6, 1), new Date(2018, 4, 1) ],
 

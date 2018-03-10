@@ -123,7 +123,4 @@ Need support from industry to take advantage of the momentum we have built up si
 
 **Deliverable:** Full-day Workshop Packages that can be remotely or directly done by those at Maths Department or data scientists at Combient for **continual training of data scientists in the co-owner circle**.
 
-## supplements folder
-
-* [supplements](/consulting/industry/SE/CombientAB/CombientAB-MathsATUppsala/)
 

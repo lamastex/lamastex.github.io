@@ -14,6 +14,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 <h1>Selected Research Talks</h1>
 <br>
 <ol reversed="">
+<li><a class="linkitem" href="http://lamastex.org/talks/20180322_Orebro_2016USElection.pdf">PDF</a></li>
 <li>Thursday 15 February 2018, on "Towards Participatory Democracy in the Big Data Age", Engineers without Borders and Reflective Engineer Society, Uppsala University, Uppsala, Sweden (<a class="linkitem" href="http://lamastex.org/talks/20180215_TowardsParticipatoryDemocracyBigDataAge90Minutes.pdf">PDF</a> 6.9MB)</li>
 <li>Wednesday 07 February 2018, on "How to get more Mathematics into Students and more Students into Mathematics", Uppsala University, Uppsala, Sweden (<a class="linkitem" href="https://lamastex.github.io/talks/2018/02/07_MoreMathsMoreStudents/">md of talk</a>)</li>
 <li>Friday 2 February 2018, on "Statistical Regular Pavings for Density Estimation and Tree Arithmetic", VASCO Workshop, Uppsala, Sweden</li>

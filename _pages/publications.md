@@ -94,7 +94,7 @@ Please see [CV](/cv/) for a field-specific picture.
 
 # Submitted / Under Review
 <ol reversed="">
-<li>Minimum distance estimation with universal performance guarantees over adaptive multivariate histograms on statistical regular pavings, Raazesh Sainudiin and Gloria Teng, 17 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180405_MDEYatracosThis.pdf">PDF</a> 708KB)</li>
+<li>Minimum distance estimation with universal performance guarantees over statistical regular pavings, Raazesh Sainudiin and Gloria Teng, 17 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180405_MDEYatracosThis.pdf">PDF</a> 708KB)</li>
 <li>Full Likelihood Inference from the Site Frequency Spectrum based on the Optimal Tree Resolution, Raazesh Sainudiin and Amandine V&eacute;ber, 47 Pages, 2017 (<a class="linkitem" href="http://lamastex.org/preprints/2017SfsOptimalTree.pdf">PDF</a> 676KB)</li>
 <li>Some Distributions on Finite Rooted Binary Trees, Sean Cleary, Mareike Fischer, Robert C. Griffiths and Raazesh Sainudiin, 25 pages, 2017 (<a class="linkitem" href="https://arxiv.org/abs/1708.06130">arxiv:1708.06130</a>)</li>
 <li>Kumar Yogeeswaran, Kyle Nash, Rania Sahioun and Raazesh Sainudiin, Seeded by Hate? Characterizing the Twitter Networks of Prominent Politicians and Hate Groups in the 2016 US Election, 2017 (<a class="linkitem" href="http://lamastex.org/preprints/2017HateIn2016USAElection.pdf">PDF of Working Paper</a> 816KB)</li>

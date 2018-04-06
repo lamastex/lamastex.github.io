@@ -86,7 +86,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 <li>
 <strong>Computational Nonparametric Statistics</strong>
 <ul>
-<li>Data-adaptive histograms through statistical regular pavings, Raazesh Sainudiin, Gloria Teng, Jennifer Harlow and Warwick Tucker, 2016 (<a class="linkitem" href="http://lamastex.org/preprints/20161121optMAPMDE.pdf">PDF</a> 1.8MB, under review)</li>
+<li>Data-adaptive histograms through statistical regular pavings, Raazesh Sainudiin, Gloria Teng, Jennifer Harlow and Warwick Tucker, 2016 (<a class="linkitem" href="http://lamastex.org/preprints/20161121optMAPMDE.pdf">PDF</a> 2.6MB, under review)</li>
 <li>Posterior expectation of regularly paved random histograms, Raazesh Sainudiin, Gloria Teng, Jennifer Harlow and Dominic Lee, <a class="linkitem" href="http://dx.doi.org/10.1145/2414416.2414422">ACM Trans. Model. Comput. Simul. 23, 1, Article 6, 20 pages (Special Issue on Monte Carlo Methods in Statistics)</a>, 2013 (<a class="linkitem" href="http://lamastex.org/preprints/SubPavingMCMC.pdf">PDF</a> 1864KB)</li>
 </ul>
 </li>

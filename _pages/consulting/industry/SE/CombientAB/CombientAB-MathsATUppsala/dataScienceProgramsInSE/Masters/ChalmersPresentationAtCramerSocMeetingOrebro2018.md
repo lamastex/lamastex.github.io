@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Consulting for Combient AB from Department of Mathematics, Uppsala University - 03/2017 - 2018 - Subtopic: Data Science Programmes in SE
-permalink: /consulting/industry/SE/CombientAB/CombientAB-MathsATUppsala/dataScienceProgramsInSE/Masters/ChalmersPresentationAtCramerSocMeetingOrebro2018
+permalink: 
 author_profile: true
 header:
   overlay_color: "#5e616c"

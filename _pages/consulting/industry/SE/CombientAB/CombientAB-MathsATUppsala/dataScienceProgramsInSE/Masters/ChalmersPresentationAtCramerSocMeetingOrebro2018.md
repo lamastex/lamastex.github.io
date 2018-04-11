@@ -24,7 +24,8 @@ Combient partly supported my visit to Orebro to participate in a statistical mee
 Here is a brief visual summary of the presentation by Professor Johan Jonasson of Chalmers University (it is primarily meant for sharing with Combient's Data Scientist and executives in order to anticipate and optimize the track-specific training and placement of data science interns in their final semester of such a program in appropriate positions in Combient's co-owners and members via Jan-Erik Gustavsson):
 
 
-* <img src="images/dataScienceMScChalmersStyle_0_small.jpg">
-* <img src="images/dataScienceMScChalmersStyle_1_small.jpg">
-* <img src="images/dataScienceMScChalmersStyle_ExampleTrackAlgorithms_0_small.jpg">
-* <img src="images/dataScienceMScChalmersStyle_ExampleTrackAlgorithms_1_small.jpg">
+* <img src="https://github.com/lamastex/lamastex.github.io/raw/master/_pages/consulting/industry/SE/CombientAB/CombientAB-MathsATUppsala/dataScienceProgramsInSE/Masters/ChalmersPresentationAtCramerSocMeetingOrebro2018/images/dataScienceMScChalmersStyle_0_small.jpg">
+* <img src="https://github.com/lamastex/lamastex.github.io/raw/master/_pages/consulting/industry/SE/CombientAB/CombientAB-MathsATUppsala/dataScienceProgramsInSE/Masters/ChalmersPresentationAtCramerSocMeetingOrebro2018/images/dataScienceMScChalmersStyle_1_small.jpg">
+* <img src="https://github.com/lamastex/lamastex.github.io/raw/master/_pages/consulting/industry/SE/CombientAB/CombientAB-MathsATUppsala/dataScienceProgramsInSE/Masters/ChalmersPresentationAtCramerSocMeetingOrebro2018/images/">
+* <img src="https://github.com/lamastex/lamastex.github.io/raw/master/_pages/consulting/industry/SE/CombientAB/CombientAB-MathsATUppsala/dataScienceProgramsInSE/Masters/ChalmersPresentationAtCramerSocMeetingOrebro2018/images/dataScienceMScChalmersStyle_ExampleTrackAlgorithms_0_small.jpg">
+* <img src="https://github.com/lamastex/lamastex.github.io/raw/master/_pages/consulting/industry/SE/CombientAB/CombientAB-MathsATUppsala/dataScienceProgramsInSE/Masters/ChalmersPresentationAtCramerSocMeetingOrebro2018/images/dataScienceMScChalmersStyle_ExampleTrackAlgorithms_1_small.jpg">

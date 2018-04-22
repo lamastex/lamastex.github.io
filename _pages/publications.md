@@ -94,12 +94,13 @@ Please see [CV](/cv/) for a field-specific picture.
 
 # Submitted / Under Review
 <ol reversed="">
+<li>Rejecting the Null Hypothesis of Apathetic Retweeting of US politicians and SPLC-defined Hate Groups in the 2016 US Presidential Election, Raazesh Sainudiin, Kumar Yogeeswaran, Kyle Nash and Rania Sahioun, 8 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180423_NullApatheticRetweetOfUSPolitsHategrps.pdf">PDF</a> 448KB)</li>
 <li>Minimum distance estimation with universal performance guarantees over statistical regular pavings, Raazesh Sainudiin and Gloria Teng, 17 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180405_MDEYatracosThis.pdf">PDF</a> 708KB)</li>
 <li>Full Likelihood Inference from the Site Frequency Spectrum based on the Optimal Tree Resolution, Raazesh Sainudiin and Amandine V&eacute;ber, 47 Pages, 2017 (<a class="linkitem" href="http://lamastex.org/preprints/2017SfsOptimalTree.pdf">PDF</a> 676KB)</li>
 <li>Some Distributions on Finite Rooted Binary Trees, Sean Cleary, Mareike Fischer, Robert C. Griffiths and Raazesh Sainudiin, 25 pages, 2017 (<a class="linkitem" href="https://arxiv.org/abs/1708.06130">arxiv:1708.06130</a>)</li>
-<li>Kumar Yogeeswaran, Kyle Nash, Rania Sahioun and Raazesh Sainudiin, Seeded by Hate? Characterizing the Twitter Networks of Prominent Politicians and Hate Groups in the 2016 US Election, 2017 (<a class="linkitem" href="http://lamastex.org/preprints/2017HateIn2016USAElection.pdf">PDF of Working Paper</a> 816KB)</li>
+<li>Seeded by Hate? Characterizing the Twitter Networks of Prominent Politicians and Hate Groups in the 2016 US Election, Kumar Yogeeswaran, Kyle Nash, Rania Sahioun and Raazesh Sainudiin, 2017 (<a class="linkitem" href="http://lamastex.org/preprints/2017HateIn2016USAElection.pdf">PDF of Working Paper</a> 816KB)</li>
 <li>Data-adaptive histograms through statistical regular pavings, Raazesh Sainudiin, Gloria Teng, Jennifer Harlow and Warwick Tucker, 2016 (<a class="linkitem" href="http://lamastex.org/preprints/20161121optMAPMDE.pdf">PDF</a> 2.6MB)</li>
-<li>Jasper Mackenzie, Raazesh Sainudiin, James Smithies and Heather Wolffram, A nonparametric view of the civilizing process in London's Old Bailey, Research Report UCDMS2015/1, 32 pages, 2015 (<a class="linkitem" href="http://lamastex.org/preprints/20150828_civilizingProcOBO.pdf">PDF version 2</a> 1.2MB, <a class="linkitem" href="http://lamastex.org/preprints/20150828_civilizingProcOBOv1.pdf">PDF version 1</a> 4.8MB)</li>
+<li>A nonparametric view of the civilizing process in London's Old Bailey, Jasper Mackenzie, Raazesh Sainudiin, James Smithies and Heather Wolffram, Research Report UCDMS2015/1, 32 pages, 2015 (<a class="linkitem" href="http://lamastex.org/preprints/20150828_civilizingProcOBO.pdf">PDF version 2</a> 1.2MB, <a class="linkitem" href="http://lamastex.org/preprints/20150828_civilizingProcOBOv1.pdf">PDF version 1</a> 4.8MB)</li>
 </ol>
 
 # In Preparation

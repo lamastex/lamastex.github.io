@@ -32,7 +32,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 <ol>
 <li>2017 Jan - : <a href="http://katalog.uu.se/profile/?id=N17-214">Researcher in Applied Mathematics and Statistics</a>, <a href="http://www.math.uu.se/">Department of Mathematics</a>, <a href="http://www.uu.se/">Uppsala University</a>, Uppsala, Sweden</li>
 <li>2017 Apr - : Data Science Consultant, <a href="https://combient.com">Combient AB</a>, Stockholm, Sweden</li>
-<li>2016 Sep - : Chief Analytics Officer and Co-founder, <a href="http://webintrinsics.io">WebIntrinsics.io</a>, Christchurch, New Zealand</li>
+<li>2016 - 2017: Chief Analytics Officer and Co-founder, <a href="http://webintrinsics.io">WebIntrinsics.io</a>, Christchurch, New Zealand</li>
 <li>2016 Nov - Dec: Invited Professor, Research Chair in Mathematical Models of Biodiversity held by <a href="http://en.wikipedia.org/wiki/Veolia_Environnement">Veolia Environnement</a>, <a href="http://www.mnhn.fr/fr">French National Museum of Natural History</a>, Paris and <a href="http://www.cmap.polytechnique.fr/">Centre for Mathematics and its Applications, Ecole Polytechnique</a>, Palaiseau, France</li>
 <li>2012 - 2016: Senior Lecturer, <a href="http://www.math.canterbury.ac.nz/">School of Mathematics and Statistics, University of Canterbury, NZ</a></li>
 <li>2016 Jul - Aug: <a href="http://corcon.net/about/">CORCON</a> Gästforskare, <a href="http://www.math.su.se/english/">Matematiska institutionen, Stockholms Universitet, Stockholm, Sweden</a></li>
@@ -178,7 +178,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 </li>
 </ol>
 
-<p>See <a class="linkitem" href="/research/">Current list of all all publications</a> and <a href="http://scholar.google.com/citations?user=QhWtb8oAAAAJ">Google Scholar</a>.</p>
+<p>See <a class="linkitem" href="/publications/">Current list of all publications</a> or unmaintained <a href="http://scholar.google.com/citations?user=QhWtb8oAAAAJ">Google Scholar</a>.</p>
 
 # Service
 <ul>

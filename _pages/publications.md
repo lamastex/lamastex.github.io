@@ -94,6 +94,7 @@ Please see [CV](/cv/) for a field-specific picture.
 
 # Submitted / Under Review
 <ol reversed="">
+<li>Exact Bayesian A/B testing using distributed fault-tolerant Moore rejection sampler, Benny Avelin and Raazesh Sainudiin, Extended Abstract, 2 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180507_ABTestingViaDistributedMRS.pdf">PDF</a> 104KB)</li>
 <li>Scalable Multivariate Histograms, Raazesh Sainudiin and Tilo Wiklund, 14 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180506_SparkDensityTree.pdf">PDF</a> 800KB)</li>
 <li>Rejecting the Null Hypothesis of Apathetic Retweeting of US politicians and SPLC-defined Hate Groups in the 2016 US Presidential Election, Raazesh Sainudiin, Kumar Yogeeswaran, Kyle Nash and Rania Sahioun, 8 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180423_NullApatheticRetweetOfUSPolitsHategrps.pdf">PDF</a> 448KB)</li>
 <li>Minimum distance estimation with universal performance guarantees over statistical regular pavings, Raazesh Sainudiin and Gloria Teng, 17 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180405_MDEYatracosThis.pdf">PDF</a> 708KB)</li>

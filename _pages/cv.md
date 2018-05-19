@@ -165,7 +165,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 <li>
 <strong>Applications in Natural Language Processing (Word sense disambiguation)</strong>
 <ul>
-<li>An Iterative `Sudoku Style' Approach to Subgraph-based Word Sense Disambiguation, Steve L. Manion and Raazesh Sainudiin, <a class="linkiten" href="http://starsem.webhosting.rug.nl/wp/?page_id=138">Proceedings of the Third Joint Conference on Lexical and Computational Semantics, *SEM 2014</a>, Dublin, Ireland, August 23-24, 11 pages, 2014 (<a class="linkitem" href="http://lamastex.org/preprints/2014IterativeSudokuSGBWordSenseDisambiguation.pdf">PDF</a> 328 KB)</li>
+<li>An Iterative `Sudoku Style' Approach to Subgraph-based Word Sense Disambiguation, Steve L. Manion and Raazesh Sainudiin, <a class="linkiten" href="https://aclanthology.coli.uni-saarland.de/papers/S14-1005/s14-1005">Proceedings of the Third Joint Conference on Lexical and Computational Semantics, *SEM 2014</a>, Dublin, Ireland, August 23-24, 11 pages, 2014 (<a class="linkitem" href="http://lamastex.org/preprints/2014IterativeSudokuSGBWordSenseDisambiguation.pdf">PDF</a> 328 KB)</li>
 <li>DAEBAK!: Peripheral Diversity for Multilingual Word Sense Disambiguation, Steve Manion and Raazesh Sainudiin, <a class="linkitem" href="http://aclweb.org/anthology/siglex.html#2013_1">Proceedings of the 7th International Workshop on Semantic Evaluation (SemEval 2013), in conjunction with the Second Joint Conference on Lexical and Computational Semantics (*SEM 2013)</a>, 5 pages, 2013 (<a class="linkitem" href="http://lamastex.org/preprints/DaebakSemEval2013Task12.pdf">PDF</a> 196KB)</li>
 </ul>
 </li>

@@ -54,12 +54,17 @@ Currently there are no PhD students as primary supervisees.
 ### Masters Students
 
 <ol reversed="" start="15">
-<li>2017, Masters Programme in Engineering Physics (Civilingenjör i Teknisk Fysik) Computational Science, Joakim Johansson - (Senior Supervisor)</li>
+<li>2018, Masters Programme in Computer Science (Civilingenjör i IT), Gabriel Unesi - (Senior Supervisor)</li>
 </ol>
 
 
 Former Students 
 ---------------
+
+### At Uppsala University, Uppsala, SE
+<ol reversed="">
+<li>2018, Candidate Thesis in Engineering Physics (Civilingenjör i Teknisk Fysik) Computational Science, Olof Björck (Main Supervisor)<li>
+<li>2017, Masters Programme in Engineering Physics (Civilingenjör i Teknisk Fysik) Computational Science, Joakim Johansson - (Senior Supervisor with Examiner as David Sumpter)</li>
 
 ### At University of Canterbury, Christchurch, NZ
 

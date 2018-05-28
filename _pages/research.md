@@ -145,7 +145,7 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 - 14.9Mkr: VR Research Environment Grant (Migration and Integration); *Integration in a mobile society, modelling and analysing how everyday mobility is shaping the potential for integration*
   - Co-Applicant with main applicant <a href="http://www.kultgeog.uu.se/kontakt/personal/John_Osth/">John Östh, Department of Cultural and Economic Geography, Uppsala University</a>
 - 29Mkr: VR Research Environment Grant (Interdisciplinary Research); *Privacy-preserving Decisions from Social Media Communications and Geo-spatial Movements of a Sovereign European Population*
-  - Main Applicant with some of the following participating researchers:
+  - Main Applicant with some of the key participating researchers:
     - <a href="https://katalog.uu.se/profile/?id=N3-955">Anna Sara-Lind</a>, Professor of Public Law at the Faculty of Law, Uppsala University
     - <a href="http://www.kultgeog.uu.se/kontakt/personal/John_Osth/">John Östh</a>, Associate Professor, Department of Cultural and Economic Geography, Uppsala University
     - <a href="http://www.cmap.polytechnique.fr/~gaiffas/">Stéphane Gaïffas</a>, Professeur, Laboratoire de Probabilités et Modèles Aléatoires, Université Paris Diderot, Paris, France 

@@ -27,6 +27,8 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 
 * [Project SAHDE: Scalable Adaptive Histogram Density Estimation](https://lamastex.github.io/scalable-data-science/sds/research/densityEstimation/sahde/)
 
+# Research Vision and Grant
+
 <html>
   <head>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>

@@ -152,6 +152,6 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
     - <a href="http://www.cmap.polytechnique.fr/~veber/">Amandine Veber</a>, CNRS Researcher, Centre de Mathématiques Appliquées, École Polytechnique, Palaiseau, France
 - 4.8Mkr: Twitter Health Metrics Research; *Scalable Markov Kernels from Twitterverse to the GDELT Project*
   - Main Applicant (20% + 1 PhD)
-- 2.9Mkr: Research grant jointly with a Telecom Company, Private Foundation and Tel Aviv University, Israel *Mobile Phone Data for Society and Privacy for the Individual: From the Conflict to a Synergy in Transport Flows Analysis*
+- 2.9Mkr: Research grant jointly with Blavtnik Interdisciplinary Cyber Research Center, a Telecom Company and Tel Aviv University, Israel *Mobile Phone Data for Society and Privacy for the Individual: From the Conflict to a Synergy in Transport Flows Analysis*
   - Co-PIs with Professors Itzhak Benenson and Itzhak Omer, Porter School of Environment and Geoscience, Faculty of Exact Sciences, Tel Aviv University (10% rsrch + 1 PhD co-supervision)
 

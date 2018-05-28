@@ -66,11 +66,7 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
           [19, 'g-VR: Privacy Pres. Decs', 12, 5, 10],
           [20, 'g-VR: CALISTA', 11, 5, 10],
           [21, 'g-IL: TelAviv', 11, 5, 10],
-          [22, 'g-Tw Health Metrics', 12, 2, 10],
-
-
-          [23, 'JohnÖsth@kultgeog.uu', 20, 5, 10],
-          [24, '', 20, 5, 10],
+          [22, 'g-Tw Health Metrics', 12, 2, 10]
 ]);
 
         var options = {

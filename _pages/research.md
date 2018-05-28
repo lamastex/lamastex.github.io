@@ -93,7 +93,7 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 ## Most Important Contributions to Research
 #### With Current Directions
 
-### Combinatorial Stochastic Processes & Data Science
+### Mathematical Statistical Combinatorial Stochastic Processes & Data Science
 
 - Ancestries of a Recombining Diploid Population, Raazesh Sainudiin, Bhalchandra Thatte, and Amandine V&eacute;ber, Journal of Mathematical Biology, Volume 72, Issue 1, pp 363-408, 2016 (preprint <a class="linkitem" href="http://lamastex.org/preprints/20150322_combinedARG_JMB.pdf">PDF</a> 436KB). The final publication is available at Springer via <a class="linkitem" href="http://dx.doi.org/10.1007/s00285-015-0886-z">10.1007/s00285-015-0886-z</a>
   - *Towards unifying behavioural ecology and population genetics* (started collaboration with <a href="https://katalog.uu.se/profile/?id=N13-1883">Elisabeth Bolund</a>, Assistant Professor at <a href="https://katalog.uu.se/organisation/?orgId=X137:5">Department of Ecology and Genetics, Animal Ecology</a>, Uppsala University, *on sexually dimorphic nematodes evolution under selection*)

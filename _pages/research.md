@@ -95,16 +95,16 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 ### Combinatorial Stochastic Processes: Modeling and Inference
 
 - Ancestries of a Recombining Diploid Population, Raazesh Sainudiin, Bhalchandra Thatte, and Amandine V&eacute;ber, Journal of Mathematical Biology, Volume 72, Issue 1, pp 363-408, 2016 (preprint <a class="linkitem" href="http://lamastex.org/preprints/20150322_combinedARG_JMB.pdf">PDF</a> 436KB). The final publication is available at Springer via <a class="linkitem" href="http://dx.doi.org/10.1007/s00285-015-0886-z">10.1007/s00285-015-0886-z</a>
-  - Towards unifying behavioural ecology and population genetics
+  - *Towards unifying behavioural ecology and population genetics* (started collaboration with Elisabeth Boland, EEB, UU on sexually dimorphic nematodes)
 - Experiments with the Site Frequency Spectrum, Raazesh Sainudiin, Kevin Thornton, Jennifer Harlow, James Booth, Michael Stillman, Ruriko Yoshida, Robert Griffiths, Gilean McVean and Peter Donnelly, <a class="linkitem" href="http://www.springerlink.com/content/0748966716753484/">Inaugural Issue in Algebraic Biology, Bulletin of Mathematical Biology, Volume 73, Number 4, 829-872</a>, 2011 (<a class="linkitem" href="http://lamastex.org/preprints/AMSReviewOfSFSExperiments2011.pdf">AMS review</a>)
-  - Towards general lumped controlled Markov processes
+  - *Towards general lumped controlled Markov processes* (basis for privacy-preserving decision procedures with social-media and geospatial trajectory data with others at UU as explaine dbelow)
 - The Transmission Process: A Combinatorial Stochastic Process for the Evolution of Transmission Trees over Networks, Raazesh Sainudiin and David Welch, Journal of Theoretical Biology, Volume 410, Pages 137–170, <a class="linkitem" href="http://dx.doi.org/10.1016/j.jtbi.2016.07.038">10.1016/j.jtbi.2016.07.038</a>, 2016. See research project: <a class="linkitem" href="https://lamastex.github.io/scalable-data-science/sds/research/mep/">Meme Evolution Programme</a>
-  - Towards SIR/SIS models, Population Ideological Forests in Twitter, and their Dynamic models 
+  - *Towards SIR/SIS models, Population Ideological Forests in Twitter, and their Dynamic models* (much harder problems; joint work with Vebr and Gaiffas in Paris) 
 
 ### Computer Arithmetic
 - Mapped Regular Pavings, Jennifer Harlow, Raazesh Sainudiin and Warwick Tucker, <a class="linkitem" href="http://interval.louisiana.edu/reliable-computing-journal/volume-16/reliable-computing-16-pp-252-282.pdf">Reliable Computing, vol. 16, pp. 252-282</a>, 2012 (<a class="linkitem" href="http://lamastex.org/preprints/MappedRegularPaving.pdf">PDF</a> 972KB)
 - Minimum distance estimation with universal performance guarantees over statistical regular pavings, Raazesh Sainudiin and Gloria Teng, 17 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180405_MDEYatracosThis.pdf">PDF</a> 708KB)
-  - Towards Scalable (big data friendly) variants that can be used in real-world industry-scale problems (Anamoly Detection, Predictive Maintenance, etc.)
+  - *Towards Scalable (big data friendly) variants that can be used in real-world industry-scale problems (Anamoly Detection, Predictive Maintenance, etc.)* (working with Tilo Wiklund, Maths@UU and Warwick Tucker on arithmetical aspects; got three submissions of applications relevant to Combient AB, Stockholm)
 
 ## Grants and Research Collaborators
 

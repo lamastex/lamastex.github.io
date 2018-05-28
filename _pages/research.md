@@ -94,7 +94,7 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 
 ### Combinatorial Stochastic Processes: Modeling and Inference
 
-- Ancestries of a Recombining Diploid Population, Raazesh Sainudiin, Bhalchandra Thatte, and Amandine V&eacute;ber, Research Report UCDMS2014/3, 42 pages, 2014 (<a class="linkitem" href="http://lamastex.org/preprints/20141103_combinedARG.pdf">PDF</a> 472KB)
+- Ancestries of a Recombining Diploid Population, Raazesh Sainudiin, Bhalchandra Thatte, and Amandine V&eacute;ber, Journal of Mathematical Biology, Volume 72, Issue 1, pp 363-408, 2016 (preprint <a class="linkitem" href="http://lamastex.org/preprints/20150322_combinedARG_JMB.pdf">PDF</a> 436KB). The final publication is available at Springer via <a class="linkitem" href="http://dx.doi.org/10.1007/s00285-015-0886-z">10.1007/s00285-015-0886-z</a>
   - Towards unifying behavioural ecology and population genetics
 - Experiments with the Site Frequency Spectrum, Raazesh Sainudiin, Kevin Thornton, Jennifer Harlow, James Booth, Michael Stillman, Ruriko Yoshida, Robert Griffiths, Gilean McVean and Peter Donnelly, <a class="linkitem" href="http://www.springerlink.com/content/0748966716753484/">Inaugural Issue in Algebraic Biology, Bulletin of Mathematical Biology, Volume 73, Number 4, 829-872</a>, 2011 (<a class="linkitem" href="http://lamastex.org/preprints/AMSReviewOfSFSExperiments2011.pdf">AMS review</a>)
   - Towards general lumped controlled Markov processes

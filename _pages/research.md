@@ -96,7 +96,7 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
   - main output: 
     - MRS 2.0: A C++ Class Library for Statistical Set Processing and Computer-Aided Proofs in Statistics (Version 2.0) [Software], Available from <a class="linkitem" href="https://github.com/lamastex/mrs2">https://github.com/lamastex/mrs2</a>, 2017
 
-### Research Grants Won for in 2018-2025
+### Research Grants Won in 2017-2018 for 2018-2025
 
 - 27Kkr: AWS Cloud Computing Credits for Research for Monitoring SE 2018 Election
   - Main Applicant with primary co-applicant:
@@ -110,9 +110,9 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 - 26Kkr: Esseen Research Grant for Nonparametric Density Estimators with Universal Performance Guarantees
   - Main Applicant for research visits/presentations
     - (submitted to <a href="http://scan2018.oishi.info.waseda.ac.jp/">The 18th International Symposium on Scientific Computing, Computer Arithmetic, and Verified Numerical Computations, Sep 10-15, 2018, Tokyo</a>) *Exact Bayesian A/B testing using distributed fault-tolerant Moore rejection sampler*, Benny Avelin and Raazesh Sainudiin, Extended Abstract, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180507_ABTestingViaDistributedMRS.pdf">PDF</a> 104KB)
-    - (submitted to <a href="http://www.ir.disco.unimib.it/sum2018/">The 12th International Conference on Scalable Uncertainty Management – Milan, Italy, Oct 3-5, 2018</a>) *Scalable Multivariate Histograms*, Raazesh Sainudiin and Tilo Wiklund, 14 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180506_SparkDensityTree.pdf">PDF</a> 800KB)
+    - (submitted to <a href="http://www.ir.disco.unimib.it/sum2018/">The 12th International Conference on Scalable Uncertainty Management – Milan, Italy, Oct 3-5, 2018</a>) *Scalable Multivariate Histograms*, Raazesh Sainudiin and Tilo Wiklund, 14 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180506_SparkDensityTree.pdf">PDF</a> 800KB) -- *industry-scale big data ready!*
     - (submitted to ACM Transactions) *Minimum distance estimation with universal performance guarantees over statistical regular pavings*, Raazesh Sainudiin and Gloria Teng, 17 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180405_MDEYatracosThis.pdf">PDF</a> 708KB)
-    - *Extending arithmetic to hyper-plane split trees for nonparametric density estimators with L1 and L2 losses* with <a href="http://luc.devroye.org/">Professor Luc Devroye</a>,  School of Computer Science, McGill University, Montreal, Canada (also the primitive operation underlying Neural Networks) 
+    - (new direction): *Extending arithmetic to hyper-plane split trees for nonparametric density estimators with L1 and L2 losses* with <a href="http://luc.devroye.org/">Professor Luc Devroye</a>,  School of Computer Science, McGill University, Montreal, Canada (also the primitive operation underlying Neural Networks) 
 
 
 ### Research Grants Applied for in 2018-2024

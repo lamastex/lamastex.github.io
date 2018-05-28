@@ -91,8 +91,9 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 </html>
 
 ## Most Important Contributions to Research
+#### With Current Directions
 
-### Combinatorial Stochastic Processes: Modeling and Inference
+### Combinatorial Stochastic Processes & Data Science
 
 - Ancestries of a Recombining Diploid Population, Raazesh Sainudiin, Bhalchandra Thatte, and Amandine V&eacute;ber, Journal of Mathematical Biology, Volume 72, Issue 1, pp 363-408, 2016 (preprint <a class="linkitem" href="http://lamastex.org/preprints/20150322_combinedARG_JMB.pdf">PDF</a> 436KB). The final publication is available at Springer via <a class="linkitem" href="http://dx.doi.org/10.1007/s00285-015-0886-z">10.1007/s00285-015-0886-z</a>
   - *Towards unifying behavioural ecology and population genetics* (started collaboration with <a href="https://katalog.uu.se/profile/?id=N13-1883">Elisabeth Bolund</a>, Assistant Professor at <a href="https://katalog.uu.se/organisation/?orgId=X137:5">Department of Ecology and Genetics, Animal Ecology</a>, Uppsala University, *on sexually dimorphic nematodes evolution under selection*)
@@ -101,7 +102,7 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 - The Transmission Process: A Combinatorial Stochastic Process for the Evolution of Transmission Trees over Networks, Raazesh Sainudiin and David Welch, Journal of Theoretical Biology, Volume 410, Pages 137–170, <a class="linkitem" href="http://dx.doi.org/10.1016/j.jtbi.2016.07.038">10.1016/j.jtbi.2016.07.038</a>, 2016. See research project: <a class="linkitem" href="https://lamastex.github.io/scalable-data-science/sds/research/mep/">Meme Evolution Programme</a>
   - *Towards SIR/SIS models, Population Ideological Forests in Twitter, and their Dynamic models* (much harder problems; joint work with Vebr and Gaiffas in Paris) 
 
-### Computer Arithmetic
+### Computer Arithmetic & Data Science
 - Mapped Regular Pavings, Jennifer Harlow, Raazesh Sainudiin and Warwick Tucker, <a class="linkitem" href="http://interval.louisiana.edu/reliable-computing-journal/volume-16/reliable-computing-16-pp-252-282.pdf">Reliable Computing, vol. 16, pp. 252-282</a>, 2012 (<a class="linkitem" href="http://lamastex.org/preprints/MappedRegularPaving.pdf">PDF</a> 972KB)
 - Minimum distance estimation with universal performance guarantees over statistical regular pavings, Raazesh Sainudiin and Gloria Teng, 17 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180405_MDEYatracosThis.pdf">PDF</a> 708KB)
   - *Towards Scalable (big data friendly) variants that can be used in real-world industry-scale problems (Anamoly Detection, Predictive Maintenance, etc.)* (working with Tilo Wiklund, Maths@UU and Warwick Tucker on arithmetical aspects; got three submissions of applications relevant to Combient AB, Stockholm)

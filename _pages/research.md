@@ -116,7 +116,7 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 
 ### Research Grants Won in 2017-2018 for 2018-2025
 
-- 27Kkr: AWS Cloud Computing Credits for Research for Monitoring SE 2018 Election in Twitter and GDELT project
+- 27Kkr: AWS Cloud Computing Credits for Research for *Monitoring and Analysis of SE 2018 Election in Twitter and GDELT project*
   - Main Applicant with primary co-applicant:
     - <a href="http://katalog.uu.se/profile/?id=N96-202_1">Mattias Gardell</a>, Professor at <a href="http://katalog.uu.se/organisation/?orgId=X256">Centre for Multidisciplinary Studies on Racism</a> and <a href="http://katalog.uu.se/organisation/?orgId=RF1:6">Department of Theology, History of Religions and The Social Sciences of Religion; History of Religions</a>, Faculty of Theology, Uppsala University
 

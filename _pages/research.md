@@ -114,6 +114,13 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
     - (submitted to ACM Transactions) *Minimum distance estimation with universal performance guarantees over statistical regular pavings*, Raazesh Sainudiin and Gloria Teng, 17 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180405_MDEYatracosThis.pdf">PDF</a> 708KB)
     - (new direction): *Extending arithmetic to hyper-plane split trees for nonparametric density estimators with L1 and L2 losses* with <a href="http://luc.devroye.org/">Professor Luc Devroye</a>,  School of Computer Science, McGill University, Montreal, Canada (also the primitive operation underlying Neural Networks) 
 
+### Research-led Teaching Grants Won in 2017-2018
+
+- 80Kkr: Inter-Faculty Courses in Data Sciences for PhD students across TekNat Faculty (Fall 2017)
+- 60Kkr: CIM Sponsored Courses in Data Sciences (Spring 2018; Total of 10 full-day Bootcamp-Style Courses)
+- 20Kkr: Combinet AM and SEB - fika support for the above courses
+- Uppsala University is an AWS Academy Partner Institution (Main Applicant and UU's Main PoC): Allows each student and each faculty to spend 200-500 USD of cloud computing credits for free on AWS
+- databricks academic partnership grant has been used o develop course content and for student research projects 
 
 ### Research Grants Applied for in 2018-2024
 

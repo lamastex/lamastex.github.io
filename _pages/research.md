@@ -116,11 +116,11 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 
 ### Research Grants Won in 2017-2018 for 2018-2025
 
-- 27Kkr: AWS Cloud Computing Credits for Research for *Ethnographically-designed Experiments to Monitor SE 2018 Election in Twitter and GDELT project*
+- 27Kkr: AWS Cloud Computing Credits for Research for *Ethnographically-designed Experiments to Monitor SE 2018 Election in Twitter*
   - Main Applicant with primary co-applicant:
     - <a href="http://katalog.uu.se/profile/?id=N96-202_1">Mattias Gardell</a>, Professor at <a href="http://katalog.uu.se/organisation/?orgId=X256">Centre for Multidisciplinary Studies on Racism</a> and <a href="http://katalog.uu.se/organisation/?orgId=RF1:6">Department of Theology, History of Religions and The Social Sciences of Religion; History of Religions</a>, Faculty of Theology, Uppsala University
 
-- 2.2Mkr: databricks Academic Research Partnership for effectively unlimited professional databricks computing units for data science and engineering research (including *Monitoring and Analysis of SE 2018 Election in Twitter and GDELT project*)
+- 2.2Mkr: databricks Academic Research Partnership for effectively unlimited professional databricks computing units for data science and engineering research (including *Monitoring and Analysis of SE 2018 Election in Twitter against GDELT project*)
   - Main Applicant (projected for Meme Evolution Programme research and PhD student training until 2025)
   - Allowed my past and current MSc and candidate thesis/research students to do big data research at zero cost
     - (main output submitted to <a href="http://asonam.cpsc.ucalgary.ca/2018/index.php">The 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, Barcelona Spain, Aug 28-31, 2018</a>) Rejecting the Null Hypothesis of Apathetic Retweeting of US politicians and SPLC-defined Hate Groups in the 2016 US Presidential Election, Raazesh Sainudiin, Kumar Yogeeswaran, Kyle Nash and Rania Sahioun, 8 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180423_NullApatheticRetweetOfUSPolitsHategrps.pdf">PDF</a> 448KB)

@@ -94,6 +94,12 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 
 ## Grants and research Collaborators
 
+### Research Grants Concluded in 2017
+
+- 245Kkr/2.95Mkr: EU Marie Curie Actions People (Co-applicant with countepart funding from Royal Society of NZ) on Project CORCON: Correctness by Construction
+  - main output: 
+    - MRS 2.0: A C++ Class Library for Statistical Set Processing and Computer-Aided Proofs in Statistics (Version 2.0) [Software], Available from <a class="linkitem" href="https://github.com/lamastex/mrs2">https://github.com/lamastex/mrs2</a>, 2017
+
 ### Research Grants Won for in 2018-2025
 
 - 27Kkr: AWS Cloud Computing Credits for Research for Monitoring SE 2018 Election
@@ -115,9 +121,9 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 
 ### Research Grants Applied for in 2018-2024
 
-- 14.9Mkr: VR Research Environment Grant (Migration and Integration); Integration in a mobile society, modelling and analysing how everyday mobility is shaping the potential for integration
+- 14.9Mkr: VR Research Environment Grant (Migration and Integration); *Integration in a mobile society, modelling and analysing how everyday mobility is shaping the potential for integration*
   - Co-Applicant with main applicant <a href="http://www.kultgeog.uu.se/kontakt/personal/John_Osth/">John Östh, Department of Cultural and Economic Geography, Uppsala University</a>
-- 29Mkr: VR Research Environment Grant (Interdisciplinary Research);
+- 29Mkr: VR Research Environment Grant (Interdisciplinary Research); **
   - Main Applicant with some of the following participating researchers:
     - <a href="https://katalog.uu.se/profile/?id=N3-955">Anna Sara-Lind</a>, Professor of Public Law at the Faculty of Law, Uppsala University
     - <a href="http://www.kultgeog.uu.se/kontakt/personal/John_Osth/">John Östh</a>, Associate Professor, Department of Cultural and Economic Geography, Uppsala University
@@ -125,3 +131,6 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
     - <a href="http://www.cmap.polytechnique.fr/~veber/">Amandine Veber</a>, CNRS Researcher, Centre de Mathématiques Appliquées, École Polytechnique, Palaiseau, France
 - 4.8Mkr: Twitter Health Metrics Research; *Scalable Markov Kernels from Twitterverse to the GDELT Project*
   - Main Applicant (20% + 1 PhD student for 5 years)
+- 2.9Mkr: Research grant jointly with a Telecom Company, Private Foundation and Tel Aviv University, Israel *Mobile Phone Data for Society and Privacy for the Individual: From the Conflict to a Synergy in Transport Flows Analysis*
+  - Co-PIs with Professors Itzhak Benenson and Itzhak Omer, Porter School of Environment and Geoscience, Faculty of Exact Sciences, Tel Aviv University 
+

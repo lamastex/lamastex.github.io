@@ -140,7 +140,7 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 - Uppsala University is an AWS Academy Partner Institution (Main Applicant and UU's Main PoC): Allows each student and each faculty to spend 200-500 USD of cloud computing credits for free on AWS
 - databricks academic partnership grant has been used o develop course content and for student research projects 
 
-### Research Grants Applied for in 2018-2024
+### Research Grants Applied for in 2018-2024 (waiting on decision)
 
 - 14.9Mkr: VR Research Environment Grant (Migration and Integration); *Integration in a mobile society, modelling and analysing how everyday mobility is shaping the potential for integration*
   - Co-Applicant with main applicant <a href="http://www.kultgeog.uu.se/kontakt/personal/John_Osth/">John Östh, Department of Cultural and Economic Geography, Uppsala University</a>

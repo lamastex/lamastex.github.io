@@ -110,7 +110,7 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 
 ### Research Grants Concluded in 2017
 
-- 245Kkr/2.95Mkr: EU Marie Curie Actions People (Co-applicant with countepart funding from Royal Society of NZ) on Project CORCON: Correctness by Construction
+- 245Kkr/2.95Mkr: EU Marie Curie Actions People (Co-applicant with countepart funding from Royal Society of NZ) on Project CORCON: Correctness by Construction (30% rsrch)
   - main output: 
     - MRS 2.0: A C++ Class Library for Statistical Set Processing and Computer-Aided Proofs in Statistics (Version 2.0) [Software], Available from <a class="linkitem" href="https://github.com/lamastex/mrs2">https://github.com/lamastex/mrs2</a>, 2017
 
@@ -126,7 +126,7 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
     - (main output submitted to <a href="http://asonam.cpsc.ucalgary.ca/2018/index.php">The 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, Barcelona Spain, Aug 28-31, 2018</a>) Rejecting the Null Hypothesis of Apathetic Retweeting of US politicians and SPLC-defined Hate Groups in the 2016 US Presidential Election, Raazesh Sainudiin, Kumar Yogeeswaran, Kyle Nash and Rania Sahioun, 8 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180423_NullApatheticRetweetOfUSPolitsHategrps.pdf">PDF</a> 448KB)
 
 - 26Kkr: Esseen Research Grant for Nonparametric Density Estimators with Universal Performance Guarantees
-  - Main Applicant for research visits/presentations
+  - Main Applicant for research visits/presentations (100% rsrch 3-4 weeks in term 1 2018)
     - (submitted to <a href="http://scan2018.oishi.info.waseda.ac.jp/">The 18th International Symposium on Scientific Computing, Computer Arithmetic, and Verified Numerical Computations, Sep 10-15, 2018, Tokyo</a>) *Exact Bayesian A/B testing using distributed fault-tolerant Moore rejection sampler*, Benny Avelin and Raazesh Sainudiin, Extended Abstract, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180507_ABTestingViaDistributedMRS.pdf">PDF</a> 104KB)
     - (submitted to <a href="http://www.ir.disco.unimib.it/sum2018/">The 12th International Conference on Scalable Uncertainty Management – Milan, Italy, Oct 3-5, 2018</a>) *Scalable Multivariate Histograms*, Raazesh Sainudiin and Tilo Wiklund, 14 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180506_SparkDensityTree.pdf">PDF</a> 800KB) -- *industry-scale big data ready!*
     - (submitted to ACM Transactions) *Minimum distance estimation with universal performance guarantees over statistical regular pavings*, Raazesh Sainudiin and Gloria Teng, 17 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180405_MDEYatracosThis.pdf">PDF</a> 708KB)
@@ -143,15 +143,15 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 ### Research Grants Applied for in 2018-2024 (waiting on decision)
 
 - 14.9Mkr: VR Research Environment Grant (Migration and Integration); *Integration in a mobile society, modelling and analysing how everyday mobility is shaping the potential for integration*
-  - Co-Applicant with main applicant <a href="http://www.kultgeog.uu.se/kontakt/personal/John_Osth/">John Östh, Department of Cultural and Economic Geography, Uppsala University</a>
+  - Co-Applicant with main applicant <a href="http://www.kultgeog.uu.se/kontakt/personal/John_Osth/">John Östh, Department of Cultural and Economic Geography, Uppsala University</a> (20% rsrch + 1 PhD)
 - 29Mkr: VR Research Environment Grant (Interdisciplinary Research); *Privacy-preserving Decisions from Social Media Communications and Geo-spatial Movements of a Sovereign European Population*
-  - Main Applicant with some of the key participating researchers:
+  - Main Applicant with some of the key participating researchers (405 rsrch + 4 PhDs):
     - <a href="https://katalog.uu.se/profile/?id=N3-955">Anna Sara-Lind</a>, Professor of Public Law at the Faculty of Law, Uppsala University
     - <a href="http://www.kultgeog.uu.se/kontakt/personal/John_Osth/">John Östh</a>, Associate Professor, Department of Cultural and Economic Geography, Uppsala University
     - <a href="http://www.cmap.polytechnique.fr/~gaiffas/">Stéphane Gaïffas</a>, Professeur, Laboratoire de Probabilités et Modèles Aléatoires, Université Paris Diderot, Paris, France 
     - <a href="http://www.cmap.polytechnique.fr/~veber/">Amandine Veber</a>, CNRS Researcher, Centre de Mathématiques Appliquées, École Polytechnique, Palaiseau, France
 - 4.8Mkr: Twitter Health Metrics Research; *Scalable Markov Kernels from Twitterverse to the GDELT Project*
-  - Main Applicant (20% + 1 PhD student for 5 years)
+  - Main Applicant (20% + 1 PhD)
 - 2.9Mkr: Research grant jointly with a Telecom Company, Private Foundation and Tel Aviv University, Israel *Mobile Phone Data for Society and Privacy for the Individual: From the Conflict to a Synergy in Transport Flows Analysis*
-  - Co-PIs with Professors Itzhak Benenson and Itzhak Omer, Porter School of Environment and Geoscience, Faculty of Exact Sciences, Tel Aviv University 
+  - Co-PIs with Professors Itzhak Benenson and Itzhak Omer, Porter School of Environment and Geoscience, Faculty of Exact Sciences, Tel Aviv University (10% rsrch + 1 PhD co-supervision)
 

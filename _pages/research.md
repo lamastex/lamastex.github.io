@@ -106,7 +106,7 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 - Minimum distance estimation with universal performance guarantees over statistical regular pavings, Raazesh Sainudiin and Gloria Teng, 17 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180405_MDEYatracosThis.pdf">PDF</a> 708KB)
   - *Towards Scalable (big data friendly) variants that can be used in real-world industry-scale problems (Anamoly Detection, Predictive Maintenance, etc.)* (working with Tilo Wiklund, Maths@UU and Warwick Tucker on arithmetical aspects; got three submissions of applications relevant to Combient AB, Stockholm)
 
-## Grants and Research Collaborators
+## Grants and Research Collaborators - Next 5-6 years
 
 ### Research Grants Concluded in 2017
 

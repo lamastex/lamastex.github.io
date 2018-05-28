@@ -96,6 +96,8 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 
 - Ancestries of a Recombining Diploid Population, Raazesh Sainudiin, Bhalchandra Thatte, and Amandine V&eacute;ber, Research Report UCDMS2014/3, 42 pages, 2014 (<a class="linkitem" href="http://lamastex.org/preprints/20141103_combinedARG.pdf">PDF</a> 472KB)
   - Towards unifying behavioural ecology and population genetics
+- Experiments with the Site Frequency Spectrum, Raazesh Sainudiin, Kevin Thornton, Jennifer Harlow, James Booth, Michael Stillman, Ruriko Yoshida, Robert Griffiths, Gilean McVean and Peter Donnelly, <a class="linkitem" href="http://www.springerlink.com/content/0748966716753484/">Inaugural Issue in Algebraic Biology, Bulletin of Mathematical Biology, Volume 73, Number 4, 829-872</a>, 2011 (<a class="linkitem" href="http://lamastex.org/preprints/AMSReviewOfSFSExperiments2011.pdf">AMS review</a>)
+  - Towards general lumped controlled Markov processes
 - The Transmission Process: A Combinatorial Stochastic Process for the Evolution of Transmission Trees over Networks, Raazesh Sainudiin and David Welch, Journal of Theoretical Biology, Volume 410, Pages 137–170, <a class="linkitem" href="http://dx.doi.org/10.1016/j.jtbi.2016.07.038">10.1016/j.jtbi.2016.07.038</a>, 2016. See research project: <a class="linkitem" href="https://lamastex.github.io/scalable-data-science/sds/research/mep/">Meme Evolution Programme</a>
   - Towards SIR/SIS models, Population Ideological Forests in Twitter, and their Dynamic models 
 
@@ -121,7 +123,7 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 - 2.2Mkr: databricks Academic Research Partnership for effectively unlimited professional databricks computing units for data science and engineering research 
   - Main Applicant (projected for Meme Evolution Programme research and PhD student training until 2025)
   - Allowed my past and current MSc and candidate thesis/research students to do big data research at zero cost
-    - (main output submitted to <a href=""></a>) Rejecting the Null Hypothesis of Apathetic Retweeting of US politicians and SPLC-defined Hate Groups in the 2016 US Presidential Election, Raazesh Sainudiin, Kumar Yogeeswaran, Kyle Nash and Rania Sahioun, 8 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180423_NullApatheticRetweetOfUSPolitsHategrps.pdf">PDF</a> 448KB)
+    - (main output submitted to <a href="http://asonam.cpsc.ucalgary.ca/2018/index.php">The 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, Barcelona Spain, Aug 28-31, 2018</a>) Rejecting the Null Hypothesis of Apathetic Retweeting of US politicians and SPLC-defined Hate Groups in the 2016 US Presidential Election, Raazesh Sainudiin, Kumar Yogeeswaran, Kyle Nash and Rania Sahioun, 8 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180423_NullApatheticRetweetOfUSPolitsHategrps.pdf">PDF</a> 448KB)
 
 - 26Kkr: Esseen Research Grant for Nonparametric Density Estimators with Universal Performance Guarantees
   - Main Applicant for research visits/presentations

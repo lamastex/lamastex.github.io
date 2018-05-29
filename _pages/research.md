@@ -89,8 +89,7 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
   </body>
 </html>
 
-## Most Important Contributions to Research
-#### With Current Directions
+## Most Important Contributions to Research & Current Directions
 
 ### Mathematical Statistical Combinatorial Stochastic Processes & Data Science
 

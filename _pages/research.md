@@ -19,7 +19,6 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 * [The full list of peer-reviewed publications](/publications/)
 * [Research students supervised at LaMaStEx](/students/)
 * [Mathematical Statistical Software](/software/)
-* [Research Vision](/research_vision/)
 
 ### Current research projects in scalable data science
 

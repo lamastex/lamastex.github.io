@@ -53,8 +53,9 @@ Currently there are no PhD students as primary supervisees.
 
 ### Masters Students
 
-<ol reversed="" start="1">
+<ol reversed="" start="18">
 <li>2018, Masters Programme in Computer Science (Civilingenjör i IT), Gabriel Unesi - (Senior Supervisor)</li>
+<li>2018, Masters Programme in Mathemtics, Niklas Fastlund - (Thesis Examiner; Supervised by Kristiaan Pelckmans)</li>
 </ol>
 
 
@@ -62,14 +63,14 @@ Former Students
 ---------------
 
 ### At Uppsala University, Uppsala, SE
-<ol reversed="" start="2">
-<li>2018, Candidate Thesis in Engineering Physics (Civilingenjör i Teknisk Fysik) Computational Science, Olof Björck (Main Supervisor)<li>
-<li>2017, Masters Programme in Engineering Physics (Civilingenjör i Teknisk Fysik) Computational Science, Joakim Johansson - (Senior Supervisor with Examiner as David Sumpter)</li>
+<ol reversed="" start="16">
+<li>2018, Candidate Programme, Independent Project in Engineering Physics (Civilingenjör i Teknisk Fysik) Computational Science, Olof Björck (Main Supervisor)<li>
+<li>2017, Masters Programme in Engineering Physics (Civilingenjör i Teknisk Fysik) Computational Science, Joakim Johansson - (Senior Supervisor; Examined by David Sumpter)</li>
 </ol>
 
 ### At University of Canterbury, Christchurch, NZ
 
-<ol reversed="">
+<ol reversed="14">
   <li>2016-2017, MSc Computational and Applied Mathematical Science, Rania
     Sahioun - (Co-Supervisor)</li>
   <li>2014-2015, MSc Computational and Applied Mathematical Science,
@@ -114,12 +115,7 @@ Former Students
     in Malaysis.</li>
   <li>2009-2010: Thomas Steinke - <a href="http://arxiv.org/abs/1006.0405v1">A Rigorous Extension of the
 Schönhage-Strassen Integer Multiplication Algorithm Using Complex
-Interval Arithmetic</a>,
-Thomas Steinke and Raazesh Sainudiin, June 3, 2010, <a href="http://arxiv.org/html/1006.0551">EPTCS 24 Proceedings Seventh International Conference on Computability and Complexity in Analysis</a>,
-Zhenjiang, China, 21-25th June 2010
-(<a href="http://lamastex.org/preprints/ComplexIntMulCCA2010.pdf">preprint</a>).
-Thomas gave a <a href="http://lamastex.org/talks/SteinkeSainudiinCCA2010Slides.pdf">Talk at CCA2010</a>.
-Thomas joined a PhD program in Computer Science at Harvard
+Interval Arithmetic</a>. Thomas joined a PhD program in Computer Science at Harvard
 University, Cambridge, Massachusetts, USA.</li>
   <li>2009-2010: Josh Collins - Statistical Classification of
 Medical Images. Joined Maths PhD Program at Massey University,

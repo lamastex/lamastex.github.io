@@ -26,7 +26,7 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 
 * [Project SAHDE: Scalable Adaptive Histogram Density Estimation](https://lamastex.github.io/scalable-data-science/sds/research/densityEstimation/sahde/)
 
-# Research Vision and Grant
+# Research Vision and Grants
 
 <html>
   <head>
@@ -95,12 +95,12 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 ### Mathematical Statistical Combinatorial Stochastic Processes & Data Science
 
 - Ancestries of a Recombining Diploid Population, Raazesh Sainudiin, Bhalchandra Thatte, and Amandine V&eacute;ber, Journal of Mathematical Biology, Volume 72, Issue 1, pp 363-408, 2016 (preprint <a class="linkitem" href="http://lamastex.org/preprints/20150322_combinedARG_JMB.pdf">PDF</a> 436KB). The final publication is available at Springer via <a class="linkitem" href="http://dx.doi.org/10.1007/s00285-015-0886-z">10.1007/s00285-015-0886-z</a>
-  - *Towards unifying behavioural ecology and population genetics* (started collaboration with <a href="https://katalog.uu.se/profile/?id=N13-1883">Elisabeth Bolund</a>, Assistant Professor at <a href="https://katalog.uu.se/organisation/?orgId=X137:5">Department of Ecology and Genetics, Animal Ecology</a>, Uppsala University, *on sexually dimorphic nematodes evolution under selection*)
+  - *Towards unifying behavioural ecology and population genetics* (started collaboration with <a href="https://katalog.uu.se/profile/?id=N13-1883">Elisabeth Bolund</a>, Assistant Professor at <a href="https://katalog.uu.se/organisation/?orgId=X137:5">Department of Ecology and Genetics, Animal Ecology</a>, Uppsala University, *on sexually dimorphic nematodes under selection*)
 - Experiments with the Site Frequency Spectrum, Raazesh Sainudiin, Kevin Thornton, Jennifer Harlow, James Booth, Michael Stillman, Ruriko Yoshida, Robert Griffiths, Gilean McVean and Peter Donnelly, <a class="linkitem" href="http://www.springerlink.com/content/0748966716753484/">Inaugural Issue in Algebraic Biology, Bulletin of Mathematical Biology, Volume 73, Number 4, 829-872</a>, 2011 (<a class="linkitem" href="http://lamastex.org/preprints/AMSReviewOfSFSExperiments2011.pdf">AMS review</a>)
   - *Towards general lumped controlled Markov processes* (basis for privacy-preserving decision procedures with social-media and geospatial trajectory data with others at UU as explained below)
-  - *Towards distributed xomputiing algorithms for Population Genomic Inference* with Veber (Paris) and EEB-based Pop-gen group (early stages; journal-clubs, 360-in-525-05 big data course, etc.)
+  - *Towards distributed computing algorithms for Population Genomic Inference* with Veber (Paris) and EEB-based Pop-gen group (early stages; journal-clubs, 360-in-525-05 population genomics and big data course, etc.)
 - The Transmission Process: A Combinatorial Stochastic Process for the Evolution of Transmission Trees over Networks, Raazesh Sainudiin and David Welch, Journal of Theoretical Biology, Volume 410, Pages 137–170, <a class="linkitem" href="http://dx.doi.org/10.1016/j.jtbi.2016.07.038">10.1016/j.jtbi.2016.07.038</a>, 2016. See research project: <a class="linkitem" href="https://lamastex.github.io/scalable-data-science/sds/research/mep/">Meme Evolution Programme</a>
-  - *Towards SIR/SIS models, Population Ideological Forests in Twitter, and their Dynamic models* (much harder problems; joint work with Vebr and Gaiffas in Paris) 
+  - *Towards SIR/SIS models, Population Ideological Forests in Twitter, and their Dynamic models* (much harder problems; joint work with Veber and Gaiffas in Paris) 
 
 ### Computer Arithmetic & Data Science
 - Mapped Regular Pavings, Jennifer Harlow, Raazesh Sainudiin and Warwick Tucker, <a class="linkitem" href="http://interval.louisiana.edu/reliable-computing-journal/volume-16/reliable-computing-16-pp-252-282.pdf">Reliable Computing, vol. 16, pp. 252-282</a>, 2012 (<a class="linkitem" href="http://lamastex.org/preprints/MappedRegularPaving.pdf">PDF</a> 972KB)
@@ -137,22 +137,22 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 
 - 80Kkr: Inter-Faculty Courses in Data Sciences for PhD students across TekNat Faculty (Fall 2017)
 - 60Kkr: CIM Sponsored Courses in Data Sciences (Spring 2018; Total of 10 full-day Bootcamp-Style Courses)
-- 20Kkr: Combinet AM and SEB - fika support for the above courses
-- Uppsala University is an AWS Academy Partner Institution (Main Applicant and UU's Main PoC): Allows each student and each faculty to spend 200-500 USD of cloud computing credits for free on AWS
-- databricks academic partnership grant has been used o develop course content and for student research projects 
+- 20Kkr: Combinet AB and SEB - fika support for the above courses
+- Uppsala University is an AWS Academy Partner Institution (Main Applicant and UU's Main PoC): Allows each student and each faculty to spend 200-500 USD of cloud computing credits for free on AWS per year
+- databricks academic partnership grant has been used to develop course content and for student research projects 
 
 ### Research Grants Applied for in 2018-2024 (waiting on decision)
 
 - 14.9Mkr: VR Research Environment Grant (Migration and Integration); *Integration in a mobile society, modelling and analysing how everyday mobility is shaping the potential for integration*
   - Co-Applicant with main applicant <a href="http://www.kultgeog.uu.se/kontakt/personal/John_Osth/">John Östh, Department of Cultural and Economic Geography, Uppsala University</a> (20% rsrch + 1 PhD)
 - 29Mkr: VR Research Environment Grant (Interdisciplinary Research); *Privacy-preserving Decisions from Social Media Communications and Geo-spatial Movements of a Sovereign European Population*
-  - Main Applicant with some of the key participating researchers (405 rsrch + 4 PhDs):
+  - Main Applicant with some of the key participating researchers (40% rsrch + 4 PhDs):
     - <a href="https://katalog.uu.se/profile/?id=N3-955">Anna Sara-Lind</a>, Professor of Public Law at the Faculty of Law, Uppsala University
     - <a href="http://www.kultgeog.uu.se/kontakt/personal/John_Osth/">John Östh</a>, Associate Professor, Department of Cultural and Economic Geography, Uppsala University
     - <a href="http://www.cmap.polytechnique.fr/~gaiffas/">Stéphane Gaïffas</a>, Professeur, Laboratoire de Probabilités et Modèles Aléatoires, Université Paris Diderot, Paris, France 
     - <a href="http://www.cmap.polytechnique.fr/~veber/">Amandine Veber</a>, CNRS Researcher, Centre de Mathématiques Appliquées, École Polytechnique, Palaiseau, France
 - 4.8Mkr: Twitter Health Metrics Research; *Scalable Markov Kernels from Twitterverse to the GDELT Project*
-  - Main Applicant (20% + 1 PhD)
+  - Main Applicant (20% rsrch + 1 PhD)
 - 2.9Mkr: Research grant jointly with Blavtnik Interdisciplinary Cyber Research Center, a Telecom Company and Tel Aviv University, Israel *Mobile Phone Data for Society and Privacy for the Individual: From the Conflict to a Synergy in Transport Flows Analysis*
   - Co-PIs with Professors Itzhak Benenson and Itzhak Omer, Porter School of Environment and Geoscience, Faculty of Exact Sciences, Tel Aviv University (10% rsrch + 1 PhD co-supervision)
 

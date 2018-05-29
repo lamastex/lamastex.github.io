@@ -102,10 +102,12 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
   - *Towards SIR/SIS models, Population Ideological Forests in Twitter, and their Dynamic models* (much harder problems; joint work with Veber and Gaiffas in Paris) 
 
 ### Computer Arithmetic & Data Science
+
 - Mapped Regular Pavings, Jennifer Harlow, Raazesh Sainudiin and Warwick Tucker, <a class="linkitem" href="http://interval.louisiana.edu/reliable-computing-journal/volume-16/reliable-computing-16-pp-252-282.pdf">Reliable Computing, vol. 16, pp. 252-282</a>, 2012 (<a class="linkitem" href="http://lamastex.org/preprints/MappedRegularPaving.pdf">PDF</a> 972KB)
 - Minimum distance estimation with universal performance guarantees over statistical regular pavings, Raazesh Sainudiin and Gloria Teng, 17 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180405_MDEYatracosThis.pdf">PDF</a> 708KB)
   - *Towards Scalable (big data friendly) variants that can be used in real-world industry-scale problems (Anamoly Detection, Predictive Maintenance, etc.)* (working with Tilo Wiklund, Maths@UU and Warwick Tucker on arithmetical aspects; got three submissions of applications relevant to Combient AB, Stockholm)
   - *Towards Privacy-Preserving Tree Arithmetics for geospatial trajectories*
+
 ## Grants and Research Collaborators - Next 5-6 years
 
 ### Research Grants Concluded in 2017
@@ -134,8 +136,8 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 
 ### Research-led Teaching Grants Won in 2017-2018
 
-- 80Kkr: Inter-Faculty Courses in Data Sciences for PhD students across TekNat Faculty (Fall 2017)
-- 60Kkr: CIM Sponsored Courses in Data Sciences (Spring 2018; Total of 10 full-day Bootcamp-Style Courses)
+- 80Kkr: <a href="https://lamastex.github.io/scalable-data-science/sds/2/2/">Inter-Faculty Courses in Data Sciences for PhD students across TekNat Faculty (Fall 2017)</a>
+- 60Kkr: <a href="https://lamastex.github.io/scalable-data-science/360-in-525/2018/">CIM Sponsored Courses in Data Sciences (Spring 2018; Total of 10 full-day Bootcamp-Style Courses)</a>
 - 20Kkr: Combinet AB and SEB - fika support for the above courses
 - Uppsala University is an AWS Academy Partner Institution (Main Applicant and UU's Main PoC): Allows each student and each faculty to spend 200-500 USD of cloud computing credits for free on AWS per year
 - databricks academic partnership grant has been used to develop course content and for student research projects 

@@ -64,20 +64,15 @@ Former Students
 
 ### At Uppsala University, Uppsala, SE
 <ol reversed="" start="16">
-<li>2018, Candidate Programme, Independent Project in Engineering Physics (Civilingenjör i Teknisk Fysik) Computational Science, Olof Björck (Main Supervisor)<li>
+<li>2018, Candidate Programme, Independent Project in Engineering Physics (Civilingenjör i Teknisk Fysik) Computational Science, Olof Björck (Main Supervisor)</li>
 <li>2017, Masters Programme in Engineering Physics (Civilingenjör i Teknisk Fysik) Computational Science, Joakim Johansson - (Senior Supervisor; Examined by David Sumpter)</li>
 </ol>
 
 ### At University of Canterbury, Christchurch, NZ
 
 <ol reversed="14">
-  <li>2016-2017, MSc Computational and Applied Mathematical Science, Rania
-    Sahioun - (Co-Supervisor)</li>
-  <li>2014-2015, MSc Computational and Applied Mathematical Science,
-    Jasper McKenzie - (Senior Supervisor). Jasper was awarded a
-    Callaghan Career Award and took a permanent position as a Data
-    Scientist in Telstra New Zealand’s Research and Development
-    team, Christchurch. NZ.</li>
+<li>2016-2017, MSc Computational and Applied Mathematical Science, Rania Sahioun - (Co-Supervisor)</li>
+<li>2014-2015, MSc Computational and Applied Mathematical Science, Jasper McKenzie - (Senior Supervisor). Jasper was awarded a Callaghan Career Award and took a permanent position as a Data Scientist in Telstra New Zealand’s Research and Development team, Christchurch. NZ.</li>
   <li>2013-2014, MSc Computational and Applied Mathematical Science, Alan
     Williams - (Senior Supervisor). Joined a local IT company.</li>
   <li>2014, PhD Computational and Applied Mathematics, Steve Manion - 

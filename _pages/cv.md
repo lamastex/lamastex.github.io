@@ -30,7 +30,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 # Appointments and Awards
 
 <ol>
-<li>2018 Dec - : Senior Lecturer in Mathematics with specialization in Data Science (*accepted*), <a href="http://www.math.uu.se/">Department of Mathematics</a>, <a href="http://www.uu.se/">Uppsala University</a>, Uppsala, Sweden</li>
+<li>2018 Dec - : Senior Lecturer in Mathematics with specialization in Data Science (accepted), <a href="http://www.math.uu.se/">Department of Mathematics</a>, <a href="http://www.uu.se/">Uppsala University</a>, Uppsala, Sweden</li>
 <li>2017 Jan - 2018 Dec: <a href="http://katalog.uu.se/profile/?id=N17-214">Researcher in Applied Mathematics and Statistics</a>, <a href="http://www.math.uu.se/">Department of Mathematics</a>, <a href="http://www.uu.se/">Uppsala University</a>, Uppsala, Sweden</li>
 <li>2017 Apr - : Data Science Consultant, <a href="https://combient.com">Combient AB</a>, Stockholm, Sweden</li>
 <li>2016 - 2017: Chief Analytics Officer and Co-founder, <a href="http://webintrinsics.io">WebIntrinsics.io</a>, Christchurch, New Zealand</li>

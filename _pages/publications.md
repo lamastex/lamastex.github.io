@@ -15,7 +15,7 @@ The full list of publications in peer-reviewed journals, conference proceedings 
 Please see [CV](/cv/) for a field-specific picture.
  
 # Journal Articles
-<ol reversed="" start="52">
+<ol reversed="" start="53">
 <li>Full Likelihood Inference from the Site Frequency Spectrum based on the Optimal Tree Resolution, Raazesh Sainudiin and Amandine V&eacute;ber, 47 Pages, Theoretical Population Biology (accepted), 2018 (<a class="linkitem" href="http://lamastex.org/preprints/2017SfsOptimalTree.pdf">PDF</a> 676KB)</li>
 <li>A nonlinear dynamical system approach for the yielding behaviour of a viscoplastic fluid, Teodor Burghelea, Miguel Moyers-Gonzalez and Raazesh Sainudiin, Soft Matter, 13, 2024-2039, <a class="linkitem" href="http://dx.doi.org/10.1039/C6SM02361D">10.1039/C6SM02361D</a>, 2017</li>
 <li>Design of Conventional and Neural Network Based Controllers for a Single-Shaft Gas Turbine, Hamid Asgari, XiaoQi Chen, Mohsen Fathi Jegarkandi and Raazesh Sainudiin, Aircraft Engineering and Aerospace Technology, Vol. 89, Iss: 1, pp. 52-65, <a class="linkitem" href="http://dx.doi.org/10.1108/AEAT-11-2014-0187">DOI: 10.1108/AEAT-11-2014-0187</a>, 2017</li>
@@ -53,7 +53,7 @@ Please see [CV](/cv/) for a field-specific picture.
 </ol>
 
 # Books and Book Chapters
-<ol reversed="" start="22">
+<ol reversed="" start="23">
 <li>Scalable Data Science - 1.x from Middle Earth, Raazesh Sainudiin and Sivanand Sivaram, Published by GitBook <a class="linkitem" href="https://www.gitbook.com/book/lamastex/scalable-data-science/details">https://www.gitbook.com/book/lamastex/scalable-data-science/details</a>, 791 pages, 24th July 2017.</li>
 <li>An Auto-validating Rejection Sampler for Differentiable Arithmetical Expressions: Posterior Sampling of Phylogenetic Quartets, Raazesh Sainudiin, In Martine Ceberio and Vladik Kreinovich (Eds.), <a class="linkitem" href="http://link.springer.com/book/10.1007/978-3-319-04280-0">Constraint Programming and Decision Making (Studies in Computational Intelligence)</a>, Springer Verlag, Berlin, Heidelberg, pp. 143-152, 2014 (<a class="linkitem" href="http://lamastex.org/preprints/avs_CoProD_2013.pdf">PDF</a> 400KB)</li>
 <li>Modelling and Simulation Approaches for Gas Turbine System Optimization, Hamid Asgari, XiaoQi Chen and Raazesh Sainudiin, In M.K. Habib and J.P. Davim (Eds.), <a class="linkitem" href="http://www.igi-global.com/chapter/modelling-simulation-approaches-gas-turbine/78108">Engineering Creative Design in Robotics and Mechatronics, Ch. 14, pp. 240-264, IGI Global</a>, Hershey, PA, 2013</li>
@@ -65,7 +65,8 @@ Please see [CV](/cv/) for a field-specific picture.
 </ol>
 
 # Conference Proceedings
-<ol reversed="" start="16">
+<ol reversed="" start="17">
+<li>Rejecting the Null Hypothesis of Apathetic Retweeting of US politicians and SPLC-defined Hate Groups in the 2016 US Presidential Election, Raazesh Sainudiin, Kumar Yogeeswaran, Kyle Nash and Rania Sahioun, 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), Barcelona, Spain, August 28-31, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180423_NullApatheticRetweetOfUSPolitsHategrps.pdf">PDF</a> 136KB)</li>
 <li>Final Report <a class="linkitem" href="http://www.birs.ca/cmo-workshops/2016/16w5099/report16w5099.pdf">Final Report of 16w5099 - Interval Analysis and Constructive Mathematics</a>, Eds. Douglas Bridges, Hannes Diener, Baker Kearfott, Vladik Kreinovich, Patricia Melin, Raazesh Sainudiin and Helmut Schwichtenberg, pp. 1-13, 2017, <a href="http://www.birs.ca/events/2016/5-day-workshops/16w5099">5-Day-Workshop,Casa Matemática Oaxaca (CMO) in Mexico, November 13-18, 2016</a>.</li>
 <li>Optimal Hyper-parameter Search in Support Vector Machines Using Bezier Surfaces, Shinichi Yamada, Kourosh Neshatian and Raazesh Sainudiin, <a class="linkitem" href="http://www.springer.com/us/book/9783319263496">Springer Lecture Notes on Artificial Intelligence Series, Proceedings of the 28th Australian Joint Conference on Artificial Intelligence, 623-629</a>, 2015.</li>
 <li>"L1-consistent Adaptive Multivariate Histograms from a Randomized Queue Prioritized for Statistically Equivalent Blocks", Gloria Teng, Jennifer Harlow and Raazesh Sainudiin, in <a class="linkitem" href="http://lamastex.org/preprints/icmsfm2014_proc.pdf">the Proceedings of the International Conference on Mathematics, Statistics, and Financial Mathematics 2014 with IASC-ARS Sessions, November 18-19, Kuala Lumpur, Malaysia</a>, pp. 88-102, 2014 (<a class="linkitem" href="http://lamastex.org/preprints/20141023_L1ConsistentRPQ_ICMSFM.pdf">PDF</a> 716KB)</li>
@@ -97,7 +98,6 @@ Please see [CV](/cv/) for a field-specific picture.
 <ol reversed="">
 <li>Exact Bayesian A/B testing using distributed fault-tolerant Moore rejection sampler, Benny Avelin and Raazesh Sainudiin, Extended Abstract, 2 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180507_ABTestingViaDistributedMRS.pdf">PDF</a> 104KB)</li>
 <li>Scalable Multivariate Histograms, Raazesh Sainudiin and Tilo Wiklund, 14 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180506_SparkDensityTree.pdf">PDF</a> 800KB)</li>
-<li>Rejecting the Null Hypothesis of Apathetic Retweeting of US politicians and SPLC-defined Hate Groups in the 2016 US Presidential Election, Raazesh Sainudiin, Kumar Yogeeswaran, Kyle Nash and Rania Sahioun, 8 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180423_NullApatheticRetweetOfUSPolitsHategrps.pdf">PDF</a> 136KB)</li>
 <li>Minimum distance estimation with universal performance guarantees over statistical regular pavings, Raazesh Sainudiin and Gloria Teng, 17 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180405_MDEYatracosThis.pdf">PDF</a> 708KB)</li>
 <li>Some Distributions on Finite Rooted Binary Trees, Sean Cleary, Mareike Fischer, Robert C. Griffiths and Raazesh Sainudiin, 25 pages, 2017 (<a class="linkitem" href="https://arxiv.org/abs/1708.06130">arxiv:1708.06130</a>)</li>
 <li>Seeded by Hate? Characterizing the Twitter Networks of Prominent Politicians and Hate Groups in the 2016 US Election, Kumar Yogeeswaran, Kyle Nash, Rania Sahioun and Raazesh Sainudiin, 2017 (<a class="linkitem" href="http://lamastex.org/preprints/2017HateIn2016USAElection.pdf">PDF of Working Paper</a> 816KB)</li>

@@ -30,7 +30,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 # Appointments and Awards
 
 <ol>
-<li>2019 Jan - : Senior Lecturer in Mathematics with specialization in Data Science (accepted), <a href="http://www.math.uu.se/">Department of Mathematics</a>, <a href="http://www.uu.se/">Uppsala University</a>, Uppsala, Sweden</li>
+<li>2019 Jan - : Lektor (Associate Professor) in Mathematics with specialization in Data Science (accepted), <a href="http://www.math.uu.se/">Department of Mathematics</a>, <a href="http://www.uu.se/">Uppsala University</a>, Uppsala, Sweden</li>
 <li>2017 Jan - 2018 Dec: <a href="http://katalog.uu.se/profile/?id=N17-214">Researcher in Applied Mathematics and Statistics</a>, <a href="http://www.math.uu.se/">Department of Mathematics</a>, <a href="http://www.uu.se/">Uppsala University</a>, Uppsala, Sweden</li>
 <li>2017 Apr - : Data Science Consultant, <a href="https://combient.com">Combient AB</a>, Stockholm, Sweden</li>
 <li>2016 - 2017: Chief Analytics Officer and Co-founder, <a href="http://webintrinsics.io">WebIntrinsics.io</a>, Christchurch, New Zealand</li>
@@ -94,6 +94,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 <li>
 <strong>Data Science</strong>
 <ul>
+<li>Scalable Data Science - 2.2 from Atlantis, Dan Lilja, Raazesh Sainudiin and Tilo Wiklund, Published by GitBook <a class="linkitem" href="https://lamastex.gitbooks.io/sds-2-2/">https://lamastex.gitbooks.io/sds-2-2/</a>, (~1200 pages), 2018.</li>
 <li>Scalable Data Science - 1.x from Middle Earth, Raazesh Sainudiin and Sivanand Sivaram, Published by GitBook <a class="linkitem" href="https://www.gitbook.com/book/lamastex/scalable-data-science/details">https://www.gitbook.com/book/lamastex/scalable-data-science/details</a>, 791 pages, 24th July 2017.</li>
 </ul>
 </li>
@@ -173,7 +174,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 <li>
 <strong>Applications in Studies of Terrorist/Extremist/Hate Groups</strong>
 <ul>  
-<li>Kumar Yogeeswaran, Kyle Nash, Rania Sahioun and Raazesh Sainudiin, Seeded by Hate? Characterizing the Twitter Networks of Prominent Politicians and Hate Groups in the 2016 US Election, 2017 (<a class="linkitem" href="http://lamastex.org/preprints/2017HateIn2016USAElection.pdf">PDF of Working Paper</a> 816KB)</li>
+<li>Rejecting the Null Hypothesis of Apathetic Retweeting of US Politicians and SPLC-defined Hate Groups in the 2016 US Presidential Election, Raazesh Sainudiin, Kumar Yogeeswaran, Kyle Nash and Rania Sahioun, 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), Barcelona, Spain, August 28-31, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180423_NullApatheticRetweetOfUSPolitsHategrps.pdf">PDF</a> 136KB)</li>
 <li>Terrorist Attacks Escalate in Frequency and Fatalities Preceeding Highly Lethal Attacks, Andy Martens, Raazesh Sainudiin, Chris G. Sibley, Jeff Schimel and David Webber, <a class="linkitem" href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0093732">PLoS ONE 9(4): e93732. doi:10.1371/journal.pone.0093732</a>, 2014</li>
 </ul>
 </li>

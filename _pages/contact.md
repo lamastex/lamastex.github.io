@@ -23,7 +23,7 @@ Email <a href="mailto:raazesh.sainudiin@gmail.com">raazesh.sainudiin@gmail.com</
 
 ### Raaz's Calendar
 
-See <a href="https://calendar.google.com/calendar/embed?src=raazesh.sainudiin%40gmail.com&ctz=Europe%2FStockholm">Raaz's Calendar</a> to find out when I am busy or not before you pop-by my Office (mainly for Uppsala University students who are under my research supervision or are learning a course that I am currently teaching).
+See <a href="https://calendar.google.com/calendar/embed?src=raazesh.sainudiin%40gmail.com&ctz=Europe%2FStockholm">Raaz's Calendar</a> to find out when I am busy or not before you pop-by my Office (mainly for Uppsala University students who are under my research supervision or are learning a course that I am currently teaching). Raaz's Calendar is also embedded below for your convenience.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;hl=en_GB&amp;bgcolor=%23FFFFFF&amp;src=raazesh.sainudiin%40gmail.com&amp;color=%232952A3&amp;ctz=Europe%2FStockholm" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 

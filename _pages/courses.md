@@ -14,6 +14,8 @@ excerpt: 'in Mathematics, Statistics, Computing and Data Science.<br /><br /><br
 
 Current teaching/learning materials developed under [Unlicense](https://en.wikipedia.org/wiki/Unlicense), [Creative Commons Attribution-Noncommercial-Share Alike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) or [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0) are listed below.
 
+* [infty-2018-01:: 1MS035: Inference Theory 1, Uppsala Maths Undergraduate Course](https://lamastex.github.io/scalable-data-science/infty/2018/01/), Fall 2018.
+
 * [360-in-525 Minutes CIM Course Set in Data Sciences for Uppsala's PhD/MSc Students](https://lamastex.github.io/scalable-data-science/360-in-525/2018/), Spring 2018.
 
 * [Scalable Data Science for Uppsala's PhD/MSc Students](https://lamastex.github.io/scalable-data-science), Fall 2017 (under progress).

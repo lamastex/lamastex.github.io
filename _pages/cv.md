@@ -174,7 +174,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 <li>
 <strong>Applications in Studies of Terrorist/Extremist/Hate Groups</strong>
 <ul>  
-<li>Rejecting the Null Hypothesis of Apathetic Retweeting of US Politicians and SPLC-defined Hate Groups in the 2016 US Presidential Election, Raazesh Sainudiin, Kumar Yogeeswaran, Kyle Nash and Rania Sahioun, 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), Barcelona, Spain, August 28-31, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180423_NullApatheticRetweetOfUSPolitsHategrps.pdf">PDF</a> 136KB)</li>
+<li>Rejecting the Null Hypothesis of Apathetic Retweeting of US Politicians and SPLC-defined Hate Groups in the 2016 US Presidential Election, Raazesh Sainudiin, Kumar Yogeeswaran, Kyle Nash and Rania Sahioun, <a class="linkitem" href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8488381">2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)</a>, Barcelona, Spain, August 28-31, 2018, <a class="linkitem" href="https://doi.org/10.1109/ASONAM.2018.8508555">DOI: 10.1109/ASONAM.2018.8508555</a> (or <a class="linkitem" href="http://lamastex.org/preprints/20180423_NullApatheticRetweetOfUSPolitsHategrps.pdf">PDF</a> 136KB)</li>
 <li>Terrorist Attacks Escalate in Frequency and Fatalities Preceeding Highly Lethal Attacks, Andy Martens, Raazesh Sainudiin, Chris G. Sibley, Jeff Schimel and David Webber, <a class="linkitem" href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0093732">PLoS ONE 9(4): e93732. doi:10.1371/journal.pone.0093732</a>, 2014</li>
 </ul>
 </li>

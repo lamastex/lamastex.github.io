@@ -96,6 +96,7 @@ Please see [CV](/cv/) for a field-specific picture.
 
 # Submitted / Under Review
 <ol reversed="">
+<li>Swapping trajectories with a sufficient sanitizer, Julián Salas, David Megı́as, Vicenç Torra, Marina Toger, Joel Dahne and Raazesh Sainudiin, 21 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20181201_swapMobSufficientSanitizer.pdf">PDF</a> 792KB)</li>
 <li>Seeded by Hate? Characterizing the Twitter Networks of Prominent Politicians and Hate Groups in the 2016 US Election, Kumar Yogeeswaran, Kyle Nash, Rania Sahioun and Raazesh Sainudiin, 2017 (<a class="linkitem" href="http://lamastex.org/preprints/2017HateIn2016USAElection.pdf">PDF of Working Paper</a> 816KB)</li>
 <li>Data-adaptive histograms through statistical regular pavings, Raazesh Sainudiin, Gloria Teng, Jennifer Harlow and Warwick Tucker, 2016 (<a class="linkitem" href="http://lamastex.org/preprints/20161121optMAPMDE.pdf">PDF</a> 2.6MB)</li>
 <li>Scalable Multivariate Histograms, Raazesh Sainudiin and Tilo Wiklund, 14 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180506_SparkDensityTree.pdf">PDF</a> 800KB)</li>

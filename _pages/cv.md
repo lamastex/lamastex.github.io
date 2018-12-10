@@ -30,7 +30,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 # Appointments and Awards
 
 <ol>
-<li>2019 Jan - : Associate Professor (Universitetslektor) in Mathematics with specialization in Data Science (accepted), <a href="http://www.math.uu.se/">Department of Mathematics</a>, <a href="http://www.uu.se/">Uppsala University</a>, Uppsala, Sweden</li>
+<li>2019 Jan - : Associate Professor (Universitetslektor) in Mathematics with specialization in Data Science, <a href="http://www.math.uu.se/">Department of Mathematics</a>, <a href="http://www.uu.se/">Uppsala University</a>, Uppsala, Sweden</li>
 <li>2019 Jan - : Principal Data Scientist, <a href="https://combient.com">Combient AB</a>, Stockholm, Sweden and Coordinator of <strong>C<sup>3</sup>&delta;&epsilon;&Sigma;</strong>, Combient Centre for Competence in Data Engineering Sciences, Department of Mathematics, Uppsala University, Uppsala, Sweden.</li>
 <li>2017 Jan - 2018 Dec: <a href="http://katalog.uu.se/profile/?id=N17-214">Researcher in Applied Mathematics and Statistics</a>, <a href="http://www.math.uu.se/">Department of Mathematics</a>, <a href="http://www.uu.se/">Uppsala University</a>, Uppsala, Sweden</li>
 <li>2017 Apr - 2018 Dec: Data Science Consultant, <a href="https://combient.com">Combient AB</a>, Stockholm, Sweden</li>

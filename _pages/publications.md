@@ -15,7 +15,7 @@ The full list of publications in peer-reviewed journals, conference proceedings 
 Please see [CV](/cv/) for a field-specific picture.
  
 # Journal Articles
-<ol reversed="" start="53">
+<ol reversed="" start="54">
 <li>Full Likelihood Inference from the Site Frequency Spectrum based on the Optimal Tree Resolution, Raazesh Sainudiin and Amandine V&eacute;ber, Theoretical Population Biology, 2018, <a class="linkitem" href="https://doi.org/10.1016/j.tpb.2018.07.002">https://doi.org/10.1016/j.tpb.2018.07.002</a> (<a class="linkitem" href="http://lamastex.org/preprints/2017SfsOptimalTree.pdf">PDF</a> 676KB)</li>
 <li>A nonlinear dynamical system approach for the yielding behaviour of a viscoplastic fluid, Teodor Burghelea, Miguel Moyers-Gonzalez and Raazesh Sainudiin, Soft Matter, 13, 2024-2039, <a class="linkitem" href="http://dx.doi.org/10.1039/C6SM02361D">10.1039/C6SM02361D</a>, 2017</li>
 <li>Design of Conventional and Neural Network Based Controllers for a Single-Shaft Gas Turbine, Hamid Asgari, XiaoQi Chen, Mohsen Fathi Jegarkandi and Raazesh Sainudiin, Aircraft Engineering and Aerospace Technology, Vol. 89, Iss: 1, pp. 52-65, <a class="linkitem" href="http://dx.doi.org/10.1108/AEAT-11-2014-0187">DOI: 10.1108/AEAT-11-2014-0187</a>, 2017</li>
@@ -53,7 +53,8 @@ Please see [CV](/cv/) for a field-specific picture.
 </ol>
 
 # Books and Book Chapters
-<ol reversed="" start="23">
+<ol reversed="" start="24">
+<li>Scalable Data Science - 2.2 from Atlantis, Dan Lilja, Raazesh Sainudiin and Tilo Wiklund, Published by GitBook <a class="linkitem" href="https://lamastex.gitbooks.io/sds-2-2/">https://lamastex.gitbooks.io/sds-2-2/</a>, (~1200 pages), 2018.</li>
 <li>Scalable Data Science - 1.x from Middle Earth, Raazesh Sainudiin and Sivanand Sivaram, Published by GitBook <a class="linkitem" href="https://www.gitbook.com/book/lamastex/scalable-data-science/details">https://www.gitbook.com/book/lamastex/scalable-data-science/details</a>, 791 pages, 24th July 2017.</li>
 <li>An Auto-validating Rejection Sampler for Differentiable Arithmetical Expressions: Posterior Sampling of Phylogenetic Quartets, Raazesh Sainudiin, In Martine Ceberio and Vladik Kreinovich (Eds.), <a class="linkitem" href="http://link.springer.com/book/10.1007/978-3-319-04280-0">Constraint Programming and Decision Making (Studies in Computational Intelligence)</a>, Springer Verlag, Berlin, Heidelberg, pp. 143-152, 2014 (<a class="linkitem" href="http://lamastex.org/preprints/avs_CoProD_2013.pdf">PDF</a> 400KB)</li>
 <li>Modelling and Simulation Approaches for Gas Turbine System Optimization, Hamid Asgari, XiaoQi Chen and Raazesh Sainudiin, In M.K. Habib and J.P. Davim (Eds.), <a class="linkitem" href="http://www.igi-global.com/chapter/modelling-simulation-approaches-gas-turbine/78108">Engineering Creative Design in Robotics and Mechatronics, Ch. 14, pp. 240-264, IGI Global</a>, Hershey, PA, 2013</li>

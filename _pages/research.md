@@ -3,6 +3,8 @@ layout: single
 title: Research
 permalink: /research/
 author_profile: true
+sidebar:
+  nav: "lMenu"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/DISP-research-1600x524.jpg

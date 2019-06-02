@@ -16,6 +16,7 @@ Please see [CV](/cv/) for a field-specific picture.
  
 # Journal Articles
 <ol reversed="" start="54">
+<li>Characterizing the Twitter Networks of Prominent Politicians and SPLC-defined Hate Groups in the 2016 US Presidential Election, Raazesh Sainudiin, Kumar Yogeeswaran, Kyle Nash and Rania Sahioun, Social Network Analysis and Mining, 2019, [accepted for publication] (<a class="linkitem" href="http://lamastex.org/preprints/20190602_HateIn2016USAElection.pdf">Preprint</a> 528KB). For expanded appendices see <a class="linkitem" href="http://lamastex.org/preprints/2017HateIn2016USAElection.pdf">PDF of Working Paper</a> 816KB)</li>
 <li>Full Likelihood Inference from the Site Frequency Spectrum based on the Optimal Tree Resolution, Raazesh Sainudiin and Amandine V&eacute;ber, Theoretical Population Biology, 2018, <a class="linkitem" href="https://doi.org/10.1016/j.tpb.2018.07.002">https://doi.org/10.1016/j.tpb.2018.07.002</a> (<a class="linkitem" href="http://lamastex.org/preprints/2017SfsOptimalTree.pdf">PDF</a> 676KB)</li>
 <li>A nonlinear dynamical system approach for the yielding behaviour of a viscoplastic fluid, Teodor Burghelea, Miguel Moyers-Gonzalez and Raazesh Sainudiin, Soft Matter, 13, 2024-2039, <a class="linkitem" href="http://dx.doi.org/10.1039/C6SM02361D">10.1039/C6SM02361D</a>, 2017</li>
 <li>Design of Conventional and Neural Network Based Controllers for a Single-Shaft Gas Turbine, Hamid Asgari, XiaoQi Chen, Mohsen Fathi Jegarkandi and Raazesh Sainudiin, Aircraft Engineering and Aerospace Technology, Vol. 89, Iss: 1, pp. 52-65, <a class="linkitem" href="http://dx.doi.org/10.1108/AEAT-11-2014-0187">DOI: 10.1108/AEAT-11-2014-0187</a>, 2017</li>
@@ -98,7 +99,6 @@ Please see [CV](/cv/) for a field-specific picture.
 # Submitted / Under Review
 <ol reversed="">
 <li>Swapping trajectories with a sufficient sanitizer, Julián Salas, David Megı́as, Vicenç Torra, Marina Toger, Joel Dahne and Raazesh Sainudiin, 21 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20181201_swapMobSufficientSanitizer.pdf">PDF</a> 792KB)</li>
-<li>Seeded by Hate? Characterizing the Twitter Networks of Prominent Politicians and Hate Groups in the 2016 US Election, Kumar Yogeeswaran, Kyle Nash, Rania Sahioun and Raazesh Sainudiin, 2017 (<a class="linkitem" href="http://lamastex.org/preprints/2017HateIn2016USAElection.pdf">PDF of Working Paper</a> 816KB)</li>
 <li>Data-adaptive histograms through statistical regular pavings, Raazesh Sainudiin, Gloria Teng, Jennifer Harlow and Warwick Tucker, 2016 (<a class="linkitem" href="http://lamastex.org/preprints/20161121optMAPMDE.pdf">PDF</a> 2.6MB)</li>
 <li>Scalable Multivariate Histograms, Raazesh Sainudiin and Tilo Wiklund, 14 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180506_SparkDensityTree.pdf">PDF</a> 800KB)</li>
 <li>Exact Bayesian A/B testing using distributed fault-tolerant Moore rejection sampler, Benny Avelin and Raazesh Sainudiin, Extended Abstract, 2 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180507_ABTestingViaDistributedMRS.pdf">PDF</a> 104KB)</li>

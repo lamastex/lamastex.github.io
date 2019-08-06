@@ -14,6 +14,8 @@ excerpt: 'in Mathematics, Statistics, Computing and Data Science.<br /><br /><br
 
 Current teaching/learning materials developed under [Unlicense](https://en.wikipedia.org/wiki/Unlicense), [Creative Commons Attribution-Noncommercial-Share Alike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) or [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0) are listed below.
 
+* [Introduction to Data Science: A Computational, Mathematical and Statistical Approach](https://lamastex.github.io/scalable-data-science/in/2019/), Summer 2019.
+* [Scalable Data Engineering Science with Apache Spark 2.x](https://lamastex.github.io/scalable-data-science/sds/2/x/), Spring/Summer 2019.
 * [360-in-525-2019:: Introduction to Privacy-Aware Decisions - A Full-Day Workshop in Data Sciences](https://lamastex.github.io/scalable-data-science/360-in-525/2019/), Spring 2019.
 * [as-2019:: 1MS926: Applied Statistics](https://lamastex.github.io/scalable-data-science/as/2019/)
 * [glm-2018:: 1MS369: Generalised Linear Models, Uppsala Maths Postgraduate Course](https://lamastex.github.io/scalable-data-science/glm/2018/), Fall 2018.

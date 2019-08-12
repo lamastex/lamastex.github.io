@@ -99,7 +99,7 @@ Please see [CV](/cv/) for a field-specific picture.
 
 # Submitted / Under Review
 <ol reversed="">
-<li>Swapping trajectories with a sufficient sanitizer, Julián Salas, David Megı́as, Vicenç Torra, Marina Toger, Joel Dahne and Raazesh Sainudiin, 21 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20181201_swapMobSufficientSanitizer.pdf">PDF</a> 792KB)</li>
+<li>Swapping trajectories with a sufficient sanitizer, Julián Salas, David Megı́as, Vicenç Torra, Marina Toger, Joel Dahne and Raazesh Sainudiin, 21 pages, 2019.</li>
 <li>Data-adaptive histograms through statistical regular pavings, Raazesh Sainudiin, Gloria Teng, Jennifer Harlow and Warwick Tucker, 2016 (<a class="linkitem" href="http://lamastex.org/preprints/20161121optMAPMDE.pdf">PDF</a> 2.6MB)</li>
 <li>Scalable Multivariate Histograms, Raazesh Sainudiin and Tilo Wiklund, 14 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180506_SparkDensityTree.pdf">PDF</a> 800KB)</li>
 <li>Exact Bayesian A/B testing using distributed fault-tolerant Moore rejection sampler, Benny Avelin and Raazesh Sainudiin, Extended Abstract, 2 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180507_ABTestingViaDistributedMRS.pdf">PDF</a> 104KB)</li>

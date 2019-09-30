@@ -121,7 +121,7 @@ Please see [CV](/cv/) for a field-specific picture.
 
 <h3>Cited Technical Reports, Software, Theses, Preprints and Others</h3>
 <ol reversed="">
-<li>The Polarised State of the Swedish Political Twitteverse, Uppsala Summer Math Camp 2019 Report, Department of Mathematics, Uppsala University, August 30 2019 (<a class="linkitem" href="http://lamastex.org/preprints/20190830_PolarisedMEPSverige.pdf">PDF</a> 2.7MB)</li>
+<li>The Polarised State of the Swedish Political Twitterverse, Uppsala Summer Math Camp 2019 Report, Department of Mathematics, Uppsala University, August 30 2019 (<a class="linkitem" href="http://lamastex.org/preprints/20190830_PolarisedMEPSverige.pdf">PDF</a> 2.7MB)</li>
 <li>Minimum distance estimation with universal performance guarantees over statistical regular pavings, Raazesh Sainudiin and Gloria Teng, 17 pages, 2018 (<a class="linkitem" href="http://lamastex.org/preprints/20180405_MDEYatracosThis.pdf">PDF</a> 708KB)</li>
 <li>Faculty As a Citizen Submission to the Productivity Commission on New Models of Tertiary Education in New Zealand:
 <ul>

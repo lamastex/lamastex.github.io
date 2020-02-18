@@ -15,7 +15,8 @@ The full list of publications in peer-reviewed journals, conference proceedings 
 Please see [CV](/cv/) for a field-specific picture.
  
 # Journal Articles
-<ol reversed="" start="56">
+<ol reversed="" start="57">
+<li>Swapping trajectories with a sufficient sanitizer, Julián Salas, David Megías, Vicenç Torra, MarinaToger, Joel Dahne and Raazesh Sainudiin, Pattern Recognition Letters, Vol. 131, 474-480, 2020. <a class="linkitem" href="https://doi.org/10.1016/j.patrec.2020.02.011">https://doi.org/10.1016/j.patrec.2020.02.011</a>.</li>
 <li>Characterizing the Twitter Networks of Prominent Politicians and SPLC-defined Hate Groups in the 2016 US Presidential Election, Raazesh Sainudiin, Kumar Yogeeswaran, Kyle Nash and Rania Sahioun, Social Network Analysis and Mining, 9:34, 2019. <a class="linkitem" href="https://doi.org/10.1007/s13278-019-0567-9">https://doi.org/10.1007/s13278-019-0567-9</a>. (expanded appendices are in <a class="linkitem" href="http://lamastex.org/preprints/2017HateIn2016USAElection.pdf">PDF of Working Paper</a> 816KB)</li>
 <li>Minimum distance histograms with universal performance guarantees, Raazesh Sainudiin and Gloria Teng, Japanese Journal of Statistics and Data Science, 2019. <a class="linkitem" href="https://doi.org/10.1007/s42081-019-00054-y">https://doi.org/10.1007/s42081-019-00054-y</a></li>
 <li>Full Likelihood Inference from the Site Frequency Spectrum based on the Optimal Tree Resolution, Raazesh Sainudiin and Amandine V&eacute;ber, Theoretical Population Biology, 2018, <a class="linkitem" href="https://doi.org/10.1016/j.tpb.2018.07.002">https://doi.org/10.1016/j.tpb.2018.07.002</a> (<a class="linkitem" href="http://lamastex.org/preprints/2017SfsOptimalTree.pdf">PDF</a> 676KB)</li>

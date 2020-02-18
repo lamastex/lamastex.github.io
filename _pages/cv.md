@@ -31,7 +31,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 
 <ol>
 <li>2019 Jan - : Associate Professor (Universitetslektor) of Mathematics with specialization in Data Science, <a href="http://www.math.uu.se/">Department of Mathematics</a>, <a href="http://www.uu.se/">Uppsala University</a>, Uppsala, Sweden</li>
-<li>2019 Jan - : Principal Data Scientist, <a href="https://combient.com">Combient AB</a>, Stockholm, Sweden and Coordinator of <strong>C<sup>3</sup>&delta;&epsilon;&Sigma;</strong>, Combient Competence Centre for Data Engineering Sciences, Department of Mathematics, Uppsala University, Uppsala, Sweden.</li>
+<li>2019 Jan - : Principal Data Scientist, <a href="https://combient.com">Combient AB</a>, Stockholm, Sweden and Founding Coordinator of <strong>C<sup>3</sup>&delta;&epsilon;&Sigma;</strong>, Combient Competence Centre for Data Engineering Sciences, Department of Mathematics, Uppsala University, Uppsala, Sweden.</li>
 <li>2019-2020: Principal investigator on research project titled <a href="https://icrc.tau.ac.il/research/mobilephonedata"><i>Mobile Phone Data for Society and Privacy for the Individual: From the Conflict to a Synergy in Transport Flows Analysis</i></a>, Research Center for Cyber Security at Tel Aviv University established by the State of Israel, the Prime Minister's Office and Tel-Aviv University</li>
 <li>2017 Jan - 2018 Dec: <a href="http://katalog.uu.se/profile/?id=N17-214">Researcher in Applied Mathematics and Statistics</a>, <a href="http://www.math.uu.se/">Department of Mathematics</a>, <a href="http://www.uu.se/">Uppsala University</a>, Uppsala, Sweden</li>
 <li>2017 Apr - 2018 Dec: Data Science Consultant, <a href="https://combient.com">Combient AB</a>, Stockholm, Sweden</li>
@@ -91,6 +91,12 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 <ul>
 <li>Data-adaptive histograms through statistical regular pavings, Raazesh Sainudiin, Gloria Teng, Jennifer Harlow and Warwick Tucker, 2016 (<a class="linkitem" href="http://lamastex.org/preprints/20161121optMAPMDE.pdf">PDF</a> 2.6MB, under review)</li>
 <li>Posterior expectation of regularly paved random histograms, Raazesh Sainudiin, Gloria Teng, Jennifer Harlow and Dominic Lee, <a class="linkitem" href="http://dx.doi.org/10.1145/2414416.2414422">ACM Trans. Model. Comput. Simul. 23, 1, Article 6, 20 pages (Special Issue on Monte Carlo Methods in Statistics)</a>, 2013 (<a class="linkitem" href="http://lamastex.org/preprints/SubPavingMCMC.pdf">PDF</a> 1864KB)</li>
+</ul>
+</li>
+<li>
+<strong>Privacy in Models of Human Mobility</strong>
+<ul>
+<li>Swapping trajectories with a sufficient sanitizer, Julián Salas, David Megías, Vicenç Torra, MarinaToger, Joel Dahne and Raazesh Sainudiin, Pattern Recognition Letters, Vol. 131, 474-480, 2020. <a class="linkitem" href="https://doi.org/10.1016/j.patrec.2020.02.011">https://doi.org/10.1016/j.patrec.2020.02.011</a>.</li>
 </ul>
 </li>
 <li>
@@ -183,19 +189,25 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 </li>
 </ol>
 
-<p>See <a class="linkitem" href="/publications/">Current list of all publications</a> or unmaintained <a href="http://scholar.google.com/citations?user=QhWtb8oAAAAJ">Google Scholar</a>.</p>
+# Details
+
+<p>See <a class="linkitem" href="https://lamastex.github.io/publications/">current list of over 50 publications</a> or unmaintained <a href="http://scholar.google.com/citations?user=QhWtb8oAAAAJ">Google Scholar</a>.</p>
+
+<p>See <a class="linkitem" href="https://lamastex.github.io/talks/">current list of nearly 90 research talks</a>.</p>
 
 # Service
 <ul>
 <li>Contributor of several coding projects at <a href="https://github.com/lamastex">https://github.com/lamastex</a>.</li>
 <li>Reviewer for the following journals and funding agencies: 
 <ul>
+<li>Annals of Applied Probability, journal of the Institute for Mathematical Statistics</li>
 <li>Automatica, journal of the International Federation of Automatic Control</li>
 <li>Bulletin of Mathematical Biology, the official journal of the Society for Mathematical Biology</li>
 <li>Computational Statistics and Data Analysis, the official journal of the International Association of Statistical Computing</li>
 <li>Genetics, published by The Genetics Society of America</li>
 <li>German-Israeli Foundation for Scientific Research and Development</li>
 <li>IEEE/ACM Transactions on Computational Biology and Bioinformatics</li>
+<li>Journal of Applied Probability, an international journal published by the Applied Probability Trust</li>
 <li>Journal of Logic and Analysis, officially sponsored journal of the Association for Symbolic Logic</li>
 <li>Journal of Molecular Evolution</li>
 <li>Mathematical Reviews (American Mathematical Society)</li>
@@ -204,6 +216,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 </ul></li>
 <li>Organizer of the following events:
 <ul>
+<li>Academia-Industry Joint Workshop on < a href="https://lamastex.github.io/scalable-data-science/360-in-525/2019/">Introduction to Privacy-Aware Decisions>/a>, April 23 2019, Uppsala, Sweden.</li>
 <li>Founding organizer of <a href="https://www.meetup.com/Uppsala-Big-Data-Meetup/">Uppsala Big Data Meetup March 2017 - Present</a></li>
 <li><a href="http://www.birs.ca/events/2016/5-day-workshops/16w5099">Interval Analysis and Constructive Mathematics (16w5099) 5-Day-Workshop,Casa Matemática Oaxaca (CMO) in Mexico, November 13-18, 2016</a></li>
 <li>Founding organizer of <a href="http://www.meetup.com/Christchurch-Big-Data-Meetup/">Christchurch Apache Spark (Big Data) Meetup February - August 2016</a></li>

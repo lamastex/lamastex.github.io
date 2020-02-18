@@ -54,7 +54,10 @@ Currently there are no PhD students as primary supervisees.
 ### Masters Students
 
 <ol reversed="" start="18">
-<li>2018, Masters Programme in Computer Science (Civilingenjör i IT), Gabriel Unesi - (Senior Supervisor)</li>
+<li>2019, Masters in Applied Mathematics and Statistics, Christoffer Långström - (Senior Supervisor)<li>
+<li>2019, Masters in Information Technology (Civilingenjör i IT), Kasper Ramström - (Senior Supervisor)<li>
+<li>2019, Masters in Mathematics, Joel Dahne - (Senior Supervisor)<li>
+<!-- <li>2018, Masters Programme in Computer Science (Civilingenjör i IT), Gabriel Unesi - (Senior Supervisor)</li> -->
 <li>2018, Masters Programme in Mathemtics, Niklas Fastlund - (Thesis Examiner; Supervised by Kristiaan Pelckmans)</li>
 </ol>
 

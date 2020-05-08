@@ -58,7 +58,7 @@ Currently there are no PhD students as primary supervisees.
 <li>2020, Masters in Applied Mathematics and Statistics, Kieran Barber - (Senior Supervisor)</li>
 <li>2020, Masters in Applied Mathematics and Statistics, Amelia Andersdotter - (Senior Supervisor)</li>
 <li>2020, Masters in Applied Mathematics and Statistics, Jimmy Norqvist - (Senior Supervisor)</li>
-<li>2019, Masters in Applied Mathematics and Statistics, Christoffer Långström - (Senior Supervisor)</li>
+<li>2019, Masters in Applied Mathematics and Statistics, Christoffer Långström - (Senior Supervisor) - Privacy In Data Science: Statistical Models With Integrated Privacy Protection and GDPR Compliant Learning</li>
 </ol>
 
 

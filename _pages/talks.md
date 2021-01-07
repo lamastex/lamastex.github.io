@@ -14,6 +14,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 <h1>Selected Research Talks</h1>
 <br>
 <ol reversed="">
+<li>"Towards Participatory Democracy in the Big Data Age" to students of Professor Masako Ikigami in Technology Innovation Policy at Tokyo Tech, zoom-meeting-ID: 984 9166 7341, from Uppsala, Sweden (<a class="linkitem" href="http://lamastex.org/talks/20210107owardsParticipatoryDemocracyInTheBigDataAge.pdf">PDF</a> 1.8MB)</li>
 <li>"Scalably vertex-programmable ideological forests from certain political twitterverses around US (2016), UK(2017) and Swedish (2018) national elections" at The SIAM Conference on Applied Algebraic Geometry, Bern, Switzerland, 9-13 July, 2019</li> 
 <li>Tuesday May 28 2019, "Towards a theoretical union of behavioural ecology and population genetics: a case for the five-dots model", Quantitative Methods for Excavating the Past from Genomes, Swedish Collegium for Advanced Study, Uppsala, Sweden</li>
 <li>Tuesday April 23 2019, Final Discussions at <a class="linkitem" href="https://lamastex.github.io/scalable-data-science/360-in-525/2019/">Introduction to Privacy-Aware Decisions - A Full-Day Workshop in Data Sciences, Spring 2019, Uppsala</a>, Sweden.</li>

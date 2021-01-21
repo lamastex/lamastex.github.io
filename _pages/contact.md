@@ -23,7 +23,7 @@ Email <a href="mailto:raazesh.sainudiin@gmail.com">raazesh.sainudiin@gmail.com</
 
 ### Raaz's Calendar
 
-See below to find out when I am busy or not before you pop-by my Office (mainly for Uppsala University students who are under my research supervision or are learning a course that I am currently teaching).
+See below to find out when I am busy or not before you pop-by my Office (mainly for Uppsala University students who are under my research supervision or are learning a course that I am currently teaching ).
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FParis&amp;src=cmFhemVzaC5zYWludWRpaW5AZ21haWwuY29t&amp;src=ZW4uc3dlZGlzaCNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=aWMzY2NzZGhjMWlmaXQ5ajI4ZWg2aTNjZXN2czRmZXJAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=NGRvZWdwYmRrNW5uaGRidHVrbGp1aTQ4dDltYmY2dDlAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=cmFhemVzaC5zYWludWRpaW5AY29tYmllbnQuY29t&amp;color=%23616161&amp;color=%23B39DDB&amp;color=%23A79B8E&amp;color=%23F6BF26&amp;color=%23EF6C00&amp;color=%23F6BF26&amp;mode=WEEK" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 

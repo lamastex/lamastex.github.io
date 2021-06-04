@@ -14,6 +14,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 <h1>Selected Research Talks</h1>
 <br>
 <ol reversed="">
+<li>Tuesday April 20 2021, "Empirical Ideological Processes: Insights from Ideological Forests into the Polarised State of the Swedish, British and American Political Twitterverses around their respective National Elections", CoSy Zoom seminar, Centre for Interdisciplinary Mathematics, Uppsala University, Uppsala, Sweden.</li>
 <li>Friday April 9 2021, "The Polarised State of the Swedish Political Twitterverse: Lessons from Ideological Forests of Hate in the 2016 US Presidential Election",  Computational Linguistics Seminar, Uppsala University, Uppsala, Sweden (<a class="linkitem" href="http://lamastex.org/talks/20210409_PorasidedStateOfSETwitterverse_SIAM_SAS_Mixup_CompLingUUReUp.pdf">PDF</a> 18.8MB, <a class="linkitem" href="https://youtu.be/8WtK-v5mAV4">Video</a>)</li>
 <li>Thursday January 7 2021, "Towards Participatory Democracy in the Big Data Age" to students of Professor Masako Ikigami in Technology Innovation Policy at Tokyo Tech, zoom-meeting-ID: 984 9166 7341, from Uppsala, Sweden (<a class="linkitem" href="http://lamastex.org/talks/20210107owardsParticipatoryDemocracyInTheBigDataAge.pdf">PDF</a> 1.8MB)</li>
 <li> * day July 1* 2019, "Scalably vertex-programmable ideological forests from certain political twitterverses around US (2016), UK(2017) and Swedish (2018) national elections" at The SIAM Conference on Applied Algebraic Geometry, Bern, Switzerland, 9-13 July, 2019</li> 

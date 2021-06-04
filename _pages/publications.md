@@ -15,7 +15,7 @@ The full list of publications in peer-reviewed journals, conference proceedings 
 Please see [CV](/cv/) for a field-specific picture.
  
 # Journal Articles
-<ol reversed="" start="57">
+<ol reversed="" start="58">
 <li>Swapping trajectories with a sufficient sanitizer, Julián Salas, David Megías, Vicenç Torra, MarinaToger, Joel Dahne and Raazesh Sainudiin, Pattern Recognition Letters, Vol. 131, 474-480, 2020. <a class="linkitem" href="https://doi.org/10.1016/j.patrec.2020.02.011">https://doi.org/10.1016/j.patrec.2020.02.011</a>.</li>
 <li>Characterizing the Twitter Networks of Prominent Politicians and SPLC-defined Hate Groups in the 2016 US Presidential Election, Raazesh Sainudiin, Kumar Yogeeswaran, Kyle Nash and Rania Sahioun, Social Network Analysis and Mining, 9:34, 2019. <a class="linkitem" href="https://doi.org/10.1007/s13278-019-0567-9">https://doi.org/10.1007/s13278-019-0567-9</a>. (expanded appendices are in <a class="linkitem" href="http://lamastex.org/preprints/2017HateIn2016USAElection.pdf">PDF of Working Paper</a> 816KB)</li>
 <li>Minimum distance histograms with universal performance guarantees, Raazesh Sainudiin and Gloria Teng, Japanese Journal of Statistics and Data Science, 2019. <a class="linkitem" href="https://doi.org/10.1007/s42081-019-00054-y">https://doi.org/10.1007/s42081-019-00054-y</a></li>
@@ -56,7 +56,7 @@ Please see [CV](/cv/) for a field-specific picture.
 </ol>
 
 # Books and Book Chapters
-<ol reversed="" start="24">
+<ol reversed="" start="25">
 <li>Scalable Data Science - 2.2 from Atlantis, Dan Lilja, Raazesh Sainudiin and Tilo Wiklund, Published by GitBook <a class="linkitem" href="https://lamastex.gitbooks.io/sds-2-2/">https://lamastex.gitbooks.io/sds-2-2/</a>, (~1200 pages), 2018.</li>
 <li>Scalable Data Science - 1.x from Middle Earth, Raazesh Sainudiin and Sivanand Sivaram, Published by GitBook <a class="linkitem" href="https://www.gitbook.com/book/lamastex/scalable-data-science/details">https://www.gitbook.com/book/lamastex/scalable-data-science/details</a>, 791 pages, 24th July 2017.</li>
 <li>An Auto-validating Rejection Sampler for Differentiable Arithmetical Expressions: Posterior Sampling of Phylogenetic Quartets, Raazesh Sainudiin, In Martine Ceberio and Vladik Kreinovich (Eds.), <a class="linkitem" href="http://link.springer.com/book/10.1007/978-3-319-04280-0">Constraint Programming and Decision Making (Studies in Computational Intelligence)</a>, Springer Verlag, Berlin, Heidelberg, pp. 143-152, 2014 (<a class="linkitem" href="http://lamastex.org/preprints/avs_CoProD_2013.pdf">PDF</a> 400KB)</li>
@@ -69,7 +69,8 @@ Please see [CV](/cv/) for a field-specific picture.
 </ol>
 
 # Conference Proceedings
-<ol reversed="" start="17">
+<ol reversed="" start="18">
+<li>Distributed training and scalability for the particle clustering method UCluster, Olga Sunneborn Gudnadottir, Daniel Gedon, Colin Desmarais, Karl Bengtsson Bernander, Raazesh Sainudiin and Rebeca Gonzalez Suarez, 25t International Conference on Computing in High Energy and Nuclear Physics (CHEP), 2021. (<a class="linkitem" href="http://lamastex.org/preprints/20210604_HighEnergyPhysicsConfProc_DistributedTrainingUCluster.pdf">PDF</a> 313KB)</li>
 <li>Rejecting the Null Hypothesis of Apathetic Retweeting of US Politicians and SPLC-defined Hate Groups in the 2016 US Presidential Election, Raazesh Sainudiin, Kumar Yogeeswaran, Kyle Nash and Rania Sahioun, <a class="linkitem" href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8488381">2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)</a>, Barcelona, Spain, August 28-31, 2018, <a class="linkitem" href="https://doi.org/10.1109/ASONAM.2018.8508555">DOI: 10.1109/ASONAM.2018.8508555</a> (or <a class="linkitem" href="http://lamastex.org/preprints/20180423_NullApatheticRetweetOfUSPolitsHategrps.pdf">PDF</a> 136KB)</li>
 <li>Final Report <a class="linkitem" href="http://www.birs.ca/cmo-workshops/2016/16w5099/report16w5099.pdf">Final Report of 16w5099 - Interval Analysis and Constructive Mathematics</a>, Eds. Douglas Bridges, Hannes Diener, Baker Kearfott, Vladik Kreinovich, Patricia Melin, Raazesh Sainudiin and Helmut Schwichtenberg, pp. 1-13, 2017, <a href="http://www.birs.ca/events/2016/5-day-workshops/16w5099">5-Day-Workshop,Casa Matemática Oaxaca (CMO) in Mexico, November 13-18, 2016</a>.</li>
 <li>Optimal Hyper-parameter Search in Support Vector Machines Using Bezier Surfaces, Shinichi Yamada, Kourosh Neshatian and Raazesh Sainudiin, <a class="linkitem" href="http://www.springer.com/us/book/9783319263496">Springer Lecture Notes on Artificial Intelligence Series, Proceedings of the 28th Australian Joint Conference on Artificial Intelligence, 623-629</a>, 2015.</li>

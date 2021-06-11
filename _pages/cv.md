@@ -90,7 +90,8 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 <li>
 <strong>Computational Nonparametric Statistics</strong>
 <ul>
-<li>Data-adaptive histograms through statistical regular pavings, Raazesh Sainudiin, Gloria Teng, Jennifer Harlow and Warwick Tucker, 2016 (<a class="linkitem" href="http://lamastex.org/preprints/20161121optMAPMDE.pdf">PDF</a> 2.6MB, under review)</li>
+<li>Scalable Multivariate Histograms, Raazesh Sainudiin, Warwick Tucker and Tilo Wiklund, 2020. <a class="linkitem" href="https://arxiv.org/abs/2012.14847">https://arxiv.org/abs/2012.14847</a>.</li>
+<li>Minimum distance histograms with universal performance guarantees, Raazesh Sainudiin and Gloria Teng, Japanese Journal of Statistics and Data Science, 2019. <a class="linkitem" href="https://doi.org/10.1007/s42081-019-00054-y">https://doi.org/10.1007/s42081-019-00054-y</a></li>
 <li>Posterior expectation of regularly paved random histograms, Raazesh Sainudiin, Gloria Teng, Jennifer Harlow and Dominic Lee, <a class="linkitem" href="http://dx.doi.org/10.1145/2414416.2414422">ACM Trans. Model. Comput. Simul. 23, 1, Article 6, 20 pages (Special Issue on Monte Carlo Methods in Statistics)</a>, 2013 (<a class="linkitem" href="http://lamastex.org/preprints/SubPavingMCMC.pdf">PDF</a> 1864KB)</li>
 </ul>
 </li>

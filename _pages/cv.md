@@ -220,7 +220,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 </ul></li>
 <li>Organizer of the following events:
 <ul>
-<li>Academia-Industry Joint Workshop on < a href="https://lamastex.github.io/scalable-data-science/360-in-525/2019/">Introduction to Privacy-Aware Decisions>/a>, April 23 2019, Uppsala, Sweden.</li>
+<li>Academia-Industry Joint Workshop on <a href="https://lamastex.github.io/scalable-data-science/360-in-525/2019/">Introduction to Privacy-Aware Decisions</a>, April 23 2019, Uppsala, Sweden.</li>
 <li>Founding organizer of <a href="https://www.meetup.com/Uppsala-Big-Data-Meetup/">Uppsala Big Data Meetup March 2017 - Present</a></li>
 <li><a href="http://www.birs.ca/events/2016/5-day-workshops/16w5099">Interval Analysis and Constructive Mathematics (16w5099) 5-Day-Workshop,Casa Matemática Oaxaca (CMO) in Mexico, November 13-18, 2016</a></li>
 <li>Founding organizer of <a href="http://www.meetup.com/Christchurch-Big-Data-Meetup/">Christchurch Apache Spark (Big Data) Meetup February - August 2016</a></li>

@@ -209,6 +209,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 <li>Genetics, published by The Genetics Society of America</li>
 <li>German-Israeli Foundation for Scientific Research and Development</li>
 <li>IEEE/ACM Transactions on Computational Biology and Bioinformatics</li>
+<li>Journal of American Statistical Association</li>
 <li>Journal of Applied Probability, an international journal published by the Applied Probability Trust</li>
 <li>Journal of Digital Social Research</li>
 <li>Journal of Logic and Analysis, officially sponsored journal of the Association for Symbolic Logic</li>

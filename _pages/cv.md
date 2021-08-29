@@ -102,8 +102,11 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 </ul>
 </li>
 <li>
-<strong>Data Science</strong>
+<strong>Scalable Data Science and Distributed Machine Learning</strong>
 <ul>
+<li>ScaDaMaLe: Scalable Data Science and Distributed Machine Learning, An Open Executible Book. Edited by Raazesh Sainudiin, <a class="linkitem" href="https://lamastex.gitbooks.io/ScaDaMaLe/">https://lamastex.gitbooks.io/ScaDaMaLe/</a>, 2021</li> 
+<li>Detecting Slag Formations with Deep Convolutional Neural Networks, Christian von Koch, William Anzen, Max Fisher and Raazesh Sainudiin, Proceedings of The 43rd DAGM German Conference on Pattern Recognition, September 28 - October 1, 2021, 13 pages (accepted for publication).</li>
+<li>Distributed training and scalability for the particle clustering method UCluster, Olga Sunneborn Gudnadottir, Daniel Gedon, Colin Desmarais, Karl Bengtsson Bernander, Raazesh Sainudiin and Rebeca Gonzalez Suarez, 25t International Conference on Computing in High Energy and Nuclear Physics (CHEP), 2021. (<a class="linkitem" href="http://lamastex.org/preprints/20210604_HighEnergyPhysicsConfProc_DistributedTrainingUCluster.pdf">PDF</a> 313KB)</li>
 <li>Scalable Data Science - 2.2 from Atlantis, Dan Lilja, Raazesh Sainudiin and Tilo Wiklund, Published by GitBook <a class="linkitem" href="https://lamastex.gitbooks.io/sds-2-2/">https://lamastex.gitbooks.io/sds-2-2/</a>, (~1200 pages), 2018.</li>
 <li>Scalable Data Science - 1.x from Middle Earth, Raazesh Sainudiin and Sivanand Sivaram, Published by GitBook <a class="linkitem" href="https://www.gitbook.com/book/lamastex/scalable-data-science/details">https://www.gitbook.com/book/lamastex/scalable-data-science/details</a>, 791 pages, 24th July 2017.</li>
 </ul>

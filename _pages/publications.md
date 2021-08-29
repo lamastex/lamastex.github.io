@@ -70,7 +70,7 @@ Please see [CV](/cv/) for a field-specific picture.
 </ol>
 
 # Conference Proceedings
-<ol reversed="" start="20">
+<ol reversed="" start="19">
 <li>Detecting Slag Formations with Deep Convolutional Neural Networks, Christian von Koch, William Anzen, Max Fisher and Raazesh Sainudiin, Proceedings of The 43rd DAGM German Conference on Pattern Recognition, September 28 - October 1, 2021, 13 pages (accepted for publication).</li>
 <li>Distributed training and scalability for the particle clustering method UCluster, Olga Sunneborn Gudnadottir, Daniel Gedon, Colin Desmarais, Karl Bengtsson Bernander, Raazesh Sainudiin and Rebeca Gonzalez Suarez, 25t International Conference on Computing in High Energy and Nuclear Physics (CHEP), 2021. (<a class="linkitem" href="http://lamastex.org/preprints/20210604_HighEnergyPhysicsConfProc_DistributedTrainingUCluster.pdf">PDF</a> 313KB)</li>
 <li>Rejecting the Null Hypothesis of Apathetic Retweeting of US Politicians and SPLC-defined Hate Groups in the 2016 US Presidential Election, Raazesh Sainudiin, Kumar Yogeeswaran, Kyle Nash and Rania Sahioun, <a class="linkitem" href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8488381">2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)</a>, Barcelona, Spain, August 28-31, 2018, <a class="linkitem" href="https://doi.org/10.1109/ASONAM.2018.8508555">DOI: 10.1109/ASONAM.2018.8508555</a> (or <a class="linkitem" href="http://lamastex.org/preprints/20180423_NullApatheticRetweetOfUSPolitsHategrps.pdf">PDF</a> 136KB)</li>

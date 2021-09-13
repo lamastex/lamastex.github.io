@@ -32,11 +32,12 @@ Here is a list of student project proposals of current interest.
 It is meant as a guide for a student or a small group of students who are interested in being guided by Raazesh Sainudiin for their individual or group project in a course of study or research at Uppsala University. 
 These projects may help student(s) decide if they would like to do a Bachelor's thesis, Masters thesis (exjobb), or pursue other research and development possibilities with Raazesh Sainudiin at the Department of Mathematics, Uppsala University.
 
-The exact nature and pathway towards a project will depend on your current knowledge and skills and your willingness to acquire them. A *subset* of the following skills is needed for each project. We can make a study pathway specifically for you and the project.
+The exact nature and pathway towards a project will depend on your current knowledge and skills and your willingness to acquire them. A *subset* of the following skills is needed for each project. We can make a self-study pathway specifically for you and the project.
 
 1. **Basic Software Skills:** docker, docker-compose, git, sbt, maven, 
-2. **Programming languages:** Python, Scala, Haskell, C, C++, R, Rust   
-3. **Mathematical and Statistical background:** Probability, Graphs, ML models, etc.
+2. **Programming Languages:** Python, Scala, Haskell, C, C++, R, Rust   
+3. **Mathematical and Statistical Background:** Probability, Graphs, ML models, etc.
+4. **Computing Skills:** distibuted computing, high-performance computing, etc.
 
 ## GDELT Project
 

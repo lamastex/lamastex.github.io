@@ -36,6 +36,8 @@ These projects may help student(s) decide if they would like to do a Bachelor's 
 
 * [Project SAHDE: Scalable Adaptive Histogram Density Estimation](https://lamastex.github.io/scalable-data-science/sds/research/densityEstimation/sahde/)
 
+
+<!--
 # Research Vision and Grants
 
 <html>
@@ -99,7 +101,6 @@ These projects may help student(s) decide if they would like to do a Bachelor's 
   </body>
 </html>
 
-<!--
 
 ## Most Important Contributions to Research & Current Directions
 

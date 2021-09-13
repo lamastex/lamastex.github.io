@@ -52,8 +52,8 @@ The [GDELT project](https://www.gdeltproject.org/) has many possibilities depend
 ## Financial Streams Project
 
 Using multiple time series of financial stock market data, 
-develop further from [trend-calculus](https://github.com/lamastex/spark-trend-calculus) streams of them. The development can be along predictive fronts using appropriate ML models or involve estimators. 
-The general idea would be to detect multivariate signals in trends of financial data. 
+develop further from [trend-calculus](https://github.com/lamastex/spark-trend-calculus) streams of them. The development can be along predictive fronts using appropriate ML models or involve estimators by extending [these examples](https://github.com/lamastex/spark-trend-calculus-examples). 
+The general idea would be to identify recurrent multivariate signals of interest in the trends of historical financial data. 
 
 ## Meme Evolution in Twitterverse Project
 

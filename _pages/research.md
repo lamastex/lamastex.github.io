@@ -49,9 +49,19 @@ The [GDELT project](https://www.gdeltproject.org/) has many possibilities depend
   - **GDELT Interact project:** Develop an interactive UX for an analyst interested in interacting with details of SQL and GQL queries. This project requires experience in full-stack development in a team of 3 to 4 students.
   - Other projects based on the GDELT data.
 
-## Financial Steams Project
+## Financial Streams Project
 
-Using multiple time series of financial data, develop further from trend-calculus streams of them. The development can be along predictive fronts using appropriate ML models.  
+Using multiple time series of financial stock market data, 
+develop further from [trend-calculus](https://github.com/lamastex/spark-trend-calculus) streams of them. The development can be along predictive fronts using appropriate ML models or involve estimators. 
+The general idea would be to detect multivariate signals in trends of financial data. 
+
+## Meme Evolution in Twitterverse Project
+
+Using twitter experiments with [Project MEP](https://github.com/lamastex/mep) there are many posibilities here. The projects can focus purely on the data engineering side involving [terraform.io](https://www.terraform.io/) by extending the infrastructure as code work started [here](https://github.com/lamastex/mep/tree/main/infra/tf), or on analytic and mathematical modeling side comparing the [polarised state of the Swedish political twitterverse](http://lamastex.org/preprints/20190830_PolarisedMEPSverige.pdf) from last Swedish election to a new collection that can be started this Semester.
+
+## Scalable Density Estimators Project
+
+This is project suitable for a student in mathematics with skills in functional programming in a distributed computing architecture (or one who can self-learn such skills). To appreciate the starting point of this advanced project read [this paper](https://arxiv.org/abs/2012.14847) and try out [this Scala Spark library](https://gitlab.com/tilowiklund/distributed-histogram-trees) with a view towards implementing the algorithms in [this paper](http://interval.louisiana.edu/reliable-computing-journal/volume-16/reliable-computing-16-pp-252-282.pdf) using the Scala Spark library.
 
 
 

@@ -15,6 +15,8 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 Research at LaMaStEx is at the interdisciplinary interface of computing, mathematics and statistics. 
 We use computer arithmetic and combinatorial data-structures through custom-built mathematical and statistical models to rigorously solve numerical optimization and simulation problems that arise in statistical decision-making from real-world data.
 
+Current student research projects involve a mixture of skills from mathematics, computer science, statistics, data engineering and data science.
+ 
 ### Details of research: 
 
 * [Curriculum Vitae](/cv/) for a field-specific picture
@@ -91,6 +93,8 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
   </body>
 </html>
 
+<!--
+
 ## Most Important Contributions to Research & Current Directions
 
 ### Mathematical Statistical Combinatorial Stochastic Processes & Data Science
@@ -158,4 +162,4 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
   - Main Applicant (20% rsrch + 1 PhD)
 - 2.9Mkr: Research grant jointly with Blavtnik Interdisciplinary Cyber Research Center, a Telecom Company and Tel Aviv University, Israel *Mobile Phone Data for Society and Privacy for the Individual: From the Conflict to a Synergy in Transport Flows Analysis*
   - Co-PIs with Professors Itzhak Benenson and Itzhak Omer, Porter School of Environment and Geoscience, Faculty of Exact Sciences, Tel Aviv University (10% rsrch + 1 PhD co-supervision)
-
+-->

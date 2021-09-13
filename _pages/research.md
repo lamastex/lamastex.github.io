@@ -18,9 +18,6 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 Research at LaMaStEx is at the interdisciplinary interface of computing, mathematics and statistics. 
 We use computer arithmetic and combinatorial data-structures through custom-built mathematical and statistical models to rigorously solve numerical optimization and simulation problems that arise in statistical decision-making from real-world data.
 
-Current student research projects involve a mixture of skills from mathematics, computer science, statistics, data engineering and data science.
- 
-
 * [Curriculum Vitae](/cv/) for a field-specific picture
 * [The full list of peer-reviewed publications](/publications/)
 * [Research students supervised at LaMaStEx](/students/)
@@ -28,9 +25,12 @@ Current student research projects involve a mixture of skills from mathematics, 
 
 # Student Projects
 
-Here is a list of proposals for student projects. 
+Current student research projects involve a mixture of skills from mathematics, computer science, statistics, data engineering and data science.
+Therefore, finding a suitable project of mutual interest given the acquirable skillset requires some discussions. 
 
-It is meant as a guide for a student or a small group of students who are interested in being guided by Raazesh Sainudiin for their individual or group project in a course at Uppsala University. These projects can help student(s) decide if they would like to do a Bachelor's thesis, Masters thesis (exjobb), or pursue other research and development possibilities with Raazesh Sainudiin at Department of Mathematics at Uppsala University.
+Here is a list of student project proposals of current interest.
+It is meant as a guide for a student or a small group of students who are interested in being guided by Raazesh Sainudiin for their individual or group project in a course of study or research at Uppsala University. 
+These projects may help student(s) decide if they would like to do a Bachelor's thesis, Masters thesis (exjobb), or pursue other research and development possibilities with Raazesh Sainudiin at the Department of Mathematics, Uppsala University.
 
 * [Project MEP: Meme Evolution Programme](https://lamastex.github.io/scalable-data-science/sds/research/mep/)
 

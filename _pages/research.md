@@ -32,12 +32,35 @@ Here is a list of student project proposals of current interest.
 It is meant as a guide for a student or a small group of students who are interested in being guided by Raazesh Sainudiin for their individual or group project in a course of study or research at Uppsala University. 
 These projects may help student(s) decide if they would like to do a Bachelor's thesis, Masters thesis (exjobb), or pursue other research and development possibilities with Raazesh Sainudiin at the Department of Mathematics, Uppsala University.
 
+The exact nature and pathway towards a project will depend on your current knowledge and skills and your willingness to acquire them. A *subset* of the following skills is needed for each project. We can make a study pathway specifically for you and the project.
+
+1. **Basic Software Skills:** docker, docker-compose, git, sbt, maven, 
+2. **Programming languages:** Python, Scala, Haskell, C, C++, R, Rust   
+3. **Mathematical and Statistical background:** Probability, Graphs, ML models, etc.
+
+## GDELT Project
+
+The [GDELT project](https://www.gdeltproject.org/) has many possibilities depending on your interests and abilities.
+
+- Applied Digital Humanities: Learn basic SQL and GQL to be able to work in a delta lake house with GDELT data with the aim of providing useful insights to researchers in [digital humanities](https://www.abm.uu.se/cdhu-eng). See the following libraries to appreciate some of the possibilities:
+  - First familiarize with [spark-gdelt](https://github.com/lamastex/spark-gdelt) and see some [example analytics](https://github.com/lamastex/spark-gdelt-examples).
+  - **GDELT PSL project:** Learn [PSL](https://psl.linqs.org/) and apply it to GDELT data extract.
+  - **GDELT GQL project:** Learn Graph Query Language and apply it to GDELT data to provide insights for digital humanities researchers (may want to work closely with such researchers).
+  - **GDELT Interact project:** Develop an interactive UX for an analyst interested in interacting with details of SQL and GQL queries. This project requires experience in full-stack development in a team of 3 to 4 students.
+  - Other projects based on the GDELT data.
+
+## Financial Steams Project
+
+Using multiple time series of financial data, develop further from trend-calculus streams of them. The development can be along predictive fronts using appropriate ML models.  
+
+
+
+<!--
 * [Project MEP: Meme Evolution Programme](https://lamastex.github.io/scalable-data-science/sds/research/mep/)
 
 * [Project SAHDE: Scalable Adaptive Histogram Density Estimation](https://lamastex.github.io/scalable-data-science/sds/research/densityEstimation/sahde/)
 
 
-<!--
 # Research Vision and Grants
 
 <html>

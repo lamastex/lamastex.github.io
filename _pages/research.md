@@ -34,10 +34,10 @@ These projects may help student(s) decide if they would like to do a Bachelor's 
 
 The exact nature and pathway towards a project will depend on your current knowledge and skills and your willingness to acquire them. A *subset* of the following skills is needed for each project. We can make a self-study pathway specifically for you and the project.
 
-1. **Basic Software Skills:** docker, docker-compose, git, sbt, maven, 
-2. **Programming Languages:** Python, Scala, Haskell, C, C++, R, Rust   
-3. **Mathematical and Statistical Background:** Probability, Graphs, ML models, etc.
-4. **Computing Skills:** distibuted computing, high-performance computing, etc.
+1. **Software Skills:** docker, docker-compose, git, sbt, maven, c/g/make, etc.
+2. **Programming Languages:** Python, Scala, Haskell, C, C++, R, Rust, Javascript,   
+3. **Mathematical and Statistical Background:** Probability, Graphs, Algebra, Analysis, Optimization, ML models, etc.
+4. **Computing Skills:** system administration, distibuted computing, high-performance computing, etc.
 
 ## GDELT Project
 

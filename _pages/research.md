@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Research
+title: Research and Available Student Projects
 permalink: /research/
 author_profile: true
 sidebar:
@@ -23,7 +23,7 @@ We use computer arithmetic and combinatorial data-structures through custom-buil
 * [Research students supervised at LaMaStEx](/students/)
 * [Mathematical Statistical Software](/software/)
 
-# Student Projects
+# Available Student Projects
 
 Current student research projects involve a mixture of skills from mathematics, computer science, statistics, data engineering and data science.
 Therefore, finding a suitable project of mutual interest given the acquirable skillset requires some discussions. 
@@ -69,7 +69,13 @@ Using twitter experiments with [Project MEP](https://github.com/lamastex/mep) th
 
 This project is suitable for a student of mathematics with skills in functional programming over a distributed computing architecture (or one who can self-learn such skills). To appreciate the starting point of this advanced project read [this paper](https://arxiv.org/abs/2012.14847) and try out [this Scala Spark library](https://gitlab.com/tilowiklund/distributed-histogram-trees) with a view towards implementing the algorithms in [this paper](http://interval.louisiana.edu/reliable-computing-journal/volume-16/reliable-computing-16-pp-252-282.pdf) using the Scala Spark library.
 
+## Notebook-Format-Agnostic Data Engineering Science Project
 
+This is for a small group of 2-4 engineering students who collectively have skills spanning Haskell to be able to use [pinot](https://gitlab.com/tilowiklund/pinot/), docker-compose or Kubernetes to provision [Apache Spark](https://spark.apache.org/) clusters in its modern ecosystem with [zeppelin](https://zeppelin.apache.org/) and [jupyter](https://jupyterhub.readthedocs.io/en/stable/index.html) notebooks servers. The objective of this project is to allow for *notebook-format-agnostic* data science and analytics. Cloud computing across onpremise and public clouds is a pre-requiste.
+
+## Other Projects
+
+There are several other project possibilities. However, this depends on current research interests and coming up with a reasonable plan. Please go through [Selected Publications by Field](https://lamastex.github.io/cv/#selected-publications-by-field) to propose other project ideas spanning across population genetics, computer-aided proofs, mobility science, etc.
 
 <!--
 * [Project MEP: Meme Evolution Programme](https://lamastex.github.io/scalable-data-science/sds/research/mep/)

@@ -58,7 +58,12 @@ The general idea would be to identify recurrent multivariate signals of interest
 
 ## Meme Evolution in Twitterverse Project
 
-Using twitter experiments with [Project MEP](https://github.com/lamastex/mep) there are many posibilities here. The projects can focus purely on the data engineering side involving [terraform.io](https://www.terraform.io/) by extending the infrastructure as code work started [here](https://github.com/lamastex/mep/tree/main/infra/tf), or on analytic and mathematical modeling side comparing the [polarised state of the Swedish political twitterverse](http://lamastex.org/preprints/20190830_PolarisedMEPSverige.pdf) from last Swedish election to a new collection that can be started this Semester.
+Using twitter experiments with [Project MEP](https://github.com/lamastex/mep) there are many posibilities here. The projects can focus 
+
+- purely on the data engineering side involving [terraform.io](https://www.terraform.io/) by extending the infrastructure as code work started [here](https://github.com/lamastex/mep/tree/main/infra/tf), or 
+- on analytic and mathematical modeling side comparing the [polarised state of the Swedish political twitterverse](http://lamastex.org/preprints/20190830_PolarisedMEPSverige.pdf) from last Swedish election to a new collection that can be started this Semester, or
+- refine and extend the interactive visual investigations developed in [twitterVisualizations](https://github.com/lamastex/twitterVisualizations) or 
+- extend distributed algorithms to characterize the evolution of ideological networks in the Twitterverse (see [this statistical application](https://doi.org/10.1007/s13278-019-0567-9) for example).
 
 ## Scalable Density Estimators Project
 

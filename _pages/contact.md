@@ -27,8 +27,11 @@ Sweden
 
 See below to find out when I am busy or not before you pop-by my Office (mainly for Uppsala University students who are under my research supervision or are learning a course that I am currently teaching).
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FParis&title=Raaz's%20Academic%20%26%20Industrial%20Calendar&src=cmFhemVzaC5zYWludWRpaW5AZ21haWwuY29t&src=ZW4uc3dlZGlzaCNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=MG9qZjZhYTZydm1la25nNmdkMm1icWdxbWFvcGpxdDZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=aXB0bjI5cmxxODJxZGpwbnNzYzVjY3Bta3FsdXExbnJAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=cmFhemVzaC5zYWludWRpaW5AY29tYmllbnQuY29t&color=%23616161&color=%2333B679&color=%23C0CA33&color=%23039BE5&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FParis&title=Raaz's%20Academic%20%26%20Industrial%20Calendar&src=cmFhemVzaC5zYWludWRpaW5AZ21haWwuY29t&src=ZW4uc3dlZGlzaCNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=cmFhemVzaC5zYWludWRpaW5AY29tYmllbnQuY29t&src=cmFhemVzaC5zYWludWRpaW5Ac2Vuc21ldHJ5LmNvbQ&color=%23616161&color=%23C0CA33&color=%239E69AF&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 <!--
-need to give com g-cal permissions to be able to embed academic into it... and have to add the final course timetables as static ical downloaded from time-edit and uploaded to academic g-cal...
+- need to give com g-cal permissions (make availabe to public 'see only free/busy'; share with specific people: raaz's gmail.com with 'see only free/busy') to be able to embed into academic Xim calendar and then here... 
+- have to add the final course timetables as static ical downloaded from time-edit and uploaded to academic Raaz's Xim Calendar in g-cal
+- keep the live subscription to timeedit in the calendar but do not embed it as this does not have the option to 'make availabe to public with 'see only free/busy', but still important in case schedule changes...
 -->
 

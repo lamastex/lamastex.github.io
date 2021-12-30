@@ -220,6 +220,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 <li>Mathematical Reviews (American Mathematical Society)</li>
 <li>Molecular Biology and Evolution, journal of the Society for Molecular Biology and Evolution</li>
 <li>PLOS Genetics, a journal of the Public Library of Science</li>
+<li>Theoretical Population Biology</li>
 </ul></li>
 <li>Organizer of the following events:
 <ul>

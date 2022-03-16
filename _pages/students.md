@@ -49,7 +49,11 @@ Current Students
 
 ### PhD Students
 
-Currently there are no PhD students as primary supervisees.
+- Currently there are no PhD students as primary supervisees.
+- Co-advised PhD Students:
+  - Olga Sunneborn Gudnadottir, CIM PhD Student, Uppsala University
+  - Albin Toft, WASP PhD Student, KTH
+  - Yasmin Tousinejad, WASP PhD Student, Uppsala University
 
 ### Masters Students
 
@@ -72,8 +76,8 @@ Former Students
 
 ### At Uppsala University, Uppsala, SE
 <ol reversed="" start="19">
-<li>2020, Masters in Applied Mathematics and Statistics, Kieran Barber - (Senior Supervisor)</li>
-<li>2020, Masters in Applied Mathematics and Statistics, Christoffer Långström - (Senior Supervisor) - Privacy Protecting Data Science: Models With Integrated Privacy Protection and GDPR Compliant Learning - thesis TBD - <a href="http://lamastex.org/talks/ChristofferLangstromMScThesisTalkUppsalaUniv2020.pdf">talk</a>.</li>
+<li>2022, Masters in Applied Mathematics and Statistics, Kieran Barber - (Senior Supervisor) - <a href="http://www.diva-portal.se/smash/record.jsf?pid=diva2:1630497">thesis</a>, <a href="https://github.com/lamastex/TDAOnABrainNetwork">code</a></li>
+<li>2020, Masters in Applied Mathematics and Statistics, Christoffer Långström - (Senior Supervisor) - Privacy In Data Science: Statistical Models with Integrated Privacy Protection and GDPR Compliant Learning - <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-465799">thesis</a>, <a href="http://lamastex.org/talks/ChristofferLangstromMScThesisTalkUppsalaUniv2020.pdf">talk</a>.</li>
 <!-- <li>2020, Masters in Applied Mathematics and Statistics, Tian Yu Liu - (Senior Supervisor)</li> -->
 <li>2019, Masters in Information Technology (Civilingenjör i IT), Kasper Ramström - (Senior Supervisor) - <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-393285">Botnet detection on flow data using the reconstruction error from Autoencoders trained on Word2Vec network embeddings</a>.</li>
 <li>2019, Masters in Mathematics, Joel Dahne - (Senior Supervisor) - <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-463521">Privacy and Analysis of Trajectories and Co-Trajectories</a> <a href="http://lamastex.org/preprints/JoelDahneMScThesisUppsalaUniv2019.pdf">thesis preprint (1.9MB)</a> and <a href="http://lamastex.org/talks/JoelDahneMScThesisTalkUppsalaUniv2019.pdf">talk (5.7MB)</a></li>

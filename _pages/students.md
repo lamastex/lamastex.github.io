@@ -57,7 +57,7 @@ Current Students
 
 ### Masters Students
 
-<ol reversed="" start="24">
+<ol reversed="" start="27">
 
 <li>2022, Masters in Data Science (Data Engineering Track), Suparerk Angkawattanawit  - (Senior Supervisor)</li>
 <li>2022, Masters in Data Science (Statistics and ML Track), Virginia Jimenez Mohedano - (Senior Supervisor)</li>

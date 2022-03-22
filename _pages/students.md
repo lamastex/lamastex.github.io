@@ -65,7 +65,7 @@ Current Students
 <li>2022, Masters in Information Technology (Civilingenjör i IT), Mattias Minuer - (Senior Supervisor)</li>
 <li>2022, Masters in Information Technology (Civilingenjör i IT), Ammar Aldahiani  - (Senior Supervisor)</li>
 <li>2022, Masters in Applied Mathematics and Statistics, Johannes Graner - (Senior Supervisor)</li>
-<li>2022, Masters in Applied Mathematics and Statistics, Liyuan Zhang - (Senior Supervisor), <a href="xx">video</a></li>
+<li>2022, Masters in Applied Mathematics and Statistics, Liyuan Zhang - (Senior Supervisor), Distributed Trajectories under Mobile Phone Network, <a href="https://youtu.be/kit38eckzkE">video</a></li>
 <li>2022, Masters in Applied Mathematics and Statistics, Alfred Lindström - (Senior Supervisor), <a href="https://youtu.be/REC1G-NB14I">video</a></li>
 <li>2020, Masters in Applied Mathematics and Statistics, Amelia Andersdotter - (Senior Supervisor)</li>
 <li>2020, Masters in Applied Mathematics and Statistics, Jimmy Norqvist - (Senior Supervisor)</li>
@@ -77,7 +77,7 @@ Former Students
 
 ### At Uppsala University, Uppsala, SE
 <ol reversed="" start="19">
-<li>2022, Masters in Applied Mathematics and Statistics, Kieran Barber - (Senior Supervisor) - <a href="http://www.diva-portal.se/smash/record.jsf?pid=diva2:1630497">thesis</a>, <a href="https://github.com/lamastex/TDAOnABrainNetwork">code</a>, <a href="https://youtu.be/FKdERJBTmIw">video</a></li>
+<li>2022, Masters in Applied Mathematics and Statistics, Kieran Barber - (Senior Supervisor) - Random Graph Models of a neocortical column in a rat's brain and their topological statistical distributions, <a href="http://www.diva-portal.se/smash/record.jsf?pid=diva2:1630497">thesis</a>, <a href="https://github.com/lamastex/TDAOnABrainNetwork">code</a>, <a href="https://youtu.be/FKdERJBTmIw">video</a></li>
 <li>2022, Bachelor's Thesis in Applied Mathematics and Statistics, (Main Supervisor) - Mapped Regular Pavings, <a href="https://youtu.be/nsONa4x6p-o">video</a></li>
 <li>2021, Bachelor's Thesis in Applied Mathematics and Statistics, (Main Supervisor) - Simulating Transmission Processes on Networks <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-453141">thesis</a>, <a href="https://youtu.be/duCn17MK_uU">video</a></li>
 <li>2020, Masters in Applied Mathematics and Statistics, Christoffer Långström - (Senior Supervisor) - Privacy In Data Science: Statistical Models with Integrated Privacy Protection and GDPR Compliant Learning - <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-465799">thesis</a>, <a href="http://lamastex.org/talks/ChristofferLangstromMScThesisTalkUppsalaUniv2020.pdf">talk</a>.</li>

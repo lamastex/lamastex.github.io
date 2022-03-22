@@ -49,11 +49,11 @@ Current Students
 
 ### PhD Students
 
-- Currently there are no PhD students as primary supervisees.
-- Co-advised PhD Students:
-  - Olga Sunneborn Gudnadottir, CIM PhD Student, Uppsala University
-  - Albin Toft, WASP PhD Student, KTH
-  - Yasmin Tousinejad, WASP PhD Student, Uppsala University
+* Currently there are no PhD students as primary supervisees.
+* Co-advised PhD Students
+  * Olga Sunneborn Gudnadottir, CIM PhD Student, Uppsala University
+  * Albin Toft, WASP PhD Student, KTH
+  * Yasmin Tousinejad, WASP PhD Student, Uppsala University
 
 ### Masters Students
 

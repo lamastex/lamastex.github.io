@@ -57,7 +57,7 @@ Current Students
 
 ### Masters Students
 
-<ol reversed="" start="31">
+<ol reversed="" start="33">
 
 <li>2022, Masters in Data Science (Data Engineering Track), Suparerk Angkawattanawit  - (Senior Supervisor)</li>
 <li>2022, Masters in Data Science (Statistics and ML Track), Virginia Jimenez Mohedano - (Senior Supervisor)</li>
@@ -76,7 +76,7 @@ Former Students
 ---------------
 
 ### At Uppsala University, Uppsala, SE
-<ol reversed="" start="21">
+<ol reversed="" start="23">
 <li>2022, Masters in Applied Mathematics and Statistics, Kieran Barber - (Senior Supervisor) - Random Graph Models of a neocortical column in a rat's brain and their topological statistical distributions, <a href="http://www.diva-portal.se/smash/record.jsf?pid=diva2:1630497">thesis</a>, <a href="https://github.com/lamastex/TDAOnABrainNetwork">code</a>, <a href="https://youtu.be/FKdERJBTmIw">video</a></li>
 <li>2022, Bachelor's Thesis in Applied Mathematics and Statistics, (Main Supervisor) - Mapped Regular Pavings, <a href="https://youtu.be/nsONa4x6p-o">video</a></li>
 <li>2021, Bachelor's Thesis in Applied Mathematics and Statistics, (Main Supervisor) - Simulating Transmission Processes on Networks <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-453141">thesis</a>, <a href="https://youtu.be/duCn17MK_uU">video</a></li>

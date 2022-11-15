@@ -64,7 +64,6 @@ Current Students
 YYYY, Masters in XX (ZZ Track), FN LName - (senior Supervisor), TITLE <a href="">thesis</a>, <a href="https://github.com/lamastex/">code</a>, <a href="">video</a>
 -->
 <li>2022, Masters in Information Technology (Civilingenjör i IT), Ammar Aldahiani  - (Senior Supervisor)</li>
-<li>2022, Masters in Applied Mathematics and Statistics, Alfred Lindström - (Senior Supervisor), <a href="https://youtu.be/REC1G-NB14I">video</a></li>
 <li>2020, Masters in Applied Mathematics and Statistics, Amelia Andersdotter - (Senior Supervisor)</li>
 <li>2020, Masters in Applied Mathematics and Statistics, Jimmy Norqvist - (Senior Supervisor)</li>
 </ol>
@@ -74,13 +73,14 @@ Former Students
 ---------------
 
 ### At Uppsala University, Uppsala, SE
-<ol reversed="" start="28">
+<ol reversed="" start="29">
 <li>2022, Masters in Applied Mathematics and Statistics, Johannes Graner - (Senior Supervisor), Scalable Algorithms in Nonparametric Computational Statistics, <a href="">thesis In Diva under progress</a>, <a href="https://github.com/lamastex/SparkDensityTree">code</a>, <a href="https://youtu.be/VFQ7mjbA39o">video</a></li>
 <li>2022, Masters in Applied Mathematics and Statistics, Liyuan Zhang - (Senior Supervisor), Distributed Trajectories under Mobile Phone Network, <a href="">thesis In Diva under progress</a>, <a href="https://github.com/lamastex/mob/tree/master/LiyuanZhangMscThesis">code</a>, <a href="https://youtu.be/kit38eckzkE">video</a></li>
 <li>2022, Masters in Data Science (Statistics and ML Track), Virginia Jimenez Mohedano - (Senior Supervisor) - Estimation of Point Processes on Directed Graphs  <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-483613">thesis</a>, <a href="https://github.com/lamastex/mob/tree/master/VirginiaJimenezMscThesis">code</a>, <a href="https://youtu.be/NuvKJfHEAdU">video</a></li>
 <li>2022, Masters in Data Science (Statistics and ML Track), Stavroula Rafailia Vlachou - (Senior Supervisor) - Simulations of Point Processes on Directed Graphs, <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-483992">thesis</a>, <a href="https://github.com/lamastex/mob/tree/master/StavroulaVlachouMscThesis">code</a>, <a href="https://youtu.be/Qvuc8eKqdKI">video</a></li>
 <li>2022, Masters in Information Technology (Civilingenjör i IT), Mattias Minuer - (Senior Supervisor) - Detecting Dissimilarity in Discourse on Social Media, <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-484416">thesis</a></li>
 <li>2022, Masters in Applied Mathematics and Statistics, Kieran Barber - (Senior Supervisor) - Random Graph Models of a neocortical column in a rat's brain and their topological statistical distributions, <a href="http://www.diva-portal.se/smash/record.jsf?pid=diva2:1630497">thesis</a>, <a href="https://github.com/lamastex/TDAOnABrainNetwork">code</a>, <a href="https://youtu.be/FKdERJBTmIw">video</a></li>
+<li>2021, Masters in Applied Mathematics and Statistics, Alfred Lindström - (Senior Supervisor), Hawkes Processes on Social Media and Mass Media: A Case Study of the Black Lives Matter Movement in the Summer of 2020, <a href="">thesis In Diva under progress</a>, <a href="https://github.com/lamastex/mep">code</a>, <a href="https://youtu.be/REC1G-NB14I">video</a></li>
 <li>2022, Bachelor's Thesis in Applied Mathematics and Statistics, (Main Supervisor) - Mapped Regular Pavings, <a href="https://youtu.be/nsONa4x6p-o">video</a></li>
 <li>2021, Bachelor's Thesis in Applied Mathematics and Statistics, (Main Supervisor) - Simulating Transmission Processes on Networks <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-453141">thesis</a>, <a href="https://youtu.be/duCn17MK_uU">video</a></li>
 <li>2020, Masters in Applied Mathematics and Statistics, Christoffer Långström - (Senior Supervisor) - Privacy In Data Science: Statistical Models with Integrated Privacy Protection and GDPR Compliant Learning - <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-465799">thesis</a>, <a href="http://lamastex.org/talks/ChristofferLangstromMScThesisTalkUppsalaUniv2020.pdf">talk</a>.</li>

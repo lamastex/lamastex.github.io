@@ -59,7 +59,6 @@ Current Students
 
 <ol reversed="" start="33">
 
-<li>2022, Masters in Data Science (Data Engineering Track), Suparerk Angkawattanawit  - (Senior Supervisor)</li>
 <!-- 
 YYYY, Masters in XX (ZZ Track), FN LName - (senior Supervisor), TITLE <a href="">thesis</a>, <a href="https://github.com/lamastex/">code</a>, <a href="">video</a>
 -->
@@ -72,7 +71,8 @@ Former Students
 ---------------
 
 ### At Uppsala University, Uppsala, SE
-<ol reversed="" start="30">
+<ol reversed="" start="31">
+<li>2022, Masters in Data Science (Data Engineering Track), Suparerk Angkawattanawit  - (Senior Supervisor), LOCK-IN FREE: Lock-In Free Research Enablement Environment, <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-491143">thesis</a></li>
 <li>2022, Masters in Information Technology (Civilingenjör i IT), Ammar Aldahiani  - (Senior Supervisor), Big Data Interactive Visualization, <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-488417">thesis</a>, <a href="https://youtu.be/nbJq2UuUxS8">video</a></li>
 <li>2022, Masters in Applied Mathematics and Statistics, Johannes Graner - (Senior Supervisor), Scalable Algorithms in Nonparametric Computational Statistics, <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-488518">thesis</a>, <a href="https://github.com/lamastex/SparkDensityTree">code</a>, <a href="https://youtu.be/VFQ7mjbA39o">video</a></li>
 <li>2022, Masters in Applied Mathematics and Statistics, Liyuan Zhang - (Senior Supervisor), Distributed Trajectories under Mobile Phone Network, <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-488517">thesis</a>, <a href="https://github.com/lamastex/mob/tree/master/LiyuanZhangMscThesis">code</a>, <a href="https://youtu.be/kit38eckzkE">video</a></li>

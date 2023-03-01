@@ -63,7 +63,6 @@ Current Students
 <!-- 
 YYYY, Masters in XX (ZZ Track), FN LName - (senior Supervisor), TITLE <a href="">thesis</a>, <a href="https://github.com/lamastex/">code</a>, <a href="">video</a>
 -->
-<li>2022, Masters in Information Technology (Civilingenjör i IT), Ammar Aldahiani  - (Senior Supervisor)</li>
 <li>2020, Masters in Applied Mathematics and Statistics, Amelia Andersdotter - (Senior Supervisor)</li>
 <li>2020, Masters in Applied Mathematics and Statistics, Jimmy Norqvist - (Senior Supervisor)</li>
 </ol>
@@ -73,7 +72,8 @@ Former Students
 ---------------
 
 ### At Uppsala University, Uppsala, SE
-<ol reversed="" start="29">
+<ol reversed="" start="30">
+<li>2022, Masters in Information Technology (Civilingenjör i IT), Ammar Aldahiani  - (Senior Supervisor), Big Data Interactive Visualization, <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-488417">thesis</a>, <a href="https://youtu.be/nbJq2UuUxS8">video</a></li>
 <li>2022, Masters in Applied Mathematics and Statistics, Johannes Graner - (Senior Supervisor), Scalable Algorithms in Nonparametric Computational Statistics, <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-488518">thesis</a>, <a href="https://github.com/lamastex/SparkDensityTree">code</a>, <a href="https://youtu.be/VFQ7mjbA39o">video</a></li>
 <li>2022, Masters in Applied Mathematics and Statistics, Liyuan Zhang - (Senior Supervisor), Distributed Trajectories under Mobile Phone Network, <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-488517">thesis</a>, <a href="https://github.com/lamastex/mob/tree/master/LiyuanZhangMscThesis">code</a>, <a href="https://youtu.be/kit38eckzkE">video</a></li>
 <li>2022, Masters in Data Science (Statistics and ML Track), Virginia Jimenez Mohedano - (Senior Supervisor) - Estimation of Point Processes on Directed Graphs  <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-483613">thesis</a>, <a href="https://github.com/lamastex/mob/tree/master/VirginiaJimenezMscThesis">code</a>, <a href="https://youtu.be/NuvKJfHEAdU">video</a></li>

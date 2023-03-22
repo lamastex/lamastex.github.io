@@ -57,7 +57,13 @@ Current Students
 
 ### Masters Students under Progress
 
-<ol reversed="" start="33">
+<ol reversed="" start="38">
+
+<li>2023, Masters in Applied Mathematics and Statistics, Axel Sandstedt - (Senior Supervisor), Minimising Communication Costs in a Distributed Density Estimation Algorithm with Universal Performance Guarantees</li>
+<li>2023, Masters in Applied Mathematics and Statistics, Kristofer Torp - (Senior Supervisor),  Scalable Geospatial Trajectory Analysis from Antennae Signals in Time</li>
+<li>2023, Masters in Applied Mathematics and Statistics, Alexander Christiansson - (Senior Supervisor), Nonparametric L1 Regression with Universal Performance Guarantees</li>
+<li>2023, Masters in Data Science (Engineering Track), Oskar Asbrink - (Senior Supervisor), Exjobb thesis with Sensmetry</li>
+<li>2023, Masters in Data Science (Engineering Track), Nicolás Martín Bekier - (Senior Supervisor), Exjobb thesis with trase</li>
 
 <!-- 
 YYYY, Masters in XX (ZZ Track), FN LName - (senior Supervisor), TITLE <a href="">thesis</a>, <a href="https://github.com/lamastex/">code</a>, <a href="">video</a>

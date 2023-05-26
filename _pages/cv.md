@@ -18,6 +18,8 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 </li>
 <li>
 2022: Docent in Applied Mathematics and Statistics, Uppsala University, Uppsala, Sweden
+</li>
+<li>
 2005: Ph.D. in Statistics (under <a href="https://services.math.duke.edu/~rtd/">R Durrett</a>), Cornell University, Ithaca, USA
 </li>
 <li>

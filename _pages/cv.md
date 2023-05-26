@@ -17,6 +17,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 2005-2007: Research Fellow (under <a href="http://www.stats.ox.ac.uk/people/academic_staff/peter_donnelly">P Donnelly</a> and <a href="http://www.stats.ox.ac.uk/people/academic_staff/bob_griffiths">RC Griffiths</a>), University of Oxford, Oxford, UK
 </li>
 <li>
+2022: Docent in Applied Mathematics and Statistics, Uppsala University, Uppsala, Sweden
 2005: Ph.D. in Statistics (under <a href="https://services.math.duke.edu/~rtd/">R Durrett</a>), Cornell University, Ithaca, USA
 </li>
 <li>
@@ -104,6 +105,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 <li>
 <strong>Scalable Data Science and Distributed Machine Learning</strong>
 <ul>
+<li>Hawkes Processes on Social and Mass Media: A Causal Study of the #BlackLivesMatter Movement in the Summer of 2020. Lindström, A., Lindgren, S. and Sainudiin, R., In Proceedings of the 12th International Conference on Data Science, Technology and Applications, DATA 2023 (preprint as <a class="linkitem" href="http://lamastex.org/preprints/DATA2023_BLM.pdf">PDF</a> 825KB)</li>
 <li>ScaDaMaLe: Scalable Data Science and Distributed Machine Learning, An Open Executible Book. Edited by Raazesh Sainudiin, <a class="linkitem" href="https://lamastex.github.io/ScaDaMaLe/">https://lamastex.github.io/ScaDaMaLe/</a>, 2021</li> 
 <li>Detecting Slag Formations with Deep Convolutional Neural Networks, von Koch Christian, Anzén William, Fischer Max, Sainudiin Raazesh. In: Bauckhage C., Gall J., Schwing A. (eds) Pattern Recognition. DAGM GCPR 2021. Lecture Notes in Computer Science, vol 13024. Springer, Cham. <a class="linkitem" href="https://doi.org/10.1007/978-3-030-92659-5_36">https://doi.org/10.1007/978-3-030-92659-5_36</a> (<a class="linkitem" href="http://lamastex.org/preprints/20210909DAGM43rdDetectSlagWithDeepCNNs.pdf">PDF</a> 2378KB, <a class="linkitem" href="https://youtu.be/RJTYk6zcw3c">video</a>).</li>
 <li>Distributed training and scalability for the particle clustering method UCluster, Olga Sunneborn Gudnadottir, Daniel Gedon, Colin Desmarais, Karl Bengtsson Bernander, Raazesh Sainudiin and Rebeca Gonzalez Suarez, Proceedings of the 25t International Conference on Computing in High Energy and Nuclear Physics (CHEP), EPJ Web of Conferences, Volume 251, 2021, Article Number 02054, 8 pages, DOI: <a class="linkitem" href="https://doi.org/10.1051/epjconf/202125102054">doi.org/10.1051/epjconf/202125102054</a>, <a class="linkitem" href="https://arxiv.org/abs/2109.00264">arXiv:2109.00264 [hep-ex]</a></li>

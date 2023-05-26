@@ -14,8 +14,9 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 The full list of publications in peer-reviewed journals, conference proceedings as well as software contributions follows below. 
 Please see [CV](/cv/) for a field-specific picture.
  
-# Journal Articles
-<ol reversed="" start="60">
+# Journal Articles and Full Conference Papers
+<ol reversed="" start="61">
+<li>Hawkes Processes on Social and Mass Media: A Causal Study of the #BlackLivesMatter Movement in the Summer of 2020. Lindström, A., Lindgren, S. and Sainudiin, R., In Proceedings of the 12th International Conference on Data Science, Technology and Applications, DATA 2023 (preprint as <a class="linkitem" href="http://lamastex.org/preprints/DATA2023_BLM.pdf">PDF</a> 825KB)</li>
 <li>Swapping trajectories with a sufficient sanitizer, Julián Salas, David Megías, Vicenç Torra, MarinaToger, Joel Dahne and Raazesh Sainudiin, Pattern Recognition Letters, Vol. 131, 474-480, 2020. <a class="linkitem" href="https://doi.org/10.1016/j.patrec.2020.02.011">https://doi.org/10.1016/j.patrec.2020.02.011</a>.</li>
 <li>Characterizing the Twitter Networks of Prominent Politicians and SPLC-defined Hate Groups in the 2016 US Presidential Election, Raazesh Sainudiin, Kumar Yogeeswaran, Kyle Nash and Rania Sahioun, Social Network Analysis and Mining, 9:34, 2019. <a class="linkitem" href="https://doi.org/10.1007/s13278-019-0567-9">https://doi.org/10.1007/s13278-019-0567-9</a>. (expanded appendices are in <a class="linkitem" href="http://lamastex.org/preprints/2017HateIn2016USAElection.pdf">PDF of Working Paper</a> 816KB)</li>
 <li>Minimum distance histograms with universal performance guarantees, Raazesh Sainudiin and Gloria Teng, Japanese Journal of Statistics and Data Science, 2019. <a class="linkitem" href="https://doi.org/10.1007/s42081-019-00054-y">https://doi.org/10.1007/s42081-019-00054-y</a></li>

@@ -14,10 +14,10 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 # Professional Preparation
 <ol>
 <li>
-2005-2007: Research Fellow (under <a href="http://www.stats.ox.ac.uk/people/academic_staff/peter_donnelly">P Donnelly</a> and <a href="http://www.stats.ox.ac.uk/people/academic_staff/bob_griffiths">RC Griffiths</a>), University of Oxford, Oxford, UK
+2022: Docent in Applied Mathematics and Statistics, Uppsala University, Uppsala, Sweden
 </li>
 <li>
-2022: Docent in Applied Mathematics and Statistics, Uppsala University, Uppsala, Sweden
+2005-2007: Research Fellow (under <a href="http://www.stats.ox.ac.uk/people/academic_staff/peter_donnelly">P Donnelly</a> and <a href="http://www.stats.ox.ac.uk/people/academic_staff/bob_griffiths">RC Griffiths</a>), University of Oxford, Oxford, UK
 </li>
 <li>
 2005: Ph.D. in Statistics (under <a href="https://services.math.duke.edu/~rtd/">R Durrett</a>), Cornell University, Ithaca, USA

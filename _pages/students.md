@@ -22,26 +22,16 @@ interest. Drop by my office for a chat if you are interested. You are
 welcome to send me a statement of purpose, a written research report (if
 available) and CV if you are not in Uppsala, Sweden.
 
-Here is a subset of the following possible PhD topics:
+Here is a subset of the following possible Bachelors/Masters/PhD topics:
 
-1. Mathematical models of meme evolution and their scalable statistical
-    inference from global twitter streams in Apache Spark
-2. Scalable machine-learning and nonparametric methods in Apache Spark
-3. Scalable computer-aided proofs in Apache Spark
-4. Set-valued Mathematics, Applied Interval Analysis
-5. Randomized Set-valued Algorithms
-6. Nonparametric Statistical Methods with Recursively Computable
-   Statistical Information Structures
-7. Mathematical Genetics: Combinatorial Stochastic Processes in
-    Molecular Genetics
-8. Statistical Genetics: Sufficiency and Approximate Sufficiency of
-   Statistical Experiments in Molecular Genetics, Particle Filtering
-   over Partially-Ordered Experiments Graph
-9. Computational Genetics: Computationally Intensive Inference in
-   Molecular Genetics using Approximate Bayesian/Likelihood
-   Computations,
-10. Spatial Stochastic Processes for Image Formation
-11. Rigorous Parameter Estimation for a measurable double pendulum
+1. Living Systems Research and Development - AI for Agroecological Data Engineering Sciences
+2. Geo-Spatial High-resolution Plant Mapping with Video Drones - AI algorithms for individual plant identification and  taxonomic classification
+3. Scalable machine-learning and nonparametric methods in Apache Spark and Ray.io
+4. Scalable computer-aided proofs in Apache Spark and Ray.io
+5. Set-valued Mathematics, Applied Interval Analysis
+6. Mathematical Genetics: Combinatorial Stochastic Processes in Molecular Genetics of Pedigree Processes
+7. Rigorous Parameter Estimation for a measurable double pendulum
+8. Other topics in Living Systems Research by mutual agreement, including projects with joint supervision by other researchers in Life Sciences in Uppsala University or SLU
 
 
 Current Students
@@ -52,7 +42,6 @@ Current Students
 * Currently there are no PhD students as primary supervisees.
 * Co-advised PhD Students
   * Olga Sunneborn Gudnadottir, CIM PhD Student, Uppsala University
-  * Albin Toft, WASP PhD Student, KTH
   * Yasmin Tousinejad, WASP PhD Student, Uppsala University
 
 ### Masters Students under Progress

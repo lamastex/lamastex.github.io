@@ -14,7 +14,7 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 <h1>Selected Research Talks</h1>
 <br>
 <ol reversed="">
-<li>Monday 18, December, 2023, "Scalable Minimum Distance Estimator for L1-Density Estimation with Universal Performance Guarantees", IMS International Conference in Statistics and Data Science(<a class="linkitem" href="http://lamastex.org/talks/20231218_SparkDensityTreeIMSLisbonPortugal.pdf">PDF</a> 6MB)</li>
+<li>Monday 18, December, 2023, "Scalable Minimum Distance Estimator for L1-Density Estimation with Universal Performance Guarantees", IMS International Conference in Statistics and Data Science, Lisbon, Portugal (<a class="linkitem" href="http://lamastex.org/talks/20231218_SparkDensityTreeIMSLisbonPortugal.pdf">PDF</a> 6MB)</li>
 <li>Wednesday November 29 2023, "Statistical Hypothesis Testing and Modelling of Peoples’ Power: A Causal Study of the #BlackLivesMatter Movement via Hawkes Processes on Social and Mass Media", mix-sigs Seminar, mix - a silo company, hybrid event, Uppsala, Sweden (<a class="linkitem" href="http://lamastex.org/talks/20231129UppsalaMixSigsTestingPeoplesPowerBLM.pdf">PDF</a> 708KB)</li>
 <li>Friday October 07 2022, "How are we related to each other? Simple models of our genetic ancestry", Docentship Lecture in Applied Mathematics and Statistics, Department of Mathematics, Uppsala University, Uppsala, Sweden (<a class="linkitem" href="http://lamastex.org/talks/20221007UppsalaDocentLecture.pdf">PDF</a> 4.7MB)</li>
 <li>Friday October 8 2021, "Experiments with Mass Media Metadata: Examples from the GDELT Project", Urban Lab Seminar, IBF, Uppsala University, Uppsala, Sweden (<a class="linkitem" href="http://lamastex.org/talks/20211008GDELTforResearchers.pdf">PDF</a> 2.9MB)</li>

@@ -48,10 +48,6 @@ Current Students
 
 <ol reversed="" start="38">
 
-<li>2023, Masters in Data Science (Engineering Track), Oskar Asbrink - (Senior Supervisor), Update Commander: A Library for Incremental Historical Updates for Complex Data, Exjobb thesis with Sensmetry, <a href="https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-518422">thesis</a>, <a href="https://youtu.be/WxyvxzllFyQ">video</a></li>
-<li>2023, Masters in Data Science (Engineering Track), Nicolás Martín Bekier - (Senior Supervisor), Lakehouse Architecture for Simplifying Data Science Pipelines: Using trase.earth as a Case Study, Exjobb thesis with trase, <a href="https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-518413">thesis</a>, <a href="https://youtu.be/1REs0As6sEw">video</a></li>
-<li>2023, Masters in Applied Mathematics and Statistics, Axel Sandstedt - (Senior Supervisor), Scalable Nonparametric L1 Density Estimation via Sparse Subtree Partitioning, <a href="https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-512936">thesis</a>, <a href="https://github.com/lamastex/SparkDensityTree">code</a>, <a href="https://youtu.be/CDprq3_ZM_g">video</a></li>
-<li>2023, Masters in Applied Mathematics and Statistics, Kristofer Torp - (Senior Supervisor), Large Scale Mobility Patterns from Co-Trajectories of Mobile Phone Network Data using L1 and Weighted Jaccard Distance Measures, <a href="https://youtu.be/ykjjmnsCfms">video</a></li>
 
 <!-- 
 YYYY, Masters in XX (ZZ Track), FN LName - (senior Supervisor), TITLE <a href="">thesis</a>, <a href="https://github.com/lamastex/">code</a>, <a href="">video</a>
@@ -66,7 +62,11 @@ Former Students
 ---------------
 
 ### At Uppsala University, Uppsala, SE
-<ol reversed="" start="31">
+<ol reversed="" start="35">
+<li>2023, Masters in Data Science (Engineering Track), Oskar  Åsbrink - (Senior Supervisor), Update Commander: A Library for Incremental Historical Updates for Complex Data, Exjobb thesis with Sensmetry, <a href="https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-518422">thesis</a>, <a href="https://youtu.be/WxyvxzllFyQ">video</a></li>
+<li>2023, Masters in Data Science (Engineering Track), Nicolás Martín Bekier - (Senior Supervisor), Lakehouse Architecture for Simplifying Data Science Pipelines: Using trase.earth as a Case Study, Exjobb thesis with trase, <a href="https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-518413">thesis</a>, <a href="https://youtu.be/1REs0As6sEw">video</a></li>
+<li>2023, Masters in Applied Mathematics and Statistics, Axel Sandstedt - (Senior Supervisor), Scalable Nonparametric L1 Density Estimation via Sparse Subtree Partitioning, <a href="https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-512936">thesis</a>, <a href="https://github.com/lamastex/SparkDensityTree">code</a>, <a href="https://youtu.be/CDprq3_ZM_g">video</a></li>
+<li>2023, Masters in Applied Mathematics and Statistics, Kristofer Torp - (Senior Supervisor), Large Scale Mobility Patterns from Co-Trajectories of Mobile Phone Network Data using L1 and Weighted Jaccard Distance Measures, <a href="https://youtu.be/ykjjmnsCfms">video</a></li>
 <li>2022, Masters in Data Science (Data Engineering Track), Suparerk Angkawattanawit  - (Senior Supervisor), LOCK-IN FREE: Lock-In Free Research Enablement Environment, <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-491143">thesis</a></li>
 <li>2022, Masters in Information Technology (Civilingenjör i IT), Ammar Aldahiani  - (Senior Supervisor), Big Data Interactive Visualization, <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-488417">thesis</a>, <a href="https://youtu.be/nbJq2UuUxS8">video</a></li>
 <li>2022, Masters in Applied Mathematics and Statistics, Johannes Graner - (Senior Supervisor), Scalable Algorithms in Nonparametric Computational Statistics, <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-488518">thesis</a>, <a href="https://github.com/lamastex/SparkDensityTree">code</a>, <a href="https://youtu.be/VFQ7mjbA39o">video</a></li>

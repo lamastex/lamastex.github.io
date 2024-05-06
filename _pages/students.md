@@ -51,7 +51,7 @@ Current Students
 <li>2023, Masters in Data Science (Engineering Track), Oskar Asbrink - (Senior Supervisor), Update Commander: A Library for Incremental Historical Updates for Complex Data, Exjobb thesis with Sensmetry, <a href="https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-518422">thesis</a>, <a href="https://youtu.be/WxyvxzllFyQ">video</a></li>
 <li>2023, Masters in Data Science (Engineering Track), Nicolás Martín Bekier - (Senior Supervisor), Lakehouse Architecture for Simplifying Data Science Pipelines: Using trase.earth as a Case Study, Exjobb thesis with trase, <a href="https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-518413">thesis</a>, <a href="https://youtu.be/1REs0As6sEw">video</a></li>
 <li>2023, Masters in Applied Mathematics and Statistics, Axel Sandstedt - (Senior Supervisor), Scalable Nonparametric L1 Density Estimation via Sparse Subtree Partitioning, <a href="https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-512936">thesis</a>, <a href="https://github.com/lamastex/SparkDensityTree">code</a>, <a href="https://youtu.be/CDprq3_ZM_g">video</a></li>
-<li>2023, Masters in Applied Mathematics and Statistics, Kristofer Torp - (Senior Supervisor),  Scalable Geospatial Trajectory Analysis from Antennae Signals in Time</li>
+<li>2023, Masters in Applied Mathematics and Statistics, Kristofer Torp - (Senior Supervisor), Large Scale Mobility Patterns from Co-Trajectories of Mobile Phone Network Data using L1 and Weighted Jaccard Distance Measures, <a href="https://youtu.be/ykjjmnsCfms">video</a></li>
 
 <!-- 
 YYYY, Masters in XX (ZZ Track), FN LName - (senior Supervisor), TITLE <a href="">thesis</a>, <a href="https://github.com/lamastex/">code</a>, <a href="">video</a>

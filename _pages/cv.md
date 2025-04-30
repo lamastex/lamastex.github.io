@@ -33,8 +33,13 @@ excerpt: 'At the interface of computing, mathematics and statistics.<br /><br />
 # Appointments and Awards
 
 <ol>
-<li>2019 Jan - : Associate Professor (Universitetslektor) of Mathematics with specialization in Data Science, <a href="http://www.math.uu.se/">Department of Mathematics</a>, <a href="http://www.uu.se/">Uppsala University</a>, Uppsala, Sweden</li>
-<li>2020 Feb - : Senior Researcher, Data Scientist, <a href="https://combient.com">Combient Mix AB</a>, Stockholm, Sweden</li>
+<li>2019 Aug - Present: Chief Executive Officer, Director and Co-founder, VakeWorks AB and VakeWorks India Private Limited, <a href="https://vake.works">VakeWorks</a>, Torpshammar, Sweden and Chennai, India.</li>
+<li>2019 Feb - Present: <a href="https://wasp-sweden.org/">WASP - Wallenberg AI, Autonomous Systems and Software Program</a>'s PhD Graduate School Instructor, Torpshammar, Sweden.</li>
+<li>2023 Jun - Present: Farmer (lantbrukare), Miðgarðr, Gim 248, Ljungan Systems Field Station and Gene Bank for the Swedish Heritage Breed of Pigs (linderödssvin), Torpshammar, Sweden.</li>
+<li>2024 Apr - 2024 Aug: Farm Apprentice, Forest-Grazing Dairy Herd of Gudrun and Eva, Lövåsen, Torpshammar, Sweden.</li>
+<li>2021 Sep - 2024 Aug: Advisor, Mathematical Data Engineering Sciences, Sensmetry UAB, Vilnius, Lithuania.</li>
+<li>2019 Jan - 2025 Jan: Associate Professor (Universitetslektor) of Mathematics with specialization in Data Science, <a href="http://www.math.uu.se/">Department of Mathematics</a>, <a href="http://www.uu.se/">Uppsala University</a>, Uppsala, Sweden</li>
+<li>2020 Feb - 2024 May: Senior Researcher, Data Scientist; Director, Technical Strategy and Research; Researching, Developing and Enabling Chair, Mathematical Data Engineering Sciences; Advisor, Mathematical Engineering Sciences, Combient Mix AB, Stockholm, Sweden</li>
 <li>2019 Jan - 2020 Feb: Principal Data Scientist, <a href="https://combient.com">Combient AB</a>, Stockholm, Sweden and Founding Coordinator of <strong>C<sup>3</sup>&delta;&epsilon;&Sigma;</strong>, Combient Competence Centre for Data Engineering Sciences, Department of Mathematics, Uppsala University, Uppsala, Sweden.</li>
 <li>2019-2020: Principal investigator on research project titled <a href="https://icrc.tau.ac.il/research/mobilephonedata"><i>Mobile Phone Data for Society and Privacy for the Individual: From the Conflict to a Synergy in Transport Flows Analysis</i></a>, Research Center for Cyber Security at Tel Aviv University established by the State of Israel, the Prime Minister's Office and Tel-Aviv University</li>
 <li>2017 Jan - 2018 Dec: <a href="http://katalog.uu.se/profile/?id=N17-214">Researcher in Applied Mathematics and Statistics</a>, <a href="http://www.math.uu.se/">Department of Mathematics</a>, <a href="http://www.uu.se/">Uppsala University</a>, Uppsala, Sweden</li>
